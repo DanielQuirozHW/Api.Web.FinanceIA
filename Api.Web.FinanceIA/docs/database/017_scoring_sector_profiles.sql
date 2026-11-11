@@ -1,0 +1,34 @@
+-- ============================================================================
+-- 017 — Sector Threshold Profiles (Feature 5b)
+-- ============================================================================
+-- Date   : 2026-06-05
+-- Author : Claude Code (Opus 4.6)
+--
+-- No DDL changes required.
+-- The existing [dbo].[ScoringConfig] table already supports sector profiles
+-- via the ConfigKey naming convention:
+--
+--   Base key:    threshold_liquidez_corriente_ok
+--   Sector key:  threshold_liquidez_corriente_ok__sector__Industria
+--
+-- The suffix format is: __sector__{CanonicalSectorName}
+-- Known sectors: General, Industria, Agro, Servicios, Construccion, Comercio
+--
+-- "General" never has a suffix — it uses the base keys (existing behavior).
+-- When no sector-specific row exists for a key, the engine falls back to the
+-- base (General) value, preserving backward compatibility.
+--
+-- Longest possible key: threshold_cobertura_intereses_danger__sector__Construccion
+-- = 58 characters, within NVARCHAR(100) limit.
+-- ============================================================================
+
+-- Example seed data (uncomment and adjust TenantId to apply):
+--
+-- INSERT INTO [dbo].[ScoringConfig] (ConfigId, TenantId, ConfigKey, ConfigValue, Description, UpdatedAt)
+-- VALUES
+--   (NEWID(), 'SgrOneClickSandboxFB2', 'threshold_liquidez_corriente_ok__sector__Industria',     1.80, 'Current ratio — OK threshold (higher is better) — sector Industria',     GETUTCDATE()),
+--   (NEWID(), 'SgrOneClickSandboxFB2', 'threshold_liquidez_corriente_warn__sector__Industria',   1.20, 'Current ratio — warning threshold — sector Industria',                     GETUTCDATE()),
+--   (NEWID(), 'SgrOneClickSandboxFB2', 'threshold_liquidez_corriente_danger__sector__Industria', 0.80, 'Current ratio — danger threshold — sector Industria',                      GETUTCDATE()),
+--   (NEWID(), 'SgrOneClickSandboxFB2', 'threshold_liquidez_corriente_ok__sector__Servicios',     1.20, 'Current ratio — OK threshold (higher is better) — sector Servicios',       GETUTCDATE()),
+--   (NEWID(), 'SgrOneClickSandboxFB2', 'threshold_liquidez_corriente_warn__sector__Servicios',   0.90, 'Current ratio — warning threshold — sector Servicios',                     GETUTCDATE()),
+--   (NEWID(), 'SgrOneClickSandboxFB2', 'threshold_liquidez_corriente_danger__sector__Servicios', 0.60, 'Current ratio — danger threshold — sector Servicios',                      GETUTCDATE());

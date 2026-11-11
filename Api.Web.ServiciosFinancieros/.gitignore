@@ -1,0 +1,41 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.userprefs
+
+# Secrets & credentials
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+**/secrets.json
+
+# Environment
+.env
+.env.*
+ENCRYPTION_MASTER_KEY
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Claude local settings (never commit)
+.claude/settings.local.json
+
+# Prompt files (development only)
+prompt.md

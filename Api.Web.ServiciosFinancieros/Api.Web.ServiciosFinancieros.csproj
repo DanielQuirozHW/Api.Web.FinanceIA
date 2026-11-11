@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aee6fff7-a73a-41a0-b23a-26c99e4999b2</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FirebaseAdmin" Version="3.5.0" />
+    <PackageReference Include="Google.Cloud.Firestore" Version="3.10.0" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.25" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.14">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="10.0.5" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.83.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Clases\Exceptions\" />
+    <Folder Include="Claude\hooks\" />
+    <Folder Include="Claude\commands\" />
+    <Folder Include="Claude\skills\" />
+    <Folder Include="Data\Configurations\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="docs\guides\" />
+    <Folder Include="docs\decisions\" />
+    <Folder Include="Servicios\" />
+  </ItemGroup>
+
+</Project>

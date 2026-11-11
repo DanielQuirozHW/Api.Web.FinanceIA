@@ -1,0 +1,4610 @@
+{
+  ".claude/hooks/block-ef-migrations.sh": {
+    "mtime": 1788182155.6698103,
+    "seen": 1788704699.4421308,
+    "ast_hash": "11da1ea3fa2ea7899049e1ca46e7f533",
+    "semantic_hash": "11da1ea3fa2ea7899049e1ca46e7f533"
+  },
+  ".claude/hooks/block-migration-writes.sh": {
+    "mtime": 1788182155.6703513,
+    "seen": 1788704699.4421349,
+    "ast_hash": "86e7c206bed0c6fe65e463d35937f609",
+    "semantic_hash": "86e7c206bed0c6fe65e463d35937f609"
+  },
+  ".claude/settings.json": {
+    "mtime": 1788703537.9205081,
+    "seen": 1788704699.4421368,
+    "ast_hash": "204f709e31ce0b05b06b7cfb5a7756ca",
+    "semantic_hash": "204f709e31ce0b05b06b7cfb5a7756ca"
+  },
+  "Api.Web.FinanceIA.Tests/Api.Web.FinanceIA.Tests.csproj": {
+    "mtime": 1788182155.6863513,
+    "seen": 1788704699.4421384,
+    "ast_hash": "3efde9a5dfa42992c084e3e778488231",
+    "semantic_hash": "3efde9a5dfa42992c084e3e778488231"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/AuditLogQueryServiceLookupScopeTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.4421396,
+    "ast_hash": "f69ab9082fbabebbca994386381d62a4",
+    "semantic_hash": "f69ab9082fbabebbca994386381d62a4"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/BillingAlertServiceTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.4421413,
+    "ast_hash": "8a9cc29043636171a98b6aed675e7901",
+    "semantic_hash": "8a9cc29043636171a98b6aed675e7901"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/BillingQuotaFilterTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.4421427,
+    "ast_hash": "fee8f3e1245ea4e5f05b3b6db49b75d1",
+    "semantic_hash": "fee8f3e1245ea4e5f05b3b6db49b75d1"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/BillingUsageServiceTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.442152,
+    "ast_hash": "0fa5d762d143cf93d7f22e54eb3e2de9",
+    "semantic_hash": "0fa5d762d143cf93d7f22e54eb3e2de9"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/GlobalExceptionHandlerSourceTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.4421537,
+    "ast_hash": "b92ed836d9586e309d2d46a37f62b64a",
+    "semantic_hash": "b92ed836d9586e309d2d46a37f62b64a"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/LocalDocumentStorageServiceTests.cs": {
+    "mtime": 1788182155.6932175,
+    "seen": 1788704699.4421546,
+    "ast_hash": "684d479c1443b4d29d491fd64dcb00f7",
+    "semantic_hash": "684d479c1443b4d29d491fd64dcb00f7"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/MfaBackupCodeHasherTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.442156,
+    "ast_hash": "ff1eac330d4a952dd7069d585f6fb78c",
+    "semantic_hash": "ff1eac330d4a952dd7069d585f6fb78c"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/MfaBackupCodeServiceTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.4421575,
+    "ast_hash": "c5e88412548911ba2523c2f12c832e0a",
+    "semantic_hash": "c5e88412548911ba2523c2f12c832e0a"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/PatchJsonTests.cs": {
+    "mtime": 1788182155.6932175,
+    "seen": 1788704699.4421587,
+    "ast_hash": "cb8be2a44591028e904771fa1ce60133",
+    "semantic_hash": "cb8be2a44591028e904771fa1ce60133"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/ReanalysisPolicyTests.cs": {
+    "mtime": 1788703481.3605094,
+    "seen": 1788704699.4421597,
+    "ast_hash": "a7a21c560128c8e3d5d5390b8d122c8e",
+    "semantic_hash": "a7a21c560128c8e3d5d5390b8d122c8e"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/RolesSuperAdminTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421604,
+    "ast_hash": "7641072a06ec5b97bede108b9c9f2105",
+    "semantic_hash": "7641072a06ec5b97bede108b9c9f2105"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/SettingsServiceScoringValidationTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421613,
+    "ast_hash": "2612329c43605c4d25ca92c7f671d09c",
+    "semantic_hash": "2612329c43605c4d25ca92c7f671d09c"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/TenantBillingConfigServiceTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421625,
+    "ast_hash": "89e86d51b028e9163a0f96c4232c93fd",
+    "semantic_hash": "89e86d51b028e9163a0f96c4232c93fd"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/TenantProfileServiceTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421635,
+    "ast_hash": "ffb189b2de5d65507f4e503ceca33725",
+    "semantic_hash": "ffb189b2de5d65507f4e503ceca33725"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/TenantSettingsServiceTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421647,
+    "ast_hash": "807716587a0ba3a445096adf10a24e73",
+    "semantic_hash": "807716587a0ba3a445096adf10a24e73"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/Time/ArgentineTimeTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421659,
+    "ast_hash": "f4a321822d689671540339be26ae341f",
+    "semantic_hash": "f4a321822d689671540339be26ae341f"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AlertRuleCatalogueControllerTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.442167,
+    "ast_hash": "fb5e0f083a9c2d5e72eebbaadc8401ea",
+    "semantic_hash": "fb5e0f083a9c2d5e72eebbaadc8401ea"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AlertsControllerLookupScopeTests.cs": {
+    "mtime": 1788703481.3645093,
+    "seen": 1788704699.4421678,
+    "ast_hash": "cf92f28a08464b541063b5b61809c37f",
+    "semantic_hash": "cf92f28a08464b541063b5b61809c37f"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerAlertTitleTests.cs": {
+    "mtime": 1788182155.6996112,
+    "seen": 1788704699.4421697,
+    "ast_hash": "98b8b0903f640387cf3d2cd857e79de7",
+    "semantic_hash": "98b8b0903f640387cf3d2cd857e79de7"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerBcraChequesTests.cs": {
+    "mtime": 1788703481.3685093,
+    "seen": 1788704699.4421704,
+    "ast_hash": "15910817d2867c6f30772dadd2482b26",
+    "semantic_hash": "15910817d2867c6f30772dadd2482b26"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerCatalogueAlertsTests.cs": {
+    "mtime": 1788703481.3685093,
+    "seen": 1788704699.442171,
+    "ast_hash": "f5f058af91fecc14d9d5b38ca961c15a",
+    "semantic_hash": "f5f058af91fecc14d9d5b38ca961c15a"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatAttachmentFetchTests.cs": {
+    "mtime": 1788703481.3685093,
+    "seen": 1788704699.442172,
+    "ast_hash": "a164772f545688062e107ae86e6ef2b6",
+    "semantic_hash": "a164772f545688062e107ae86e6ef2b6"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatAttachmentTests.cs": {
+    "mtime": 1788703481.3725095,
+    "seen": 1788704699.4421735,
+    "ast_hash": "fcb0434fa22f620876c812fbeae44008",
+    "semantic_hash": "fcb0434fa22f620876c812fbeae44008"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatAttachmentTurnTests.cs": {
+    "mtime": 1788703481.3725095,
+    "seen": 1788704699.4421742,
+    "ast_hash": "d6ed858c94a3ac8664f17b16003c4d5e",
+    "semantic_hash": "d6ed858c94a3ac8664f17b16003c4d5e"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatCashFlowTests.cs": {
+    "mtime": 1788703481.3725095,
+    "seen": 1788704699.442175,
+    "ast_hash": "a0d91a34c7e9c2d79f71a63e2005249b",
+    "semantic_hash": "a0d91a34c7e9c2d79f71a63e2005249b"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatContextBudgetTests.cs": {
+    "mtime": 1788703481.3725095,
+    "seen": 1788704699.442176,
+    "ast_hash": "11e0c931ab5a0e7ec6cdc1e0caf56aa6",
+    "semantic_hash": "11e0c931ab5a0e7ec6cdc1e0caf56aa6"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatHistoryTests.cs": {
+    "mtime": 1788703481.3725095,
+    "seen": 1788704699.442177,
+    "ast_hash": "e55bed8c92fae018dfd8313811098aef",
+    "semantic_hash": "e55bed8c92fae018dfd8313811098aef"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatModelTests.cs": {
+    "mtime": 1788703481.3725095,
+    "seen": 1788704699.442178,
+    "ast_hash": "3ee4764731b5d890d09af133b8dd9f49",
+    "semantic_hash": "3ee4764731b5d890d09af133b8dd9f49"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerChatPromptTests.cs": {
+    "mtime": 1788703481.3765094,
+    "seen": 1788704699.4421794,
+    "ast_hash": "c4f9bb91976a6d001d60c3beb0f9cce4",
+    "semantic_hash": "c4f9bb91976a6d001d60c3beb0f9cce4"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerContextTests.cs": {
+    "mtime": 1788703481.3765094,
+    "seen": 1788704699.4421804,
+    "ast_hash": "ef2aa9b712bbead85c1b13a29c01a36a",
+    "semantic_hash": "ef2aa9b712bbead85c1b13a29c01a36a"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerDecideTests.cs": {
+    "mtime": 1788703481.3765094,
+    "seen": 1788704699.4421818,
+    "ast_hash": "e2ca066188c560c04fcd8ee60ecafc8b",
+    "semantic_hash": "e2ca066188c560c04fcd8ee60ecafc8b"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerExtractionBudgetTests.cs": {
+    "mtime": 1788703481.3765094,
+    "seen": 1788704699.442183,
+    "ast_hash": "6fd2a865f848b90fec9850235c3f8063",
+    "semantic_hash": "6fd2a865f848b90fec9850235c3f8063"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerGetByIdTests.cs": {
+    "mtime": 1788703481.3805094,
+    "seen": 1788704699.4421842,
+    "ast_hash": "f06362ffa9f1607c8e3c7c50797d9c60",
+    "semantic_hash": "f06362ffa9f1607c8e3c7c50797d9c60"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerLabelTests.cs": {
+    "mtime": 1788703481.3805094,
+    "seen": 1788704699.442185,
+    "ast_hash": "5e0e7f3b98bed4af9754a4138c2d493a",
+    "semantic_hash": "5e0e7f3b98bed4af9754a4138c2d493a"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerListProjectionTests.cs": {
+    "mtime": 1788703481.3805094,
+    "seen": 1788704699.4421856,
+    "ast_hash": "764cb7485e3e9341f6d4eeecc7fca552",
+    "semantic_hash": "764cb7485e3e9341f6d4eeecc7fca552"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerRatiosTests.cs": {
+    "mtime": 1788703481.3805094,
+    "seen": 1788704699.442187,
+    "ast_hash": "3a97547037512c87d00e2acc6e9817de",
+    "semantic_hash": "3a97547037512c87d00e2acc6e9817de"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AnalysisControllerTriggerGuardTests.cs": {
+    "mtime": 1788703481.3805094,
+    "seen": 1788704699.442188,
+    "ast_hash": "2406f199c88a21579ef446005f7bd8af",
+    "semantic_hash": "2406f199c88a21579ef446005f7bd8af"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/AuthorizationTestHelpers.cs": {
+    "mtime": 1788182155.7143514,
+    "seen": 1788704699.4421887,
+    "ast_hash": "151aad54392366617d74b18e9de5774f",
+    "semantic_hash": "151aad54392366617d74b18e9de5774f"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/BillingConfigAuthorizationTests.cs": {
+    "mtime": 1788703481.3805094,
+    "seen": 1788704699.44219,
+    "ast_hash": "0ad4e94d0855e5d430a133973d0715ba",
+    "semantic_hash": "0ad4e94d0855e5d430a133973d0715ba"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/BillingControllerConfigTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.442194,
+    "ast_hash": "06fc6a2fc65533703535e6c25d271b1a",
+    "semantic_hash": "06fc6a2fc65533703535e6c25d271b1a"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/BillingControllerTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.442195,
+    "ast_hash": "ffbdda6d6a2015d85d0c2d05d1745866",
+    "semantic_hash": "ffbdda6d6a2015d85d0c2d05d1745866"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/BillingQuotaAttributeTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.442196,
+    "ast_hash": "f60686fb7b8c16c32a586908edf56d83",
+    "semantic_hash": "f60686fb7b8c16c32a586908edf56d83"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/CreditLinesControllerCreateTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.442197,
+    "ast_hash": "be84c2f1910a5587bc2609ec1901d767",
+    "semantic_hash": "be84c2f1910a5587bc2609ec1901d767"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/CreditLinesControllerOperationsTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.4421978,
+    "ast_hash": "b9634b6ca35e2686b1014cb7520b98fb",
+    "semantic_hash": "b9634b6ca35e2686b1014cb7520b98fb"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/CreditLinesControllerRaiseTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.4421988,
+    "ast_hash": "a86ef008e73e0065d4af82855bd8e85f",
+    "semantic_hash": "a86ef008e73e0065d4af82855bd8e85f"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/CreditLinesControllerStructureTests.cs": {
+    "mtime": 1788703481.3845093,
+    "seen": 1788704699.4421995,
+    "ast_hash": "9d41177d87e7162cabca1cac9455134c",
+    "semantic_hash": "9d41177d87e7162cabca1cac9455134c"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/CreditLinesControllerSuspendTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422007,
+    "ast_hash": "209b9c0b749e9ae40e5cc1c51f06d7e0",
+    "semantic_hash": "209b9c0b749e9ae40e5cc1c51f06d7e0"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerCasfogTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422019,
+    "ast_hash": "36e970b848bc6f9a40979b532ac37ac6",
+    "semantic_hash": "36e970b848bc6f9a40979b532ac37ac6"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerCreateTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422026,
+    "ast_hash": "71dbcc3cdc125033638392b491c8748c",
+    "semantic_hash": "71dbcc3cdc125033638392b491c8748c"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerEntitlementGateTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.442204,
+    "ast_hash": "7fe0d578baaf66ed7feb72b079e0bbd0",
+    "semantic_hash": "7fe0d578baaf66ed7feb72b079e0bbd0"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerImportLufeTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422047,
+    "ast_hash": "244f26aa59a07f86066f021cf6b31bce",
+    "semantic_hash": "244f26aa59a07f86066f021cf6b31bce"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerLabelTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422057,
+    "ast_hash": "54487a6c431e152ef9478c2fb1dd1158",
+    "semantic_hash": "54487a6c431e152ef9478c2fb1dd1158"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerListProjectionTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422066,
+    "ast_hash": "fbe36ba7d5c68c5140223f75e6d349d1",
+    "semantic_hash": "fbe36ba7d5c68c5140223f75e6d349d1"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerLufeTests.cs": {
+    "mtime": 1788703481.3885093,
+    "seen": 1788704699.4422076,
+    "ast_hash": "f050da2a7624d43252a01b5384141217",
+    "semantic_hash": "f050da2a7624d43252a01b5384141217"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerNosisTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422085,
+    "ast_hash": "b46e049b49a8fd5603c24c2e8fbd4cf2",
+    "semantic_hash": "b46e049b49a8fd5603c24c2e8fbd4cf2"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerNotesTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422095,
+    "ast_hash": "eb43ac4119589d4b9675aee2f0df345d",
+    "semantic_hash": "eb43ac4119589d4b9675aee2f0df345d"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/EntitiesControllerSnapshotReadTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422102,
+    "ast_hash": "7a63e0d7f653c6249913cb02a052e5fd",
+    "semantic_hash": "7a63e0d7f653c6249913cb02a052e5fd"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/ErrorLogControllerClientTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422112,
+    "ast_hash": "55671fedc572713ea821347ae60d131a",
+    "semantic_hash": "55671fedc572713ea821347ae60d131a"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/ExportSectionKeyContractTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.442212,
+    "ast_hash": "0be1c58616ebf24df65ec3b69ccd3a59",
+    "semantic_hash": "0be1c58616ebf24df65ec3b69ccd3a59"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/FiadoresControllerTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422128,
+    "ast_hash": "bdf7b18ed041796d2c34aa20511bdbc3",
+    "semantic_hash": "bdf7b18ed041796d2c34aa20511bdbc3"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/MfaBackupCodesControllerRedeemTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422135,
+    "ast_hash": "bf3132d1a9d4aecc6a7a3ff6c9dad5af",
+    "semantic_hash": "bf3132d1a9d4aecc6a7a3ff6c9dad5af"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/RoleMatrixAuthorizationTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422147,
+    "ast_hash": "f48ddeee7bbbcdd1ef022b50d8dab141",
+    "semantic_hash": "f48ddeee7bbbcdd1ef022b50d8dab141"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/ThresholdAuthorizationTests.cs": {
+    "mtime": 1788182155.7343514,
+    "seen": 1788704699.4422157,
+    "ast_hash": "62821ffec849d32121f0a34859d8964b",
+    "semantic_hash": "62821ffec849d32121f0a34859d8964b"
+  },
+  "Api.Web.FinanceIA.Tests/Controllers/UsersAuditAuthorizationTests.cs": {
+    "mtime": 1788182155.7343514,
+    "seen": 1788704699.4422164,
+    "ast_hash": "f2ea1fe2174fae5250feeec90c8d721b",
+    "semantic_hash": "f2ea1fe2174fae5250feeec90c8d721b"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AlertRepositoryExistsByTypeTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422178,
+    "ast_hash": "fc4ddd2b0da9b3d3512a5842724c60cd",
+    "semantic_hash": "fc4ddd2b0da9b3d3512a5842724c60cd"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AlertRuleCatalogueRepositoryTests.cs": {
+    "mtime": 1788182155.7383513,
+    "seen": 1788704699.4422188,
+    "ast_hash": "98ace2c11230fa516f4f39f23e3c7f03",
+    "semantic_hash": "98ace2c11230fa516f4f39f23e3c7f03"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisRepositoryCountTests.cs": {
+    "mtime": 1788703481.3925095,
+    "seen": 1788704699.4422195,
+    "ast_hash": "80afba7ac4c127e16b6a0236a7ee1fb6",
+    "semantic_hash": "80afba7ac4c127e16b6a0236a7ee1fb6"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisResultRepositoryBcraTests.cs": {
+    "mtime": 1788182155.7417946,
+    "seen": 1788704699.4422202,
+    "ast_hash": "93ec9e27f1a4d9195054aab38ad384af",
+    "semantic_hash": "93ec9e27f1a4d9195054aab38ad384af"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisResultRepositoryDetailTests.cs": {
+    "mtime": 1788182155.7417946,
+    "seen": 1788704699.4422212,
+    "ast_hash": "5261a358f55f56827aa503b0c7180cca",
+    "semantic_hash": "5261a358f55f56827aa503b0c7180cca"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisResultRepositoryLabelTests.cs": {
+    "mtime": 1788182155.7423513,
+    "seen": 1788704699.4422219,
+    "ast_hash": "39fba18e2c3384144d22273326250790",
+    "semantic_hash": "39fba18e2c3384144d22273326250790"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisResultRepositoryListPageTests.cs": {
+    "mtime": 1788182155.7423513,
+    "seen": 1788704699.4422226,
+    "ast_hash": "2384521a6fa27c7fcd6a923c1b733c12",
+    "semantic_hash": "2384521a6fa27c7fcd6a923c1b733c12"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisResultRepositoryRatiosTests.cs": {
+    "mtime": 1788182155.7423513,
+    "seen": 1788704699.4422235,
+    "ast_hash": "2342e56f92e9de207d3ce33aa54151b6",
+    "semantic_hash": "2342e56f92e9de207d3ce33aa54151b6"
+  },
+  "Api.Web.FinanceIA.Tests/Data/AnalysisResultRepositoryTests.cs": {
+    "mtime": 1788182155.7423513,
+    "seen": 1788704699.4422245,
+    "ast_hash": "5720fec51f91841556929159dda02ad4",
+    "semantic_hash": "5720fec51f91841556929159dda02ad4"
+  },
+  "Api.Web.FinanceIA.Tests/Data/ChatMessageMappingTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422252,
+    "ast_hash": "954d9edce3c7aa40b3afa56359a9ec0f",
+    "semantic_hash": "954d9edce3c7aa40b3afa56359a9ec0f"
+  },
+  "Api.Web.FinanceIA.Tests/Data/CreditLineOperationRepositoryTests.cs": {
+    "mtime": 1788182155.7423513,
+    "seen": 1788704699.4422262,
+    "ast_hash": "e1dc31a8d0b26f088cfc830072a8f5af",
+    "semantic_hash": "e1dc31a8d0b26f088cfc830072a8f5af"
+  },
+  "Api.Web.FinanceIA.Tests/Data/CreditLineRepositoryTests.cs": {
+    "mtime": 1788182155.7423513,
+    "seen": 1788704699.4422271,
+    "ast_hash": "4fc3feaa3734803c3f6524b1644bfbf2",
+    "semantic_hash": "4fc3feaa3734803c3f6524b1644bfbf2"
+  },
+  "Api.Web.FinanceIA.Tests/Data/DocumentRepositoryExtractionAttemptsTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.442228,
+    "ast_hash": "4d314f5763650430b6963e69a2b919b8",
+    "semantic_hash": "4d314f5763650430b6963e69a2b919b8"
+  },
+  "Api.Web.FinanceIA.Tests/Data/EntityRepositoryDetailTests.cs": {
+    "mtime": 1788182155.7463512,
+    "seen": 1788704699.442229,
+    "ast_hash": "484bcde6d734d655ef40fa114b3f9f81",
+    "semantic_hash": "484bcde6d734d655ef40fa114b3f9f81"
+  },
+  "Api.Web.FinanceIA.Tests/Data/EntityRepositoryExistsTests.cs": {
+    "mtime": 1788182155.7463512,
+    "seen": 1788704699.44223,
+    "ast_hash": "0d4a8c1498257479a9a0a85ec55e5ffd",
+    "semantic_hash": "0d4a8c1498257479a9a0a85ec55e5ffd"
+  },
+  "Api.Web.FinanceIA.Tests/Data/EntityRepositoryListPageTests.cs": {
+    "mtime": 1788182155.7463512,
+    "seen": 1788704699.4422307,
+    "ast_hash": "a2b6da55cd9b9fbaa799381eca6a862c",
+    "semantic_hash": "a2b6da55cd9b9fbaa799381eca6a862c"
+  },
+  "Api.Web.FinanceIA.Tests/Data/EntityRepositoryNameTests.cs": {
+    "mtime": 1788182155.7463512,
+    "seen": 1788704699.442232,
+    "ast_hash": "e842ca29ec92ee7dfa6132d7a253c284",
+    "semantic_hash": "e842ca29ec92ee7dfa6132d7a253c284"
+  },
+  "Api.Web.FinanceIA.Tests/Data/FiadorMappingTests.cs": {
+    "mtime": 1788182155.7463512,
+    "seen": 1788704699.4422328,
+    "ast_hash": "40e213224d2e6438a0571b7901f5c880",
+    "semantic_hash": "40e213224d2e6438a0571b7901f5c880"
+  },
+  "Api.Web.FinanceIA.Tests/Data/FiadorRepositoryTests.cs": {
+    "mtime": 1788182155.7463512,
+    "seen": 1788704699.442235,
+    "ast_hash": "451f4dfd7439fbc43e6eb42f4481f8e5",
+    "semantic_hash": "451f4dfd7439fbc43e6eb42f4481f8e5"
+  },
+  "Api.Web.FinanceIA.Tests/Data/NotificationRepositoryTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.442236,
+    "ast_hash": "63031b4653425baa65926056b7ece0fa",
+    "semantic_hash": "63031b4653425baa65926056b7ece0fa"
+  },
+  "Api.Web.FinanceIA.Tests/Data/SqlJsonFunctionsTests.cs": {
+    "mtime": 1788182155.7503512,
+    "seen": 1788704699.4422367,
+    "ast_hash": "632b1da985ae9e74e00977de82ec71ad",
+    "semantic_hash": "632b1da985ae9e74e00977de82ec71ad"
+  },
+  "Api.Web.FinanceIA.Tests/Data/TenantBillingConfigMappingTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422374,
+    "ast_hash": "0e1258e0daa919363d00e9658feba826",
+    "semantic_hash": "0e1258e0daa919363d00e9658feba826"
+  },
+  "Api.Web.FinanceIA.Tests/Data/TenantBillingConfigRepositoryTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422386,
+    "ast_hash": "0e544aee7ceedcdd26e32bf7defd2a18",
+    "semantic_hash": "0e544aee7ceedcdd26e32bf7defd2a18"
+  },
+  "Api.Web.FinanceIA.Tests/Data/UsageRepositoryChatTokenTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422393,
+    "ast_hash": "0d94d7f2d03a068150d2a79be48e6d6b",
+    "semantic_hash": "0d94d7f2d03a068150d2a79be48e6d6b"
+  },
+  "Api.Web.FinanceIA.Tests/EnvironmentFactAttribute.cs": {
+    "mtime": 1788182155.7503512,
+    "seen": 1788704699.4422402,
+    "ast_hash": "391a3f003d749b1d78c2ce1f13288897",
+    "semantic_hash": "391a3f003d749b1d78c2ce1f13288897"
+  },
+  "Api.Web.FinanceIA.Tests/Models/ChatModelCatalogTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.442241,
+    "ast_hash": "2d1995874db3cfbc01b24523eddb032c",
+    "semantic_hash": "2d1995874db3cfbc01b24523eddb032c"
+  },
+  "Api.Web.FinanceIA.Tests/Models/Lufe/LufePeriodoTests.cs": {
+    "mtime": 1788182155.754463,
+    "seen": 1788704699.442242,
+    "ast_hash": "c647176992aedba19ad4a6abbc5086f2",
+    "semantic_hash": "c647176992aedba19ad4a6abbc5086f2"
+  },
+  "Api.Web.FinanceIA.Tests/Models/NotificationDtoSerializationTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422426,
+    "ast_hash": "8afee29ff27842066d035e0654803b6d",
+    "semantic_hash": "8afee29ff27842066d035e0654803b6d"
+  },
+  "Api.Web.FinanceIA.Tests/Models/TenantProfilePresetsTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422436,
+    "ast_hash": "771fd408f4bcc6f4e1a64f18ea2590b8",
+    "semantic_hash": "771fd408f4bcc6f4e1a64f18ea2590b8"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/AlertRatioReconciliationServiceTests.cs": {
+    "mtime": 1788182155.754463,
+    "seen": 1788704699.4422443,
+    "ast_hash": "2befce355d795fb88cb014553af92dd4",
+    "semantic_hash": "2befce355d795fb88cb014553af92dd4"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/AlertRuleEngineTests.cs": {
+    "mtime": 1788182155.7578409,
+    "seen": 1788704699.4422455,
+    "ast_hash": "5127da384ba9229ce42e6efc8a954c7e",
+    "semantic_hash": "5127da384ba9229ce42e6efc8a954c7e"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraChequesDeserializationTests.cs": {
+    "mtime": 1788182155.7578409,
+    "seen": 1788704699.4422462,
+    "ast_hash": "e9f330b4a8b15c896eabce123a5576db",
+    "semantic_hash": "e9f330b4a8b15c896eabce123a5576db"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraChequesEvolucionParityTests.cs": {
+    "mtime": 1788182155.7583513,
+    "seen": 1788704699.4422472,
+    "ast_hash": "40dc1ac09377d1fb2bcd6b2fd925f786",
+    "semantic_hash": "40dc1ac09377d1fb2bcd6b2fd925f786"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraDeudaDeserializationTests.cs": {
+    "mtime": 1788182155.7583513,
+    "seen": 1788704699.4422479,
+    "ast_hash": "cb6dd87f94062c013fd543eb9959a17b",
+    "semantic_hash": "cb6dd87f94062c013fd543eb9959a17b"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraEnrichmentClassifierTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422488,
+    "ast_hash": "556507a4b116211c860ca74c16b9386e",
+    "semantic_hash": "556507a4b116211c860ca74c16b9386e"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraMacroMappingTests.cs": {
+    "mtime": 1788182155.7583513,
+    "seen": 1788704699.4422495,
+    "ast_hash": "63f5189221ee354c82f62156376bf286",
+    "semantic_hash": "63f5189221ee354c82f62156376bf286"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraMacroSerieTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422503,
+    "ast_hash": "c5dc4af2c2b6807a3d8a5132e887d559",
+    "semantic_hash": "c5dc4af2c2b6807a3d8a5132e887d559"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraServiceCancellationTests.cs": {
+    "mtime": 1788182155.7583513,
+    "seen": 1788704699.442251,
+    "ast_hash": "62d775b68da12f83a1ddc086a4df0ef2",
+    "semantic_hash": "62d775b68da12f83a1ddc086a4df0ef2"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/BcraServiceChequesFanOutTests.cs": {
+    "mtime": 1788703481.3965094,
+    "seen": 1788704699.4422517,
+    "ast_hash": "b52805154a453e120e9e2109a9c29f90",
+    "semantic_hash": "b52805154a453e120e9e2109a9c29f90"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/CasfogDeserializationTests.cs": {
+    "mtime": 1788182155.7623513,
+    "seen": 1788704699.4422529,
+    "ast_hash": "0943c887e9a3d244f8414a50a17404e6",
+    "semantic_hash": "0943c887e9a3d244f8414a50a17404e6"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/CasfogMoraAdjReportingTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422536,
+    "ast_hash": "e5b6ab8c82a0cac7bbd580de1ad6cb36",
+    "semantic_hash": "e5b6ab8c82a0cac7bbd580de1ad6cb36"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/CashFlowNarrativeServiceTests.cs": {
+    "mtime": 1788182155.7623513,
+    "seen": 1788704699.4422543,
+    "ast_hash": "1bb5be9ed6a3bf2c95e2209d2c3cb7ca",
+    "semantic_hash": "1bb5be9ed6a3bf2c95e2209d2c3cb7ca"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/CashFlowReconciliationJsonTests.cs": {
+    "mtime": 1788182155.7623513,
+    "seen": 1788704699.442255,
+    "ast_hash": "949de0b750e61b7bf917392a44c8b492",
+    "semantic_hash": "949de0b750e61b7bf917392a44c8b492"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/CashFlowReconciliationServiceTests.cs": {
+    "mtime": 1788182155.7623513,
+    "seen": 1788704699.442256,
+    "ast_hash": "c26f58530aff74145c2047b411266028",
+    "semantic_hash": "c26f58530aff74145c2047b411266028"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ChequesAdjReportingTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422567,
+    "ast_hash": "c36e73593f194bae7cede1186472043a",
+    "semantic_hash": "c36e73593f194bae7cede1186472043a"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ClaudeChatPayloadTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422574,
+    "ast_hash": "9e981963617e2efd9ce1f27535b24065",
+    "semantic_hash": "9e981963617e2efd9ce1f27535b24065"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ExcelCashFlowParserTests.cs": {
+    "mtime": 1788182155.7663512,
+    "seen": 1788704699.4422584,
+    "ast_hash": "13d216408e24ba30a84e7a55a31a9caf",
+    "semantic_hash": "13d216408e24ba30a84e7a55a31a9caf"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ExtractionDeterminismHarnessTests.cs": {
+    "mtime": 1788182155.7663512,
+    "seen": 1788704699.4422593,
+    "ast_hash": "6a346465a392b7e5dd4f370867e1a801",
+    "semantic_hash": "6a346465a392b7e5dd4f370867e1a801"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ExtractionDeterminismReport.cs": {
+    "mtime": 1788182155.7663512,
+    "seen": 1788704699.4422603,
+    "ast_hash": "d1edba26c90d1e0f7519997d903a5d10",
+    "semantic_hash": "d1edba26c90d1e0f7519997d903a5d10"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ExtractionDeterminismReportTests.cs": {
+    "mtime": 1788182155.7663512,
+    "seen": 1788704699.442261,
+    "ast_hash": "7d56ee7e235044ea5c6933d9f481d875",
+    "semantic_hash": "7d56ee7e235044ea5c6933d9f481d875"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ExtractionPromptTests.cs": {
+    "mtime": 1788182155.7703514,
+    "seen": 1788704699.442262,
+    "ast_hash": "bb17a8d5dddeed4e06b693291e249390",
+    "semantic_hash": "bb17a8d5dddeed4e06b693291e249390"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/FileSignatureValidatorTests.cs": {
+    "mtime": 1788182155.7703514,
+    "seen": 1788704699.442263,
+    "ast_hash": "98951f4f7395459df2c754074cebbdaf",
+    "semantic_hash": "98951f4f7395459df2c754074cebbdaf"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/IdentityPlatformSignInServiceTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422638,
+    "ast_hash": "8d94c73ebcaeb4f0f8e931fdc82ec610",
+    "semantic_hash": "8d94c73ebcaeb4f0f8e931fdc82ec610"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/LufePostBalanceMergeTests.cs": {
+    "mtime": 1788182155.7703514,
+    "seen": 1788704699.4422646,
+    "ast_hash": "4f63a6383b39b8515c96341b7ceabba5",
+    "semantic_hash": "4f63a6383b39b8515c96341b7ceabba5"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/NarrativePromptFingerprintTests.cs": {
+    "mtime": 1788182155.7703514,
+    "seen": 1788704699.4422655,
+    "ast_hash": "acfa623cf4ea89a1cae9e988bb73b621",
+    "semantic_hash": "acfa623cf4ea89a1cae9e988bb73b621"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/NosisDeserializationTests.cs": {
+    "mtime": 1788182155.7743514,
+    "seen": 1788704699.4422665,
+    "ast_hash": "40f3dd5c8faaf9169f54d867a4655818",
+    "semantic_hash": "40f3dd5c8faaf9169f54d867a4655818"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfAttachmentExtractorTests.cs": {
+    "mtime": 1788182155.7743514,
+    "seen": 1788704699.4422672,
+    "ast_hash": "08e29d48056f4b3624300ca823f97205",
+    "semantic_hash": "08e29d48056f4b3624300ca823f97205"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportAnomalyShimTests.cs": {
+    "mtime": 1788182155.7743514,
+    "seen": 1788704699.442268,
+    "ast_hash": "11e01030ae6f320bfafbb0f8fec11a1d",
+    "semantic_hash": "11e01030ae6f320bfafbb0f8fec11a1d"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportCasfogSectionTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422688,
+    "ast_hash": "5d993893681ff9ad5f284f8349c36cbb",
+    "semantic_hash": "5d993893681ff9ad5f284f8349c36cbb"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportCashFlowContentTests.cs": {
+    "mtime": 1788182155.7743514,
+    "seen": 1788704699.4422698,
+    "ast_hash": "d0adc648ef9cbf4049746be2b2ee03cf",
+    "semantic_hash": "d0adc648ef9cbf4049746be2b2ee03cf"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportChartSmokeTests.cs": {
+    "mtime": 1788182155.7743514,
+    "seen": 1788704699.4422705,
+    "ast_hash": "0c65cb93dc0e6f5661474a00423d2e01",
+    "semantic_hash": "0c65cb93dc0e6f5661474a00423d2e01"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportInternalConsistencyTests.cs": {
+    "mtime": 1788182155.7743514,
+    "seen": 1788704699.4422715,
+    "ast_hash": "daa7f63a6c28276523725629fd171c00",
+    "semantic_hash": "daa7f63a6c28276523725629fd171c00"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportPercentageReconciliationTests.cs": {
+    "mtime": 1788182155.7783513,
+    "seen": 1788704699.4422722,
+    "ast_hash": "1c025418be125c249034c1570267223c",
+    "semantic_hash": "1c025418be125c249034c1570267223c"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/PdfExportServiceRenderTests.cs": {
+    "mtime": 1788182155.7783513,
+    "seen": 1788704699.4422731,
+    "ast_hash": "692e819422a19853e8a1f45acc2bfcd3",
+    "semantic_hash": "692e819422a19853e8a1f45acc2bfcd3"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/RateLimitServiceClientErrorLogTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422739,
+    "ast_hash": "aa97f2de67253c74870bd1b48d0e1080",
+    "semantic_hash": "aa97f2de67253c74870bd1b48d0e1080"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/RateLimitServiceMfaBackupCodesTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422748,
+    "ast_hash": "1962a1fdd2671a47856db9fa9f492509",
+    "semantic_hash": "1962a1fdd2671a47856db9fa9f492509"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/RatioCalculationServiceTests.cs": {
+    "mtime": 1788182155.7783513,
+    "seen": 1788704699.4422758,
+    "ast_hash": "a89ce1abc21043342144e99057d0eee1",
+    "semantic_hash": "a89ce1abc21043342144e99057d0eee1"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoreScaleTests.cs": {
+    "mtime": 1788182155.7783513,
+    "seen": 1788704699.4422767,
+    "ast_hash": "4ab71cb3c5ca83fe5a7a07afad9a1006",
+    "semantic_hash": "4ab71cb3c5ca83fe5a7a07afad9a1006"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringFloorReportingTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.4422774,
+    "ast_hash": "d1e4ffb9d51749a381f3b8ebdd20117d",
+    "semantic_hash": "d1e4ffb9d51749a381f3b8ebdd20117d"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringNarrativePromptTests.cs": {
+    "mtime": 1788182155.7783513,
+    "seen": 1788704699.4422781,
+    "ast_hash": "52569a046cc3b27827c54420bb338e05",
+    "semantic_hash": "52569a046cc3b27827c54420bb338e05"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceBcraTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.442279,
+    "ast_hash": "e430004408c5f42f657ad73675dc09be",
+    "semantic_hash": "e430004408c5f42f657ad73675dc09be"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceCasfogTests.cs": {
+    "mtime": 1788703481.4005094,
+    "seen": 1788704699.44228,
+    "ast_hash": "a754f3430c7b43c7ed0774c8dbe3ab66",
+    "semantic_hash": "a754f3430c7b43c7ed0774c8dbe3ab66"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceChequesTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.4422808,
+    "ast_hash": "46a05e6cf4900640acba05c278b06def",
+    "semantic_hash": "46a05e6cf4900640acba05c278b06def"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceConfigTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.4422815,
+    "ast_hash": "29d1370030de5446878a2ff9eb3c05ea",
+    "semantic_hash": "29d1370030de5446878a2ff9eb3c05ea"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceFloorAndLevelTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.4422822,
+    "ast_hash": "64ead1e24ee3de794b2b57a1a66e7c6c",
+    "semantic_hash": "64ead1e24ee3de794b2b57a1a66e7c6c"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceMacroTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.442283,
+    "ast_hash": "e9b6f9842f281130956e45ab73baa031",
+    "semantic_hash": "e9b6f9842f281130956e45ab73baa031"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServicePartialScoreTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.442284,
+    "ast_hash": "a8fe39a3e7f9728d309f4a007d3372e8",
+    "semantic_hash": "a8fe39a3e7f9728d309f4a007d3372e8"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceRatioCoverageTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.4422848,
+    "ast_hash": "0047175c0bd05df891a4544ff0f36e1d",
+    "semantic_hash": "0047175c0bd05df891a4544ff0f36e1d"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.4422855,
+    "ast_hash": "f768e0ac0a23cc5bc7848f7f47a2e4a0",
+    "semantic_hash": "f768e0ac0a23cc5bc7848f7f47a2e4a0"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringServiceVentasTests.cs": {
+    "mtime": 1788703481.4045093,
+    "seen": 1788704699.4422863,
+    "ast_hash": "d1f6d9d47dd16018cfe4f9a650ed3203",
+    "semantic_hash": "d1f6d9d47dd16018cfe4f9a650ed3203"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/ScoringTestHarness.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4422872,
+    "ast_hash": "b3d478465d10f46592e3d79406d1db41",
+    "semantic_hash": "b3d478465d10f46592e3d79406d1db41"
+  },
+  "Api.Web.FinanceIA.Tests/Servicios/VentasAdjReportingTests.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4422882,
+    "ast_hash": "89c7b82c2e4d1bbc48f3e692afb36684",
+    "semantic_hash": "89c7b82c2e4d1bbc48f3e692afb36684"
+  },
+  "Api.Web.FinanceIA/Api.Web.FinanceIA.csproj": {
+    "mtime": 1788182155.7865503,
+    "seen": 1788704699.4422889,
+    "ast_hash": "953408710f965daeac404a8e1fd32ec0",
+    "semantic_hash": "953408710f965daeac404a8e1fd32ec0"
+  },
+  "Api.Web.FinanceIA/Clases/ApiCallLogService.cs": {
+    "mtime": 1788182155.8023512,
+    "seen": 1788704699.4422898,
+    "ast_hash": "29002990a8c44c331877044c8f993690",
+    "semantic_hash": "29002990a8c44c331877044c8f993690"
+  },
+  "Api.Web.FinanceIA/Clases/AuditLogQueryService.cs": {
+    "mtime": 1788182155.8072052,
+    "seen": 1788704699.4422908,
+    "ast_hash": "802690a93153f523b915c02a9a06b0f8",
+    "semantic_hash": "802690a93153f523b915c02a9a06b0f8"
+  },
+  "Api.Web.FinanceIA/Clases/AuditService.cs": {
+    "mtime": 1788182155.8072052,
+    "seen": 1788704699.4422915,
+    "ast_hash": "043bf0ee6aec4339cc1e1ffd3ebbdb0b",
+    "semantic_hash": "043bf0ee6aec4339cc1e1ffd3ebbdb0b"
+  },
+  "Api.Web.FinanceIA/Clases/BillingAlertService.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4422922,
+    "ast_hash": "4954d382c28f4b2da0fd4b017386531b",
+    "semantic_hash": "4954d382c28f4b2da0fd4b017386531b"
+  },
+  "Api.Web.FinanceIA/Clases/BillingUsageService.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4422932,
+    "ast_hash": "6f0cf44eeda38b3f83051f558a4b3c7b",
+    "semantic_hash": "6f0cf44eeda38b3f83051f558a4b3c7b"
+  },
+  "Api.Web.FinanceIA/Clases/Currencies.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4422941,
+    "ast_hash": "2d5eec0459017555e6b620e46247a262",
+    "semantic_hash": "2d5eec0459017555e6b620e46247a262"
+  },
+  "Api.Web.FinanceIA/Clases/EncryptionService.cs": {
+    "mtime": 1788182155.8072052,
+    "seen": 1788704699.4422948,
+    "ast_hash": "3fa49dab00aa636cbce6a24611f77b3a",
+    "semantic_hash": "3fa49dab00aa636cbce6a24611f77b3a"
+  },
+  "Api.Web.FinanceIA/Clases/ErrorLogService.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4422956,
+    "ast_hash": "0ab5a7e78a630eb707babbf85b6f19dc",
+    "semantic_hash": "0ab5a7e78a630eb707babbf85b6f19dc"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/AppException.cs": {
+    "mtime": 1788182155.8072052,
+    "seen": 1788704699.4422963,
+    "ast_hash": "d8acbb73cbbdc6dc907ad4032720c292",
+    "semantic_hash": "d8acbb73cbbdc6dc907ad4032720c292"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/BusinessExceptions.cs": {
+    "mtime": 1788182155.8088288,
+    "seen": 1788704699.4422975,
+    "ast_hash": "aa003520f61ae8f2a3486eb042f88569",
+    "semantic_hash": "aa003520f61ae8f2a3486eb042f88569"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/ClaudeApiException.cs": {
+    "mtime": 1788182155.8088288,
+    "seen": 1788704699.4422982,
+    "ast_hash": "a04460337a6d552445fcf287f1cdc370",
+    "semantic_hash": "a04460337a6d552445fcf287f1cdc370"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/DynamicsExceptions.cs": {
+    "mtime": 1788182155.8088288,
+    "seen": 1788704699.4422991,
+    "ast_hash": "b123cbc21f6c6f33dc11af806a874b3f",
+    "semantic_hash": "b123cbc21f6c6f33dc11af806a874b3f"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/FirebaseExceptions.cs": {
+    "mtime": 1788182155.8088288,
+    "seen": 1788704699.4422998,
+    "ast_hash": "e3e7d4cefb459592d4fb53b9910a110c",
+    "semantic_hash": "e3e7d4cefb459592d4fb53b9910a110c"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/InfrastructureExceptions.cs": {
+    "mtime": 1788182155.8088288,
+    "seen": 1788704699.4423006,
+    "ast_hash": "6bcdfc2d0ed7bb179b9fb1d997d7c015",
+    "semantic_hash": "6bcdfc2d0ed7bb179b9fb1d997d7c015"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/TenantErrorMessages.cs": {
+    "mtime": 1788182155.8088288,
+    "seen": 1788704699.4423015,
+    "ast_hash": "43d1c6500d52d9bb554a83574014f96d",
+    "semantic_hash": "43d1c6500d52d9bb554a83574014f96d"
+  },
+  "Api.Web.FinanceIA/Clases/Exceptions/TenantExceptions.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423025,
+    "ast_hash": "87cd5b20a5fa5a44e8e2b74205ef152f",
+    "semantic_hash": "87cd5b20a5fa5a44e8e2b74205ef152f"
+  },
+  "Api.Web.FinanceIA/Clases/Filters/BillingQuotaAttribute.cs": {
+    "mtime": 1788703481.4085095,
+    "seen": 1788704699.4423032,
+    "ast_hash": "da16356ef310c0f0bc36ad4ca879d3d6",
+    "semantic_hash": "da16356ef310c0f0bc36ad4ca879d3d6"
+  },
+  "Api.Web.FinanceIA/Clases/Filters/BillingQuotaFilter.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.442304,
+    "ast_hash": "ff5e1bd5969db40e21e2efcddff2e867",
+    "semantic_hash": "ff5e1bd5969db40e21e2efcddff2e867"
+  },
+  "Api.Web.FinanceIA/Clases/FirebaseAuthenticationHandler.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423053,
+    "ast_hash": "fd8f56f151a8580436f4360c00a7220b",
+    "semantic_hash": "fd8f56f151a8580436f4360c00a7220b"
+  },
+  "Api.Web.FinanceIA/Clases/FirebaseCustomTokenIssuer.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.442306,
+    "ast_hash": "7e5d8c8b748bfb15c20eb9cd6b1813d8",
+    "semantic_hash": "7e5d8c8b748bfb15c20eb9cd6b1813d8"
+  },
+  "Api.Web.FinanceIA/Clases/FirebaseTokenValidator.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423082,
+    "ast_hash": "a3e32e70fd2e2deecd85795d51e4a4b1",
+    "semantic_hash": "a3e32e70fd2e2deecd85795d51e4a4b1"
+  },
+  "Api.Web.FinanceIA/Clases/GlobalExceptionHandler.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423091,
+    "ast_hash": "013f1408f78d0e853c687dbc85a3f1a5",
+    "semantic_hash": "013f1408f78d0e853c687dbc85a3f1a5"
+  },
+  "Api.Web.FinanceIA/Clases/IApiCallLogService.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423099,
+    "ast_hash": "0ec79c6f874b380ceb57ac10506e53c8",
+    "semantic_hash": "0ec79c6f874b380ceb57ac10506e53c8"
+  },
+  "Api.Web.FinanceIA/Clases/IAuditLogQueryService.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423106,
+    "ast_hash": "8776522c26a4c85ee894bd70cf9f5286",
+    "semantic_hash": "8776522c26a4c85ee894bd70cf9f5286"
+  },
+  "Api.Web.FinanceIA/Clases/IAuditService.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423115,
+    "ast_hash": "49f2f3ae97c05dcd8a0a4b6890fcd90a",
+    "semantic_hash": "49f2f3ae97c05dcd8a0a4b6890fcd90a"
+  },
+  "Api.Web.FinanceIA/Clases/IBillingAlertService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423125,
+    "ast_hash": "262a28b272abf6b855e0a3e9fda78c27",
+    "semantic_hash": "262a28b272abf6b855e0a3e9fda78c27"
+  },
+  "Api.Web.FinanceIA/Clases/IBillingUsageService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423132,
+    "ast_hash": "ff2cc952c64b6d825102128d81fb6066",
+    "semantic_hash": "ff2cc952c64b6d825102128d81fb6066"
+  },
+  "Api.Web.FinanceIA/Clases/IDocumentStorageService.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.442314,
+    "ast_hash": "382392eec33c58fac652097b69446525",
+    "semantic_hash": "382392eec33c58fac652097b69446525"
+  },
+  "Api.Web.FinanceIA/Clases/IEmailService.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423149,
+    "ast_hash": "82d748218205874cc5b31c3ffc06e000",
+    "semantic_hash": "82d748218205874cc5b31c3ffc06e000"
+  },
+  "Api.Web.FinanceIA/Clases/IErrorLogService.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.4423156,
+    "ast_hash": "070fb303f8748d04474e3fa07cf8ced3",
+    "semantic_hash": "070fb303f8748d04474e3fa07cf8ced3"
+  },
+  "Api.Web.FinanceIA/Clases/IFirebaseCustomTokenIssuer.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423163,
+    "ast_hash": "416a13f2e90e0a64ca297b075710a13b",
+    "semantic_hash": "416a13f2e90e0a64ca297b075710a13b"
+  },
+  "Api.Web.FinanceIA/Clases/IFirebaseTokenValidator.cs": {
+    "mtime": 1788182155.8103514,
+    "seen": 1788704699.442317,
+    "ast_hash": "e8af3e535e59a2faf21646ebaef3cc0c",
+    "semantic_hash": "e8af3e535e59a2faf21646ebaef3cc0c"
+  },
+  "Api.Web.FinanceIA/Clases/IMfaBackupCodeService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423177,
+    "ast_hash": "3f0d53d2e0e1587d89b9f01bd9fc2693",
+    "semantic_hash": "3f0d53d2e0e1587d89b9f01bd9fc2693"
+  },
+  "Api.Web.FinanceIA/Clases/IOnboardingTokenIssuer.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423187,
+    "ast_hash": "88624dce637625a55f7eeb5fc471b249",
+    "semantic_hash": "88624dce637625a55f7eeb5fc471b249"
+  },
+  "Api.Web.FinanceIA/Clases/IRecaptchaVerifier.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423194,
+    "ast_hash": "4267f46fd9e8193e925da01a947c688c",
+    "semantic_hash": "4267f46fd9e8193e925da01a947c688c"
+  },
+  "Api.Web.FinanceIA/Clases/ISettingsService.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.44232,
+    "ast_hash": "af87f98964924ca4f7af195d75a1cf57",
+    "semantic_hash": "af87f98964924ca4f7af195d75a1cf57"
+  },
+  "Api.Web.FinanceIA/Clases/ITenantBillingConfigService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423208,
+    "ast_hash": "8f8c864bbf7bec5d73c5a10d684694d1",
+    "semantic_hash": "8f8c864bbf7bec5d73c5a10d684694d1"
+  },
+  "Api.Web.FinanceIA/Clases/ITenantContextAccessor.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423218,
+    "ast_hash": "03953c8a48c57ab4891aba0f20517daf",
+    "semantic_hash": "03953c8a48c57ab4891aba0f20517daf"
+  },
+  "Api.Web.FinanceIA/Clases/ITenantProfileService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423225,
+    "ast_hash": "cf206becf349ce4133bdfcea4a219380",
+    "semantic_hash": "cf206becf349ce4133bdfcea4a219380"
+  },
+  "Api.Web.FinanceIA/Clases/ITenantResolver.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423232,
+    "ast_hash": "0d0295268eb38a2748222ec45626abc9",
+    "semantic_hash": "0d0295268eb38a2748222ec45626abc9"
+  },
+  "Api.Web.FinanceIA/Clases/ITenantSettingsService.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.442324,
+    "ast_hash": "f1463282f7498638b3d31b292a505db2",
+    "semantic_hash": "f1463282f7498638b3d31b292a505db2"
+  },
+  "Api.Web.FinanceIA/Clases/ITokenService.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423246,
+    "ast_hash": "041cb33974809546cc85604a06659525",
+    "semantic_hash": "041cb33974809546cc85604a06659525"
+  },
+  "Api.Web.FinanceIA/Clases/IUserInvitationService.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423258,
+    "ast_hash": "a68df6420ec45c7d4e0b8b2fb866cf06",
+    "semantic_hash": "a68df6420ec45c7d4e0b8b2fb866cf06"
+  },
+  "Api.Web.FinanceIA/Clases/InvitationStatusResolver.cs": {
+    "mtime": 1788182155.8143513,
+    "seen": 1788704699.4423265,
+    "ast_hash": "672f311934db9bdd28ba70a767615bee",
+    "semantic_hash": "672f311934db9bdd28ba70a767615bee"
+  },
+  "Api.Web.FinanceIA/Clases/Json/CsvOrStringListConverter.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423273,
+    "ast_hash": "92a077abdcb41e3f0a4d90cf2b98db1b",
+    "semantic_hash": "92a077abdcb41e3f0a4d90cf2b98db1b"
+  },
+  "Api.Web.FinanceIA/Clases/Json/FlexibleStringConverter.cs": {
+    "mtime": 1788182155.8183513,
+    "seen": 1788704699.442328,
+    "ast_hash": "d1aedfa941b79875af758433fdf35b0a",
+    "semantic_hash": "d1aedfa941b79875af758433fdf35b0a"
+  },
+  "Api.Web.FinanceIA/Clases/Json/Patch.cs": {
+    "mtime": 1788182155.8203924,
+    "seen": 1788704699.442329,
+    "ast_hash": "900a3343f19b380b930b7a9227d5612e",
+    "semantic_hash": "900a3343f19b380b930b7a9227d5612e"
+  },
+  "Api.Web.FinanceIA/Clases/Json/UtcDateTimeConverter.cs": {
+    "mtime": 1788182155.8203924,
+    "seen": 1788704699.4423296,
+    "ast_hash": "0123cb996c2b066a30ecec912cc0bf10",
+    "semantic_hash": "0123cb996c2b066a30ecec912cc0bf10"
+  },
+  "Api.Web.FinanceIA/Clases/LocalDocumentStorageService.cs": {
+    "mtime": 1788182155.8203924,
+    "seen": 1788704699.4423306,
+    "ast_hash": "c97f332ebb5432c547cefd2d9dc4f3aa",
+    "semantic_hash": "c97f332ebb5432c547cefd2d9dc4f3aa"
+  },
+  "Api.Web.FinanceIA/Clases/MfaBackupCodeHasher.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423313,
+    "ast_hash": "83bdf40c16da208c103a8c9cfa4f01d5",
+    "semantic_hash": "83bdf40c16da208c103a8c9cfa4f01d5"
+  },
+  "Api.Web.FinanceIA/Clases/MfaBackupCodeService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423323,
+    "ast_hash": "17507b8572ebfc76fcd110ef9884fece",
+    "semantic_hash": "17507b8572ebfc76fcd110ef9884fece"
+  },
+  "Api.Web.FinanceIA/Clases/Middleware/RateLimitingMiddleware.cs": {
+    "mtime": 1788182155.8203924,
+    "seen": 1788704699.442333,
+    "ast_hash": "99b65e40055d2eea7acbdcff5d4345a9",
+    "semantic_hash": "99b65e40055d2eea7acbdcff5d4345a9"
+  },
+  "Api.Web.FinanceIA/Clases/Middleware/TenantFromJwtMiddleware.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.4423337,
+    "ast_hash": "ea629f118db3ea3ff1297736e10db76a",
+    "semantic_hash": "ea629f118db3ea3ff1297736e10db76a"
+  },
+  "Api.Web.FinanceIA/Clases/OnboardingTokenIssuer.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.4423344,
+    "ast_hash": "6f65c0d7ef62f56906e324ad8491c6b3",
+    "semantic_hash": "6f65c0d7ef62f56906e324ad8491c6b3"
+  },
+  "Api.Web.FinanceIA/Clases/ReanalysisPolicy.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423356,
+    "ast_hash": "e1ba9f3f2abd3e8c7c5b2ecb7666afe6",
+    "semantic_hash": "e1ba9f3f2abd3e8c7c5b2ecb7666afe6"
+  },
+  "Api.Web.FinanceIA/Clases/RecaptchaVerifier.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.4423363,
+    "ast_hash": "02f346036f2e4830d9d905eb6692a935",
+    "semantic_hash": "02f346036f2e4830d9d905eb6692a935"
+  },
+  "Api.Web.FinanceIA/Clases/Roles.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.442337,
+    "ast_hash": "59bf2bf9b64b507c3f81947f7a9c03fe",
+    "semantic_hash": "59bf2bf9b64b507c3f81947f7a9c03fe"
+  },
+  "Api.Web.FinanceIA/Clases/SendGridEmailService.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.4423378,
+    "ast_hash": "337478ed35ef5c602441438693c5bb74",
+    "semantic_hash": "337478ed35ef5c602441438693c5bb74"
+  },
+  "Api.Web.FinanceIA/Clases/SettingsService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423387,
+    "ast_hash": "99c695b44730f696473213917c77087a",
+    "semantic_hash": "99c695b44730f696473213917c77087a"
+  },
+  "Api.Web.FinanceIA/Clases/TenantBillingConfigService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423397,
+    "ast_hash": "89aec44f2fb0eab473dbf1d6c11dded1",
+    "semantic_hash": "89aec44f2fb0eab473dbf1d6c11dded1"
+  },
+  "Api.Web.FinanceIA/Clases/TenantContextAccessor.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.4423404,
+    "ast_hash": "358e8c4face30fb1d6cbc175def66165",
+    "semantic_hash": "358e8c4face30fb1d6cbc175def66165"
+  },
+  "Api.Web.FinanceIA/Clases/TenantFirebaseRegistry.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.442341,
+    "ast_hash": "467472603953ee2f0a1cd900325b506d",
+    "semantic_hash": "467472603953ee2f0a1cd900325b506d"
+  },
+  "Api.Web.FinanceIA/Clases/TenantProfileService.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423418,
+    "ast_hash": "1b811a8c6fb4380e500b72ca373c1640",
+    "semantic_hash": "1b811a8c6fb4380e500b72ca373c1640"
+  },
+  "Api.Web.FinanceIA/Clases/TenantResolutionMiddleware.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.442343,
+    "ast_hash": "f47d87950f8fc11fce775ba4a12ba237",
+    "semantic_hash": "f47d87950f8fc11fce775ba4a12ba237"
+  },
+  "Api.Web.FinanceIA/Clases/TenantResolver.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423437,
+    "ast_hash": "a2e624ec0537480fb2e4e306cfb0a42e",
+    "semantic_hash": "a2e624ec0537480fb2e4e306cfb0a42e"
+  },
+  "Api.Web.FinanceIA/Clases/TenantSettingsService.cs": {
+    "mtime": 1788182155.8227065,
+    "seen": 1788704699.4423444,
+    "ast_hash": "2036782847bc01496911fb6e90f77427",
+    "semantic_hash": "2036782847bc01496911fb6e90f77427"
+  },
+  "Api.Web.FinanceIA/Clases/Time/ArgentineTime.cs": {
+    "mtime": 1788703481.4143922,
+    "seen": 1788704699.4423451,
+    "ast_hash": "e5bc3c596e4578be7921f1a4ae9fe33a",
+    "semantic_hash": "e5bc3c596e4578be7921f1a4ae9fe33a"
+  },
+  "Api.Web.FinanceIA/Clases/TokenService.cs": {
+    "mtime": 1788182155.8263514,
+    "seen": 1788704699.4423463,
+    "ast_hash": "8f38700ddb282e677c6d4f41acc1d13b",
+    "semantic_hash": "8f38700ddb282e677c6d4f41acc1d13b"
+  },
+  "Api.Web.FinanceIA/Clases/UserInvitationService.cs": {
+    "mtime": 1788182155.8263514,
+    "seen": 1788704699.442347,
+    "ast_hash": "d6998953c79ce5d122c28431e49b51f0",
+    "semantic_hash": "d6998953c79ce5d122c28431e49b51f0"
+  },
+  "Api.Web.FinanceIA/Controllers/AlertRuleCatalogueController.cs": {
+    "mtime": 1788182155.8263514,
+    "seen": 1788704699.4423478,
+    "ast_hash": "7660210d9b163b8eefc13f67750430e1",
+    "semantic_hash": "7660210d9b163b8eefc13f67750430e1"
+  },
+  "Api.Web.FinanceIA/Controllers/AlertsController.cs": {
+    "mtime": 1788182155.8309133,
+    "seen": 1788704699.4423485,
+    "ast_hash": "9a9cc98ce96a7c7f3fed550b2d5bd637",
+    "semantic_hash": "9a9cc98ce96a7c7f3fed550b2d5bd637"
+  },
+  "Api.Web.FinanceIA/Controllers/AnalysisController.cs": {
+    "mtime": 1788703481.4205093,
+    "seen": 1788704699.4423492,
+    "ast_hash": "921a73af2bdcc18a287a32301d603cfc",
+    "semantic_hash": "921a73af2bdcc18a287a32301d603cfc"
+  },
+  "Api.Web.FinanceIA/Controllers/AuditController.cs": {
+    "mtime": 1788182155.8343513,
+    "seen": 1788704699.4423501,
+    "ast_hash": "4fc7093b1533493c038d6fdacf3229bf",
+    "semantic_hash": "4fc7093b1533493c038d6fdacf3229bf"
+  },
+  "Api.Web.FinanceIA/Controllers/BcraController.cs": {
+    "mtime": 1788182155.8343513,
+    "seen": 1788704699.4423509,
+    "ast_hash": "e513c2df0c6b95aa7480da85eea6e7e3",
+    "semantic_hash": "e513c2df0c6b95aa7480da85eea6e7e3"
+  },
+  "Api.Web.FinanceIA/Controllers/BffController.cs": {
+    "mtime": 1788182155.8343513,
+    "seen": 1788704699.4423516,
+    "ast_hash": "5e12ce144aada9425dfbbf2ab8c6ce1b",
+    "semantic_hash": "5e12ce144aada9425dfbbf2ab8c6ce1b"
+  },
+  "Api.Web.FinanceIA/Controllers/BillingController.cs": {
+    "mtime": 1788703481.4205093,
+    "seen": 1788704699.4423525,
+    "ast_hash": "a704ff89a02bae506060c5f1aedf7bde",
+    "semantic_hash": "a704ff89a02bae506060c5f1aedf7bde"
+  },
+  "Api.Web.FinanceIA/Controllers/ConsultaFetchController.cs": {
+    "mtime": 1788182155.8343513,
+    "seen": 1788704699.4423535,
+    "ast_hash": "14fb31ced46d37be6d32110e3d63bf67",
+    "semantic_hash": "14fb31ced46d37be6d32110e3d63bf67"
+  },
+  "Api.Web.FinanceIA/Controllers/CreditLinesController.cs": {
+    "mtime": 1788703481.4205093,
+    "seen": 1788704699.4423542,
+    "ast_hash": "c4b64b18cd89e0f15783a127561b5766",
+    "semantic_hash": "c4b64b18cd89e0f15783a127561b5766"
+  },
+  "Api.Web.FinanceIA/Controllers/DocumentsController.cs": {
+    "mtime": 1788182155.8383512,
+    "seen": 1788704699.442355,
+    "ast_hash": "0b3b33a167ff22c598f8a12d43fb571c",
+    "semantic_hash": "0b3b33a167ff22c598f8a12d43fb571c"
+  },
+  "Api.Web.FinanceIA/Controllers/EntitiesController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423559,
+    "ast_hash": "75b5b579ec9a8829e95390c76f885bf1",
+    "semantic_hash": "75b5b579ec9a8829e95390c76f885bf1"
+  },
+  "Api.Web.FinanceIA/Controllers/ErrorLogController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423568,
+    "ast_hash": "801d167528b1e9ec315ef0993a14a3ae",
+    "semantic_hash": "801d167528b1e9ec315ef0993a14a3ae"
+  },
+  "Api.Web.FinanceIA/Controllers/ExportController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423575,
+    "ast_hash": "b06795eda61e55674d2e98b6388c1d92",
+    "semantic_hash": "b06795eda61e55674d2e98b6388c1d92"
+  },
+  "Api.Web.FinanceIA/Controllers/ExportTemplatesController.cs": {
+    "mtime": 1788182155.8423512,
+    "seen": 1788704699.4423585,
+    "ast_hash": "2fd8f4cf23202dcc40788f103de71755",
+    "semantic_hash": "2fd8f4cf23202dcc40788f103de71755"
+  },
+  "Api.Web.FinanceIA/Controllers/FiadoresController.cs": {
+    "mtime": 1788182155.8423512,
+    "seen": 1788704699.4423592,
+    "ast_hash": "33fdecc96dec3bbef2ca6cf2d9d2246b",
+    "semantic_hash": "33fdecc96dec3bbef2ca6cf2d9d2246b"
+  },
+  "Api.Web.FinanceIA/Controllers/HealthServicesController.cs": {
+    "mtime": 1788182155.8423512,
+    "seen": 1788704699.4423602,
+    "ast_hash": "be4d0a1ba21f8a1b7749a284cd9bad42",
+    "semantic_hash": "be4d0a1ba21f8a1b7749a284cd9bad42"
+  },
+  "Api.Web.FinanceIA/Controllers/InvitationController.cs": {
+    "mtime": 1788182155.8423512,
+    "seen": 1788704699.4423609,
+    "ast_hash": "8988823e2e3d4264f6d7a1ca30d8b7cb",
+    "semantic_hash": "8988823e2e3d4264f6d7a1ca30d8b7cb"
+  },
+  "Api.Web.FinanceIA/Controllers/MeController.cs": {
+    "mtime": 1788182155.8423512,
+    "seen": 1788704699.4423616,
+    "ast_hash": "f354eea01850add7a43fdbbeb545efeb",
+    "semantic_hash": "f354eea01850add7a43fdbbeb545efeb"
+  },
+  "Api.Web.FinanceIA/Controllers/MfaBackupCodesController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423623,
+    "ast_hash": "0f54db760d3ec8ae7ba0bb99cf14ac75",
+    "semantic_hash": "0f54db760d3ec8ae7ba0bb99cf14ac75"
+  },
+  "Api.Web.FinanceIA/Controllers/NotificationsController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.442363,
+    "ast_hash": "e1b880da3d90ef25ba293a00b1956df7",
+    "semantic_hash": "e1b880da3d90ef25ba293a00b1956df7"
+  },
+  "Api.Web.FinanceIA/Controllers/SearchController.cs": {
+    "mtime": 1788182155.8463514,
+    "seen": 1788704699.4423642,
+    "ast_hash": "9c2fe9b0758e0547461270e48f9d26bd",
+    "semantic_hash": "9c2fe9b0758e0547461270e48f9d26bd"
+  },
+  "Api.Web.FinanceIA/Controllers/SettingsController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.442365,
+    "ast_hash": "79af6c285008bb023e0a0f2378bcd463",
+    "semantic_hash": "79af6c285008bb023e0a0f2378bcd463"
+  },
+  "Api.Web.FinanceIA/Controllers/UsageController.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423656,
+    "ast_hash": "93394ee6c17db269f27ab16468fe64ec",
+    "semantic_hash": "93394ee6c17db269f27ab16468fe64ec"
+  },
+  "Api.Web.FinanceIA/Data/AppDbContext.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423664,
+    "ast_hash": "463ec273721089c71507a2c099f9c9eb",
+    "semantic_hash": "463ec273721089c71507a2c099f9c9eb"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/ErrorLogConfiguration.cs": {
+    "mtime": 1788182155.850639,
+    "seen": 1788704699.4423673,
+    "ast_hash": "661e3d55a3121388a0678b6fef20f718",
+    "semantic_hash": "661e3d55a3121388a0678b6fef20f718"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/AlertConfiguration.cs": {
+    "mtime": 1788182155.8511834,
+    "seen": 1788704699.442368,
+    "ast_hash": "e46d9cd31e8607236e3ff038913fe3e9",
+    "semantic_hash": "e46d9cd31e8607236e3ff038913fe3e9"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/AlertRuleCatalogueConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.442369,
+    "ast_hash": "4d00b9bd9261c441e6c395433c694aef",
+    "semantic_hash": "4d00b9bd9261c441e6c395433c694aef"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/AnalysisConfiguration.cs": {
+    "mtime": 1788703481.4245093,
+    "seen": 1788704699.4423697,
+    "ast_hash": "976d11bff119f36f7d9687437a43ac1b",
+    "semantic_hash": "976d11bff119f36f7d9687437a43ac1b"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/AnalysisResultConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423707,
+    "ast_hash": "99c1968874c906a5d4b60fa094e3666a",
+    "semantic_hash": "99c1968874c906a5d4b60fa094e3666a"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/ApiCallLogConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423716,
+    "ast_hash": "0ca2a59bec2b72b9c8e593b570367647",
+    "semantic_hash": "0ca2a59bec2b72b9c8e593b570367647"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/AuditLogConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423723,
+    "ast_hash": "d08a33ade7e4dd77b1c6970f390df181",
+    "semantic_hash": "d08a33ade7e4dd77b1c6970f390df181"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/ChatConversationConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.442373,
+    "ast_hash": "579b2326ce588ef88349b778af5d5e27",
+    "semantic_hash": "579b2326ce588ef88349b778af5d5e27"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/ChatMessageConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.442374,
+    "ast_hash": "f324d0dc14f74d2092deac62b7f60b7f",
+    "semantic_hash": "f324d0dc14f74d2092deac62b7f60b7f"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/CreditLineConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423747,
+    "ast_hash": "a1e69d356a7b6ee979cf8d510750d484",
+    "semantic_hash": "a1e69d356a7b6ee979cf8d510750d484"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/CreditLineOperationConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423754,
+    "ast_hash": "a9350497bf3040dd65f3c814a4d15553",
+    "semantic_hash": "a9350497bf3040dd65f3c814a4d15553"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/DocumentConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423761,
+    "ast_hash": "e3fba078a3b6c8112a4a19ed93c7315f",
+    "semantic_hash": "e3fba078a3b6c8112a4a19ed93c7315f"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/EntityConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423769,
+    "ast_hash": "8c1c0bcbeb9103aa1541087597f66e8a",
+    "semantic_hash": "8c1c0bcbeb9103aa1541087597f66e8a"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/ExportLogConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423778,
+    "ast_hash": "f7243e162172496d9b2d39634334150d",
+    "semantic_hash": "f7243e162172496d9b2d39634334150d"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/FiadorConfiguration.cs": {
+    "mtime": 1788182155.8518128,
+    "seen": 1788704699.4423785,
+    "ast_hash": "b9e5820c5c071dd9185981e46c23c046",
+    "semantic_hash": "b9e5820c5c071dd9185981e46c23c046"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/MfaBackupCodeConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423792,
+    "ast_hash": "258fb07a3578caece0080555d04aca1e",
+    "semantic_hash": "258fb07a3578caece0080555d04aca1e"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/NoteConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.44238,
+    "ast_hash": "915a32ca45c2526d5ab0311c94eef480",
+    "semantic_hash": "915a32ca45c2526d5ab0311c94eef480"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/NotificationConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.442381,
+    "ast_hash": "ed1190b07ca0c836527cfe44125a07f6",
+    "semantic_hash": "ed1190b07ca0c836527cfe44125a07f6"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/ScoringConfigConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.4423816,
+    "ast_hash": "c1f8b2bd4f86735a7470914cb7cc17db",
+    "semantic_hash": "c1f8b2bd4f86735a7470914cb7cc17db"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/SessionLogConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.4423823,
+    "ast_hash": "eaf1ae83fb232d123497a384f8b6263b",
+    "semantic_hash": "eaf1ae83fb232d123497a384f8b6263b"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/TenantBillingConfigConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423833,
+    "ast_hash": "3f57d09ac4efe4a7580da328579b76b0",
+    "semantic_hash": "3f57d09ac4efe4a7580da328579b76b0"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/TenantSettingsConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.4423842,
+    "ast_hash": "d274d4a21ce38e9f444d3de43845ac51",
+    "semantic_hash": "d274d4a21ce38e9f444d3de43845ac51"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/UserApprovalLimitConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423852,
+    "ast_hash": "f0d03cbd0a9db4ff4b63057f990a415e",
+    "semantic_hash": "f0d03cbd0a9db4ff4b63057f990a415e"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/Financia/UserConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.442386,
+    "ast_hash": "bc1116080e0011b88cb944cb78130b84",
+    "semantic_hash": "bc1116080e0011b88cb944cb78130b84"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/TenantCredencialConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.4423866,
+    "ast_hash": "c77ed98ee93498ae22f97ed9d16aa157",
+    "semantic_hash": "c77ed98ee93498ae22f97ed9d16aa157"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/TenantFirebaseConfigConfiguration.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423873,
+    "ast_hash": "bf724e5648d874bcd6c22070a7b8fc90",
+    "semantic_hash": "bf724e5648d874bcd6c22070a7b8fc90"
+  },
+  "Api.Web.FinanceIA/Data/Configurations/UserInvitationConfiguration.cs": {
+    "mtime": 1788182155.8543513,
+    "seen": 1788704699.4423883,
+    "ast_hash": "76b7455c2d41d205bea921504e2add15",
+    "semantic_hash": "76b7455c2d41d205bea921504e2add15"
+  },
+  "Api.Web.FinanceIA/Data/FinanciaDbContext.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423892,
+    "ast_hash": "35b46ed2236dca24883b144180409c03",
+    "semantic_hash": "35b46ed2236dca24883b144180409c03"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/AlertRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.44239,
+    "ast_hash": "d06f7c96e4de78ccc2c9a581072acbce",
+    "semantic_hash": "d06f7c96e4de78ccc2c9a581072acbce"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/AlertRuleCatalogueRepository.cs": {
+    "mtime": 1788182155.8612556,
+    "seen": 1788704699.4423907,
+    "ast_hash": "83eb564a01c1254ac1fe80928b65b395",
+    "semantic_hash": "83eb564a01c1254ac1fe80928b65b395"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/AnalysisRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423916,
+    "ast_hash": "379177574f13d3b60de5339cf583c9b1",
+    "semantic_hash": "379177574f13d3b60de5339cf583c9b1"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/AnalysisResultRepository.cs": {
+    "mtime": 1788182155.8612556,
+    "seen": 1788704699.4423923,
+    "ast_hash": "c2b5817911ae06ef1b1b46a621ed86e1",
+    "semantic_hash": "c2b5817911ae06ef1b1b46a621ed86e1"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/AuditLogRepository.cs": {
+    "mtime": 1788182155.8612556,
+    "seen": 1788704699.442393,
+    "ast_hash": "1549920d1e6a1a5bb82cde4bde07220a",
+    "semantic_hash": "1549920d1e6a1a5bb82cde4bde07220a"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ChatRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4423938,
+    "ast_hash": "94315d6b5248a38c76fd3f00d7b5c37f",
+    "semantic_hash": "94315d6b5248a38c76fd3f00d7b5c37f"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/CredencialRepository.cs": {
+    "mtime": 1788182155.8612556,
+    "seen": 1788704699.4423947,
+    "ast_hash": "59dd05b78ac754b2c05852817cde8bbc",
+    "semantic_hash": "59dd05b78ac754b2c05852817cde8bbc"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/CreditLineOperationRepository.cs": {
+    "mtime": 1788182155.8612556,
+    "seen": 1788704699.4423957,
+    "ast_hash": "54385e6f6099d648878119f47b8877ab",
+    "semantic_hash": "54385e6f6099d648878119f47b8877ab"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/CreditLineRepository.cs": {
+    "mtime": 1788182155.8612556,
+    "seen": 1788704699.4423964,
+    "ast_hash": "aecca58303ae0c9097bda188c9ae8b1d",
+    "semantic_hash": "aecca58303ae0c9097bda188c9ae8b1d"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/DocumentRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.442397,
+    "ast_hash": "ac0ab0a9ce4095b8b67185ff509e9300",
+    "semantic_hash": "ac0ab0a9ce4095b8b67185ff509e9300"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/EntityRepository.cs": {
+    "mtime": 1788182155.8623512,
+    "seen": 1788704699.4423978,
+    "ast_hash": "925b6b5afaae2a1a9c4482e9e503df8b",
+    "semantic_hash": "925b6b5afaae2a1a9c4482e9e503df8b"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ErrorLogRepository.cs": {
+    "mtime": 1788182155.8623512,
+    "seen": 1788704699.4423988,
+    "ast_hash": "eb28b31449dd82c8b5aef2d657a268ae",
+    "semantic_hash": "eb28b31449dd82c8b5aef2d657a268ae"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ExportLogRepository.cs": {
+    "mtime": 1788182155.8623512,
+    "seen": 1788704699.4423995,
+    "ast_hash": "54e6b5245ae750e3f75d77676113fed4",
+    "semantic_hash": "54e6b5245ae750e3f75d77676113fed4"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/FiadorRepository.cs": {
+    "mtime": 1788182155.8623512,
+    "seen": 1788704699.4424002,
+    "ast_hash": "318e57e1740c4fc35b9f24660809fc8d",
+    "semantic_hash": "318e57e1740c4fc35b9f24660809fc8d"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IAlertRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.442401,
+    "ast_hash": "6d9c1c86f09b94edb350936e890f8619",
+    "semantic_hash": "6d9c1c86f09b94edb350936e890f8619"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IAlertRuleCatalogueRepository.cs": {
+    "mtime": 1788182155.8623512,
+    "seen": 1788704699.4424021,
+    "ast_hash": "9556530e50c6f90e20c6fb099f6c3606",
+    "semantic_hash": "9556530e50c6f90e20c6fb099f6c3606"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IAnalysisRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4424028,
+    "ast_hash": "4b21871f20ffd8baf9be1b7e312e690d",
+    "semantic_hash": "4b21871f20ffd8baf9be1b7e312e690d"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IAnalysisResultRepository.cs": {
+    "mtime": 1788182155.8623512,
+    "seen": 1788704699.4424036,
+    "ast_hash": "b0a4cd9a414392a7d022889b5db26118",
+    "semantic_hash": "b0a4cd9a414392a7d022889b5db26118"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IAuditLogRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424045,
+    "ast_hash": "8d0ce3a2bb4aebf8a0750137eae64cd0",
+    "semantic_hash": "8d0ce3a2bb4aebf8a0750137eae64cd0"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IChatRepository.cs": {
+    "mtime": 1788703481.4285095,
+    "seen": 1788704699.4424055,
+    "ast_hash": "129eb722814abfd6661a5c867ae0933b",
+    "semantic_hash": "129eb722814abfd6661a5c867ae0933b"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ICredencialRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424062,
+    "ast_hash": "a1df95a7614d4e868781db8a0db7cac9",
+    "semantic_hash": "a1df95a7614d4e868781db8a0db7cac9"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ICreditLineOperationRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.442407,
+    "ast_hash": "9d1e69396c9d5e6b30c0e16968e53b18",
+    "semantic_hash": "9d1e69396c9d5e6b30c0e16968e53b18"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ICreditLineRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424078,
+    "ast_hash": "73699dd9e5dd578b9a36722e5509ca5c",
+    "semantic_hash": "73699dd9e5dd578b9a36722e5509ca5c"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IDocumentRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424088,
+    "ast_hash": "9021eee15e676ae194c88f5f470d3278",
+    "semantic_hash": "9021eee15e676ae194c88f5f470d3278"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IEntityRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424098,
+    "ast_hash": "d3ac20f3a2608b8911883568688a15ce",
+    "semantic_hash": "d3ac20f3a2608b8911883568688a15ce"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IErrorLogRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424105,
+    "ast_hash": "31419c37949dc94ddfeff5ecb437c177",
+    "semantic_hash": "31419c37949dc94ddfeff5ecb437c177"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IExportLogRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424112,
+    "ast_hash": "fb0ec2f17aece358b9460d419d4534f8",
+    "semantic_hash": "fb0ec2f17aece358b9460d419d4534f8"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IFiadorRepository.cs": {
+    "mtime": 1788182155.8663514,
+    "seen": 1788704699.4424121,
+    "ast_hash": "7faf10a4bb8f25c3ec5d6043e7caf0c8",
+    "semantic_hash": "7faf10a4bb8f25c3ec5d6043e7caf0c8"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/INoteRepository.cs": {
+    "mtime": 1788182155.8703513,
+    "seen": 1788704699.442413,
+    "ast_hash": "3386486080a22024dc28c568edbdae82",
+    "semantic_hash": "3386486080a22024dc28c568edbdae82"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/INotificationRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424138,
+    "ast_hash": "cd21c78a71a1eb84053dc94ca7227076",
+    "semantic_hash": "cd21c78a71a1eb84053dc94ca7227076"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ITenantBillingConfigRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424145,
+    "ast_hash": "4c94ad8d758920945750cae35b741e79",
+    "semantic_hash": "4c94ad8d758920945750cae35b741e79"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ITenantFirebaseConfigRepository.cs": {
+    "mtime": 1788182155.8703513,
+    "seen": 1788704699.4424155,
+    "ast_hash": "4302c33385ac2c36589747d7d75c5f2c",
+    "semantic_hash": "4302c33385ac2c36589747d7d75c5f2c"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/ITenantSettingsRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424162,
+    "ast_hash": "132e4701087636c98d41dc1e660c8628",
+    "semantic_hash": "132e4701087636c98d41dc1e660c8628"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IUsageRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.442417,
+    "ast_hash": "52ef1540fe5b9162b3ea48084b46861a",
+    "semantic_hash": "52ef1540fe5b9162b3ea48084b46861a"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IUserApprovalLimitRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424179,
+    "ast_hash": "b5dde327cb9cffb2d6dbfa416db3fbad",
+    "semantic_hash": "b5dde327cb9cffb2d6dbfa416db3fbad"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IUserInvitationRepository.cs": {
+    "mtime": 1788182155.8703513,
+    "seen": 1788704699.4424186,
+    "ast_hash": "6ced882c634a8e6dd6c676929f4b7f05",
+    "semantic_hash": "6ced882c634a8e6dd6c676929f4b7f05"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/IUserRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424195,
+    "ast_hash": "262d0b1d4e957a56a977dc22d37f7f0b",
+    "semantic_hash": "262d0b1d4e957a56a977dc22d37f7f0b"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/NoteRepository.cs": {
+    "mtime": 1788182155.8703513,
+    "seen": 1788704699.4424202,
+    "ast_hash": "5cdf64a4c4197c239311caa2f97e4a67",
+    "semantic_hash": "5cdf64a4c4197c239311caa2f97e4a67"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/NotificationRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424212,
+    "ast_hash": "9bc12aa139dba92413b42f16f233f7ee",
+    "semantic_hash": "9bc12aa139dba92413b42f16f233f7ee"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/TenantBillingConfigRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.442422,
+    "ast_hash": "f6bfaa947c1753ef3bdffd1ee19de60d",
+    "semantic_hash": "f6bfaa947c1753ef3bdffd1ee19de60d"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/TenantFirebaseConfigRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424229,
+    "ast_hash": "13bfb03d9d38daacea848098b1561fe6",
+    "semantic_hash": "13bfb03d9d38daacea848098b1561fe6"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/TenantSettingsRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424236,
+    "ast_hash": "aa984efd4f86016e5564860ad0204c42",
+    "semantic_hash": "aa984efd4f86016e5564860ad0204c42"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/UsageRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424245,
+    "ast_hash": "568fafa42079336f0ab6f6537f69dae4",
+    "semantic_hash": "568fafa42079336f0ab6f6537f69dae4"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/UserApprovalLimitRepository.cs": {
+    "mtime": 1788703481.4325094,
+    "seen": 1788704699.4424253,
+    "ast_hash": "8ee529b5b25f136a516b68750922b5b0",
+    "semantic_hash": "8ee529b5b25f136a516b68750922b5b0"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/UserInvitationRepository.cs": {
+    "mtime": 1788182155.8743513,
+    "seen": 1788704699.4424262,
+    "ast_hash": "487058809c9a9850209b6a8ad7bfe822",
+    "semantic_hash": "487058809c9a9850209b6a8ad7bfe822"
+  },
+  "Api.Web.FinanceIA/Data/Repositories/UserRepository.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.442427,
+    "ast_hash": "4db411b8d5836638ec0456d22aaff855",
+    "semantic_hash": "4db411b8d5836638ec0456d22aaff855"
+  },
+  "Api.Web.FinanceIA/Data/SqlJsonFunctions.cs": {
+    "mtime": 1788182155.8743513,
+    "seen": 1788704699.4424276,
+    "ast_hash": "f32cd46fccf768858779de0638707b72",
+    "semantic_hash": "f32cd46fccf768858779de0638707b72"
+  },
+  "Api.Web.FinanceIA/Models/Arca/ArcaDtos.cs": {
+    "mtime": 1788182155.8782976,
+    "seen": 1788704699.4424284,
+    "ast_hash": "6baf0c209a8fd72e976c7f28588d7fce",
+    "semantic_hash": "6baf0c209a8fd72e976c7f28588d7fce"
+  },
+  "Api.Web.FinanceIA/Models/Auth/CompleteRegistrationRequest.cs": {
+    "mtime": 1788182155.8783512,
+    "seen": 1788704699.442429,
+    "ast_hash": "88b3ed01d07eb68974efbf6672d78907",
+    "semantic_hash": "88b3ed01d07eb68974efbf6672d78907"
+  },
+  "Api.Web.FinanceIA/Models/AuthTokenRequest.cs": {
+    "mtime": 1788182155.8783512,
+    "seen": 1788704699.4424303,
+    "ast_hash": "b283fdd75e508c80de4c82ff48520eb1",
+    "semantic_hash": "b283fdd75e508c80de4c82ff48520eb1"
+  },
+  "Api.Web.FinanceIA/Models/BillingOptions.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.442431,
+    "ast_hash": "9f80bcff813e48448f11d01ce964df4a",
+    "semantic_hash": "9f80bcff813e48448f11d01ce964df4a"
+  },
+  "Api.Web.FinanceIA/Models/ClientErrorLogRequest.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424317,
+    "ast_hash": "e7c6c5e5b8ad35fd2567c0deaf6228ce",
+    "semantic_hash": "e7c6c5e5b8ad35fd2567c0deaf6228ce"
+  },
+  "Api.Web.FinanceIA/Models/DynamicsFetchXmlPagedResult.cs": {
+    "mtime": 1788182155.8783512,
+    "seen": 1788704699.4424324,
+    "ast_hash": "ab604feefdfbf8a40904b8752a7c3d3d",
+    "semantic_hash": "ab604feefdfbf8a40904b8752a7c3d3d"
+  },
+  "Api.Web.FinanceIA/Models/Entities/UserInvitation.cs": {
+    "mtime": 1788182155.8783512,
+    "seen": 1788704699.4424334,
+    "ast_hash": "8b6a2f01cf6ed03bc3e4e0f29b76b0ae",
+    "semantic_hash": "8b6a2f01cf6ed03bc3e4e0f29b76b0ae"
+  },
+  "Api.Web.FinanceIA/Models/ErrorLog.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.442434,
+    "ast_hash": "9ee73691d134e89f397391107ad48d94",
+    "semantic_hash": "9ee73691d134e89f397391107ad48d94"
+  },
+  "Api.Web.FinanceIA/Models/FetchXmlPagedRequest.cs": {
+    "mtime": 1788182155.8783512,
+    "seen": 1788704699.4424348,
+    "ast_hash": "3e27bf87a8466f22b17c362e05373370",
+    "semantic_hash": "3e27bf87a8466f22b17c362e05373370"
+  },
+  "Api.Web.FinanceIA/Models/FetchXmlPagedResponse.cs": {
+    "mtime": 1788182155.8783512,
+    "seen": 1788704699.4424355,
+    "ast_hash": "9d061dad40f1a9e6eba39fd7cf837352",
+    "semantic_hash": "9d061dad40f1a9e6eba39fd7cf837352"
+  },
+  "Api.Web.FinanceIA/Models/FetchXmlRequest.cs": {
+    "mtime": 1788182155.8823514,
+    "seen": 1788704699.4424365,
+    "ast_hash": "12151ffb30d0e259a0cfffdc48ec122f",
+    "semantic_hash": "12151ffb30d0e259a0cfffdc48ec122f"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AddFiadorRequest.cs": {
+    "mtime": 1788182155.8823514,
+    "seen": 1788704699.4424372,
+    "ast_hash": "07ff7f1c26db064090da08f3c81830b3",
+    "semantic_hash": "07ff7f1c26db064090da08f3c81830b3"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Alert.cs": {
+    "mtime": 1788182155.8857017,
+    "seen": 1788704699.4424381,
+    "ast_hash": "9698b16646aec4cf103c6a2a06c0190c",
+    "semantic_hash": "9698b16646aec4cf103c6a2a06c0190c"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AlertDto.cs": {
+    "mtime": 1788182155.8857017,
+    "seen": 1788704699.4424388,
+    "ast_hash": "269eb8212ba23c5cb29aa13af20502d2",
+    "semantic_hash": "269eb8212ba23c5cb29aa13af20502d2"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AlertRuleDefinition.cs": {
+    "mtime": 1788182155.8857017,
+    "seen": 1788704699.4424398,
+    "ast_hash": "2e0debd4eb5842392d8a25a650867940",
+    "semantic_hash": "2e0debd4eb5842392d8a25a650867940"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AlertRuleDto.cs": {
+    "mtime": 1788182155.8857017,
+    "seen": 1788704699.4424407,
+    "ast_hash": "93d413add943c0d64e700a4dc882b764",
+    "semantic_hash": "93d413add943c0d64e700a4dc882b764"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Analysis.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424415,
+    "ast_hash": "86f984f77892fde012339c39fca96987",
+    "semantic_hash": "86f984f77892fde012339c39fca96987"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisBcraChequesResponse.cs": {
+    "mtime": 1788182155.8857017,
+    "seen": 1788704699.4424422,
+    "ast_hash": "cf9c05e0fb9e4672ce21798fcc8541fd",
+    "semantic_hash": "cf9c05e0fb9e4672ce21798fcc8541fd"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisBcraProjection.cs": {
+    "mtime": 1788182155.8863513,
+    "seen": 1788704699.442443,
+    "ast_hash": "181f09605280933acd592dfaaf3fc915",
+    "semantic_hash": "181f09605280933acd592dfaaf3fc915"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisContextProjection.cs": {
+    "mtime": 1788182155.8863513,
+    "seen": 1788704699.4424438,
+    "ast_hash": "a0a227ed65388eca5da699d1fd9d363b",
+    "semantic_hash": "a0a227ed65388eca5da699d1fd9d363b"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisContextResponse.cs": {
+    "mtime": 1788182155.8863513,
+    "seen": 1788704699.4424446,
+    "ast_hash": "ecbced310dc168bb009eb84054609529",
+    "semantic_hash": "ecbced310dc168bb009eb84054609529"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisDecisionRequest.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424453,
+    "ast_hash": "fface916dc36d47903d407e96f187b0d",
+    "semantic_hash": "fface916dc36d47903d407e96f187b0d"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisLabelProjection.cs": {
+    "mtime": 1788182155.8863513,
+    "seen": 1788704699.442446,
+    "ast_hash": "4ca7875121faff190d634c4bc16859e2",
+    "semantic_hash": "4ca7875121faff190d634c4bc16859e2"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisLabelResponse.cs": {
+    "mtime": 1788182155.8863513,
+    "seen": 1788704699.4424493,
+    "ast_hash": "0b830ba579ed1068199e72255aaa795c",
+    "semantic_hash": "0b830ba579ed1068199e72255aaa795c"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisListItemResponse.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424503,
+    "ast_hash": "29fc3b3c6748b9f688aa6baae5db6e54",
+    "semantic_hash": "29fc3b3c6748b9f688aa6baae5db6e54"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisListProjection.cs": {
+    "mtime": 1788182155.8903513,
+    "seen": 1788704699.442451,
+    "ast_hash": "a86f8137b31e82779d24b2f126e7a3dc",
+    "semantic_hash": "a86f8137b31e82779d24b2f126e7a3dc"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisListResponse.cs": {
+    "mtime": 1788182155.8903513,
+    "seen": 1788704699.4424517,
+    "ast_hash": "4506ebfb72358f05a1290cbb91639a82",
+    "semantic_hash": "4506ebfb72358f05a1290cbb91639a82"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisRatiosProjection.cs": {
+    "mtime": 1788182155.8903513,
+    "seen": 1788704699.4424524,
+    "ast_hash": "f0fbc89d97e6d80fd04811c98e073aca",
+    "semantic_hash": "f0fbc89d97e6d80fd04811c98e073aca"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisRatiosResponse.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424531,
+    "ast_hash": "1a0db8acda610dc5fc115ece0c3ca266",
+    "semantic_hash": "1a0db8acda610dc5fc115ece0c3ca266"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisResult.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.442454,
+    "ast_hash": "8a8e06da8d93b040d323ab0e0c78a85e",
+    "semantic_hash": "8a8e06da8d93b040d323ab0e0c78a85e"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisResultBcraSummary.cs": {
+    "mtime": 1788182155.8903513,
+    "seen": 1788704699.442455,
+    "ast_hash": "5baf6fc960001d81b612f8f05347e989",
+    "semantic_hash": "5baf6fc960001d81b612f8f05347e989"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisResultDetailProjection.cs": {
+    "mtime": 1788182155.8903513,
+    "seen": 1788704699.4424555,
+    "ast_hash": "eb9582da25a1aea9494ed14995f9584c",
+    "semantic_hash": "eb9582da25a1aea9494ed14995f9584c"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AnalysisResultResponse.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424565,
+    "ast_hash": "092fbefefb238db9a232dcd13e765326",
+    "semantic_hash": "092fbefefb238db9a232dcd13e765326"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ApiCallLog.cs": {
+    "mtime": 1788182155.8943512,
+    "seen": 1788704699.4424574,
+    "ast_hash": "6c83305d8b347a6c38199e50f14ded88",
+    "semantic_hash": "6c83305d8b347a6c38199e50f14ded88"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AuditLog.cs": {
+    "mtime": 1788182155.8943512,
+    "seen": 1788704699.4424582,
+    "ast_hash": "54c1f3538f030a95cfc3f20bf21661a4",
+    "semantic_hash": "54c1f3538f030a95cfc3f20bf21661a4"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AuditLogResponse.cs": {
+    "mtime": 1788182155.8943512,
+    "seen": 1788704699.4424589,
+    "ast_hash": "e36dcecf5db00662726ec86a3d0a7f97",
+    "semantic_hash": "e36dcecf5db00662726ec86a3d0a7f97"
+  },
+  "Api.Web.FinanceIA/Models/Financia/AuthenticatedUserResponse.cs": {
+    "mtime": 1788182155.8943512,
+    "seen": 1788704699.4424596,
+    "ast_hash": "412e4b841c9c8bf652634d3ffcc417b8",
+    "semantic_hash": "412e4b841c9c8bf652634d3ffcc417b8"
+  },
+  "Api.Web.FinanceIA/Models/Financia/BalanceAccounts.cs": {
+    "mtime": 1788182155.8943512,
+    "seen": 1788704699.4424603,
+    "ast_hash": "64d2d8a80509d182e370ff9d3f63a0fc",
+    "semantic_hash": "64d2d8a80509d182e370ff9d3f63a0fc"
+  },
+  "Api.Web.FinanceIA/Models/Financia/BcraModels.cs": {
+    "mtime": 1788703481.4365094,
+    "seen": 1788704699.4424613,
+    "ast_hash": "5d8f9d200f08d640ed58a4fd800006d9",
+    "semantic_hash": "5d8f9d200f08d640ed58a4fd800006d9"
+  },
+  "Api.Web.FinanceIA/Models/Financia/BillingConfigResponse.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.442462,
+    "ast_hash": "11742e905191095e6280b9740e2f2802",
+    "semantic_hash": "11742e905191095e6280b9740e2f2802"
+  },
+  "Api.Web.FinanceIA/Models/Financia/BillingPlans.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424627,
+    "ast_hash": "85c8cc036662ad96a45947c818e19317",
+    "semantic_hash": "85c8cc036662ad96a45947c818e19317"
+  },
+  "Api.Web.FinanceIA/Models/Financia/BillingUsageResponse.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424634,
+    "ast_hash": "5bc6c3939a0c1265294bd06f26465469",
+    "semantic_hash": "5bc6c3939a0c1265294bd06f26465469"
+  },
+  "Api.Web.FinanceIA/Models/Financia/BillingUsageSnapshot.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424644,
+    "ast_hash": "34a0a76e2984e506b8778e2a98d2b48f",
+    "semantic_hash": "34a0a76e2984e506b8778e2a98d2b48f"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CasfogModels.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424653,
+    "ast_hash": "d3a27d1684479c84a6c65d828c838148",
+    "semantic_hash": "d3a27d1684479c84a6c65d828c838148"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CashFlowData.cs": {
+    "mtime": 1788182155.8983512,
+    "seen": 1788704699.442466,
+    "ast_hash": "3cf5ac90c0094946cdf7de0386e51767",
+    "semantic_hash": "3cf5ac90c0094946cdf7de0386e51767"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CatalogueAlert.cs": {
+    "mtime": 1788182155.8983512,
+    "seen": 1788704699.4424667,
+    "ast_hash": "7bbd473b28c1255d557c4960695062b0",
+    "semantic_hash": "7bbd473b28c1255d557c4960695062b0"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatAttachmentContentResponse.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424677,
+    "ast_hash": "452909942d60fff027ac35ebc701ff77",
+    "semantic_hash": "452909942d60fff027ac35ebc701ff77"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatAttachmentResponse.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424684,
+    "ast_hash": "baaac8430b9195e33b5c8a50c586bbbe",
+    "semantic_hash": "baaac8430b9195e33b5c8a50c586bbbe"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatConversation.cs": {
+    "mtime": 1788182155.8983512,
+    "seen": 1788704699.4424691,
+    "ast_hash": "da69aa6872af5c25fd2dec523e775484",
+    "semantic_hash": "da69aa6872af5c25fd2dec523e775484"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatHistoryResponse.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424698,
+    "ast_hash": "7e48c44e7db7a52e68d8c87c157fb52e",
+    "semantic_hash": "7e48c44e7db7a52e68d8c87c157fb52e"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatMessage.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424706,
+    "ast_hash": "489fcca70fce8106a78df6cbc67e78ad",
+    "semantic_hash": "489fcca70fce8106a78df6cbc67e78ad"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatModelCatalog.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424715,
+    "ast_hash": "0ebdfea9516a90eba49587ea3fe32a0c",
+    "semantic_hash": "0ebdfea9516a90eba49587ea3fe32a0c"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatRequest.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424725,
+    "ast_hash": "546d4bda197a35ce1020524828433431",
+    "semantic_hash": "546d4bda197a35ce1020524828433431"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChatResponse.cs": {
+    "mtime": 1788182155.8983512,
+    "seen": 1788704699.4424732,
+    "ast_hash": "46fb1e22d6bab2c04808a6f823b2b347",
+    "semantic_hash": "46fb1e22d6bab2c04808a6f823b2b347"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ChequesEvolucion.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.442474,
+    "ast_hash": "0156431b19592608b622ced887201ca4",
+    "semantic_hash": "0156431b19592608b622ced887201ca4"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ClaudeAnalysisResult.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.4424748,
+    "ast_hash": "dc51d37bcca07a02a977f46e4aa1d238",
+    "semantic_hash": "dc51d37bcca07a02a977f46e4aa1d238"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ClaudeChatResult.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.4424756,
+    "ast_hash": "806a2143e32ad896c2259b2730e18050",
+    "semantic_hash": "806a2143e32ad896c2259b2730e18050"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ClaudeNarrativeResult.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.4424765,
+    "ast_hash": "ca60e779ce2bedd0d30425dbcf587f6c",
+    "semantic_hash": "ca60e779ce2bedd0d30425dbcf587f6c"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreateCreditLineRequest.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.4424772,
+    "ast_hash": "a8c7e1194e4c7bad13808b829744f6c6",
+    "semantic_hash": "a8c7e1194e4c7bad13808b829744f6c6"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreateEntityRequest.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.4424782,
+    "ast_hash": "5da160ad06fa1f2af180d0873d0df30f",
+    "semantic_hash": "5da160ad06fa1f2af180d0873d0df30f"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreateNoteRequest.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.442479,
+    "ast_hash": "cba374c9bb5fe6e1157331ea22cc7ab9",
+    "semantic_hash": "cba374c9bb5fe6e1157331ea22cc7ab9"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreateOperationRequest.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424796,
+    "ast_hash": "bae2fb4cb6a5afe2f262df9ef29af4f6",
+    "semantic_hash": "bae2fb4cb6a5afe2f262df9ef29af4f6"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreditLine.cs": {
+    "mtime": 1788182155.9023514,
+    "seen": 1788704699.4424803,
+    "ast_hash": "ea19d03961401e4cb7508969f0b3ee07",
+    "semantic_hash": "ea19d03961401e4cb7508969f0b3ee07"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreditLineOperation.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.442481,
+    "ast_hash": "b04b90650eb93e52fc91e1edbc6a4523",
+    "semantic_hash": "b04b90650eb93e52fc91e1edbc6a4523"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreditLineResponse.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.442482,
+    "ast_hash": "99ba2e70a8fad9fe46c41f878457f72b",
+    "semantic_hash": "99ba2e70a8fad9fe46c41f878457f72b"
+  },
+  "Api.Web.FinanceIA/Models/Financia/CreditLineStructureResponse.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424827,
+    "ast_hash": "f3656ded2e678bbf596448d2f9c7017e",
+    "semantic_hash": "f3656ded2e678bbf596448d2f9c7017e"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Document.cs": {
+    "mtime": 1788703481.4405093,
+    "seen": 1788704699.4424834,
+    "ast_hash": "ba8299bbb30d68a852e658a2a1904b24",
+    "semantic_hash": "ba8299bbb30d68a852e658a2a1904b24"
+  },
+  "Api.Web.FinanceIA/Models/Financia/DocumentListResponse.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424844,
+    "ast_hash": "c7a74cca87d0c7700a967750ba4d53e6",
+    "semantic_hash": "c7a74cca87d0c7700a967750ba4d53e6"
+  },
+  "Api.Web.FinanceIA/Models/Financia/DocumentResponse.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424853,
+    "ast_hash": "0f74485ebaa42afdf9bb3701691dd6fc",
+    "semantic_hash": "0f74485ebaa42afdf9bb3701691dd6fc"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Entity.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.442486,
+    "ast_hash": "2eb33324e3656d14302c9a8652544fc5",
+    "semantic_hash": "2eb33324e3656d14302c9a8652544fc5"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityBcraResponse.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424868,
+    "ast_hash": "d98d1a4843872210b61bb3488aa7d821",
+    "semantic_hash": "d98d1a4843872210b61bb3488aa7d821"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityCasfogResponse.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424875,
+    "ast_hash": "a9b853b1af13375f36397e519aac2f9b",
+    "semantic_hash": "a9b853b1af13375f36397e519aac2f9b"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityDetailProjection.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424884,
+    "ast_hash": "222990810874842025890266df429f4c",
+    "semantic_hash": "222990810874842025890266df429f4c"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityLabelResponse.cs": {
+    "mtime": 1788182155.9063513,
+    "seen": 1788704699.4424891,
+    "ast_hash": "04ef910c5c687bcae2a36593d2a10a00",
+    "semantic_hash": "04ef910c5c687bcae2a36593d2a10a00"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityListItemResponse.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424899,
+    "ast_hash": "cf28113e343b424af347a02baba9e860",
+    "semantic_hash": "cf28113e343b424af347a02baba9e860"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityListProjection.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424908,
+    "ast_hash": "859696eb0088864c3102ee879c94f522",
+    "semantic_hash": "859696eb0088864c3102ee879c94f522"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityListResponse.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424915,
+    "ast_hash": "fe950225f21d48bbf137f9e982677f85",
+    "semantic_hash": "fe950225f21d48bbf137f9e982677f85"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityNameProjection.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424925,
+    "ast_hash": "09789cd396e64f5a5b69f447b443aca2",
+    "semantic_hash": "09789cd396e64f5a5b69f447b443aca2"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityNosisResponse.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424932,
+    "ast_hash": "bfebce286ec05fc27801bf2d86c82691",
+    "semantic_hash": "bfebce286ec05fc27801bf2d86c82691"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntityResponse.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.442494,
+    "ast_hash": "0d9bebf7888b8742541842f968b9a5e5",
+    "semantic_hash": "0d9bebf7888b8742541842f968b9a5e5"
+  },
+  "Api.Web.FinanceIA/Models/Financia/EntitySnapshotProjection.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424946,
+    "ast_hash": "5ffe6d856180f27dcec5c96a36745148",
+    "semantic_hash": "5ffe6d856180f27dcec5c96a36745148"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ExcelParseResult.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424963,
+    "ast_hash": "bee43ceaae3d9a72837afb11e587189e",
+    "semantic_hash": "bee43ceaae3d9a72837afb11e587189e"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ExportLog.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424973,
+    "ast_hash": "5b3107cda2cd84c1922946c6e79c3e65",
+    "semantic_hash": "5b3107cda2cd84c1922946c6e79c3e65"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Fiador.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424984,
+    "ast_hash": "09e7ec196e5dbb1c0952ba89b597bb11",
+    "semantic_hash": "09e7ec196e5dbb1c0952ba89b597bb11"
+  },
+  "Api.Web.FinanceIA/Models/Financia/FiadorCandidateResponse.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4424999,
+    "ast_hash": "7792a585d3c1fada7e2a03e1931083b3",
+    "semantic_hash": "7792a585d3c1fada7e2a03e1931083b3"
+  },
+  "Api.Web.FinanceIA/Models/Financia/FiadorResponse.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4425013,
+    "ast_hash": "e639693ec62bd518405122ae074e5d41",
+    "semantic_hash": "e639693ec62bd518405122ae074e5d41"
+  },
+  "Api.Web.FinanceIA/Models/Financia/IEntityProjectionTarget.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.4425027,
+    "ast_hash": "829bcff613e4f000bcdde6bf81811067",
+    "semantic_hash": "829bcff613e4f000bcdde6bf81811067"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ImportLufeDocumentRequest.cs": {
+    "mtime": 1788182155.9103513,
+    "seen": 1788704699.442504,
+    "ast_hash": "09b55167f8902626e1d71d39c7b0c6d9",
+    "semantic_hash": "09b55167f8902626e1d71d39c7b0c6d9"
+  },
+  "Api.Web.FinanceIA/Models/Financia/InviteInfoResponse.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.442505,
+    "ast_hash": "3805fd7955843691def65875e314fec0",
+    "semantic_hash": "3805fd7955843691def65875e314fec0"
+  },
+  "Api.Web.FinanceIA/Models/Financia/InviteUserRequest.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.4425063,
+    "ast_hash": "95a3a2e85103a1a6e12167ea1538e4a7",
+    "semantic_hash": "95a3a2e85103a1a6e12167ea1538e4a7"
+  },
+  "Api.Web.FinanceIA/Models/Financia/MfaBackupCode.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425075,
+    "ast_hash": "ded24e643df708427a25aa88e7451f8b",
+    "semantic_hash": "ded24e643df708427a25aa88e7451f8b"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Note.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.4425087,
+    "ast_hash": "edc32e66855d89758d99781ad9e0a521",
+    "semantic_hash": "edc32e66855d89758d99781ad9e0a521"
+  },
+  "Api.Web.FinanceIA/Models/Financia/NoteResponse.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.4425101,
+    "ast_hash": "f65cfdfa406d2dc0b7cdd6a2ac2daeba",
+    "semantic_hash": "f65cfdfa406d2dc0b7cdd6a2ac2daeba"
+  },
+  "Api.Web.FinanceIA/Models/Financia/Notification.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.442511,
+    "ast_hash": "57c4acab18d62c3114f6fa0b1f8071c9",
+    "semantic_hash": "57c4acab18d62c3114f6fa0b1f8071c9"
+  },
+  "Api.Web.FinanceIA/Models/Financia/NotificationDto.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425123,
+    "ast_hash": "bfa31657a3fb3c1b6eb3347ed6642c73",
+    "semantic_hash": "bfa31657a3fb3c1b6eb3347ed6642c73"
+  },
+  "Api.Web.FinanceIA/Models/Financia/OperationResponse.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425137,
+    "ast_hash": "3a60e4e39e6bfc572c71ed74eae67c86",
+    "semantic_hash": "3a60e4e39e6bfc572c71ed74eae67c86"
+  },
+  "Api.Web.FinanceIA/Models/Financia/OriginatedCreditLineResponse.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.442515,
+    "ast_hash": "d9839aa4db944c76d1f8c4b5ecd4b5d4",
+    "semantic_hash": "d9839aa4db944c76d1f8c4b5ecd4b5d4"
+  },
+  "Api.Web.FinanceIA/Models/Financia/RaiseCreditLineRequest.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.4425166,
+    "ast_hash": "e8a0abd95c56aceb0db1b57eafcb863f",
+    "semantic_hash": "e8a0abd95c56aceb0db1b57eafcb863f"
+  },
+  "Api.Web.FinanceIA/Models/Financia/RatiosData.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.4425178,
+    "ast_hash": "f3f09b07520b0d140e1299840e1b9915",
+    "semantic_hash": "f3f09b07520b0d140e1299840e1b9915"
+  },
+  "Api.Web.FinanceIA/Models/Financia/RegisterInvitedRequest.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.442519,
+    "ast_hash": "60515f756a4bfd1613a5a90856d0e7bd",
+    "semantic_hash": "60515f756a4bfd1613a5a90856d0e7bd"
+  },
+  "Api.Web.FinanceIA/Models/Financia/RegisterRequest.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.4425201,
+    "ast_hash": "5b2b5d561d854ef5517243cbac6a44b8",
+    "semantic_hash": "5b2b5d561d854ef5517243cbac6a44b8"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ScoringConfig.cs": {
+    "mtime": 1788182155.9143512,
+    "seen": 1788704699.442521,
+    "ast_hash": "8ef2c0747c7a9ff88d465e8a6b7024f9",
+    "semantic_hash": "8ef2c0747c7a9ff88d465e8a6b7024f9"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ScoringDefaults.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425223,
+    "ast_hash": "ad20d2f058ef8368e35cc1a78275d21e",
+    "semantic_hash": "ad20d2f058ef8368e35cc1a78275d21e"
+  },
+  "Api.Web.FinanceIA/Models/Financia/ScoringResult.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425237,
+    "ast_hash": "575920bff674bf83dbd3875ea759cdc8",
+    "semantic_hash": "575920bff674bf83dbd3875ea759cdc8"
+  },
+  "Api.Web.FinanceIA/Models/Financia/SectorProfiles.cs": {
+    "mtime": 1788182155.9183514,
+    "seen": 1788704699.442525,
+    "ast_hash": "4186f50852f647456d027ad6efecbf12",
+    "semantic_hash": "4186f50852f647456d027ad6efecbf12"
+  },
+  "Api.Web.FinanceIA/Models/Financia/SessionLog.cs": {
+    "mtime": 1788182155.9183514,
+    "seen": 1788704699.4425259,
+    "ast_hash": "126c1b78307cae2d276590565719acf9",
+    "semantic_hash": "126c1b78307cae2d276590565719acf9"
+  },
+  "Api.Web.FinanceIA/Models/Financia/SetUserApprovalLimitsRequest.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425273,
+    "ast_hash": "a35eaf4a71b44077297d99a2f9d00517",
+    "semantic_hash": "a35eaf4a71b44077297d99a2f9d00517"
+  },
+  "Api.Web.FinanceIA/Models/Financia/SuspendCreditLineRequest.cs": {
+    "mtime": 1788182155.9183514,
+    "seen": 1788704699.4425287,
+    "ast_hash": "cc89ac122d0755141a675fdbf31a713b",
+    "semantic_hash": "cc89ac122d0755141a675fdbf31a713b"
+  },
+  "Api.Web.FinanceIA/Models/Financia/TenantBillingConfig.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425302,
+    "ast_hash": "7194c1c20517b4fb7fdfa85357f17c85",
+    "semantic_hash": "7194c1c20517b4fb7fdfa85357f17c85"
+  },
+  "Api.Web.FinanceIA/Models/Financia/TenantProfilePresets.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425313,
+    "ast_hash": "9f20ea42d36450ca1c73cd59db10fe05",
+    "semantic_hash": "9f20ea42d36450ca1c73cd59db10fe05"
+  },
+  "Api.Web.FinanceIA/Models/Financia/TenantSettingKeys.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425328,
+    "ast_hash": "90495d158c5dc282e4f99541bf3b623a",
+    "semantic_hash": "90495d158c5dc282e4f99541bf3b623a"
+  },
+  "Api.Web.FinanceIA/Models/Financia/TenantSettings.cs": {
+    "mtime": 1788182155.9183514,
+    "seen": 1788704699.4425342,
+    "ast_hash": "b4e8f6b227ad44ed4df1c05b9216813e",
+    "semantic_hash": "b4e8f6b227ad44ed4df1c05b9216813e"
+  },
+  "Api.Web.FinanceIA/Models/Financia/TriggerAnalysisRequest.cs": {
+    "mtime": 1788182155.9183514,
+    "seen": 1788704699.4425354,
+    "ast_hash": "fbba16c0f3fbb4663a7aad007f95cd51",
+    "semantic_hash": "fbba16c0f3fbb4663a7aad007f95cd51"
+  },
+  "Api.Web.FinanceIA/Models/Financia/UpdateBillingConfigRequest.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425366,
+    "ast_hash": "1e50a0d18c84217e39644836bb335fef",
+    "semantic_hash": "1e50a0d18c84217e39644836bb335fef"
+  },
+  "Api.Web.FinanceIA/Models/Financia/UpdateEntityRequest.cs": {
+    "mtime": 1788182155.9183514,
+    "seen": 1788704699.442538,
+    "ast_hash": "8636ad7a926580272cd1ffd30827adf2",
+    "semantic_hash": "8636ad7a926580272cd1ffd30827adf2"
+  },
+  "Api.Web.FinanceIA/Models/Financia/UsageModels.cs": {
+    "mtime": 1788703481.4445093,
+    "seen": 1788704699.4425392,
+    "ast_hash": "79556783e59bad91f38b776837bb814f",
+    "semantic_hash": "79556783e59bad91f38b776837bb814f"
+  },
+  "Api.Web.FinanceIA/Models/Financia/User.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.4425406,
+    "ast_hash": "8f7b9e60aeb0056d10867daf024a710d",
+    "semantic_hash": "8f7b9e60aeb0056d10867daf024a710d"
+  },
+  "Api.Web.FinanceIA/Models/Financia/UserApprovalLimit.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.4425418,
+    "ast_hash": "4f9ce7ed4634b51df9504354108abe42",
+    "semantic_hash": "4f9ce7ed4634b51df9504354108abe42"
+  },
+  "Api.Web.FinanceIA/Models/Financia/UserApprovalLimitResponse.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.442543,
+    "ast_hash": "d5ea800cace5332a617cc5bb22ede6c0",
+    "semantic_hash": "d5ea800cace5332a617cc5bb22ede6c0"
+  },
+  "Api.Web.FinanceIA/Models/Financia/UserProfileResponse.cs": {
+    "mtime": 1788182155.9223514,
+    "seen": 1788704699.4425445,
+    "ast_hash": "22395a74687ab37e7623704888401be0",
+    "semantic_hash": "22395a74687ab37e7623704888401be0"
+  },
+  "Api.Web.FinanceIA/Models/Health/ServiceStatusResponse.cs": {
+    "mtime": 1788182155.9223514,
+    "seen": 1788704699.4425457,
+    "ast_hash": "d975686482ec1bb03b5354a6c4799c6d",
+    "semantic_hash": "d975686482ec1bb03b5354a6c4799c6d"
+  },
+  "Api.Web.FinanceIA/Models/Health/StatuspageSummary.cs": {
+    "mtime": 1788182155.9250572,
+    "seen": 1788704699.4425468,
+    "ast_hash": "18f0f17829d07e6cbd9d9488951e9011",
+    "semantic_hash": "18f0f17829d07e6cbd9d9488951e9011"
+  },
+  "Api.Web.FinanceIA/Models/JwtOptions.cs": {
+    "mtime": 1788182155.9250572,
+    "seen": 1788704699.4425483,
+    "ast_hash": "ca099eab11a7489beb477f5e0118531d",
+    "semantic_hash": "ca099eab11a7489beb477f5e0118531d"
+  },
+  "Api.Web.FinanceIA/Models/Lufe/LufeModels.cs": {
+    "mtime": 1788182155.9250572,
+    "seen": 1788704699.4425495,
+    "ast_hash": "c6b132d531652c9e99649b8ff9f3e6d4",
+    "semantic_hash": "c6b132d531652c9e99649b8ff9f3e6d4"
+  },
+  "Api.Web.FinanceIA/Models/Lufe/LufePeriodo.cs": {
+    "mtime": 1788182155.9266498,
+    "seen": 1788704699.4425511,
+    "ast_hash": "6b93e7a5ac946f42d9d320e0ec89fb2e",
+    "semantic_hash": "6b93e7a5ac946f42d9d320e0ec89fb2e"
+  },
+  "Api.Web.FinanceIA/Models/MfaBackupCodeContracts.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.4425523,
+    "ast_hash": "c66060ec6dcdfaade41d8f4fb267eba6",
+    "semantic_hash": "c66060ec6dcdfaade41d8f4fb267eba6"
+  },
+  "Api.Web.FinanceIA/Models/Nosis/NosisModels.cs": {
+    "mtime": 1788182155.9266498,
+    "seen": 1788704699.4425538,
+    "ast_hash": "f54deb75d07e78070e5d3904f19780fd",
+    "semantic_hash": "f54deb75d07e78070e5d3904f19780fd"
+  },
+  "Api.Web.FinanceIA/Models/RecaptchaResponse.cs": {
+    "mtime": 1788182155.9266498,
+    "seen": 1788704699.4425552,
+    "ast_hash": "1b7137181630c4b06c2bf74e98fa85af",
+    "semantic_hash": "1b7137181630c4b06c2bf74e98fa85af"
+  },
+  "Api.Web.FinanceIA/Models/SearchModels.cs": {
+    "mtime": 1788182155.9266498,
+    "seen": 1788704699.4425564,
+    "ast_hash": "8dc7b2f4a5d87c31ef47503e7386a63c",
+    "semantic_hash": "8dc7b2f4a5d87c31ef47503e7386a63c"
+  },
+  "Api.Web.FinanceIA/Models/Settings/InvitationDto.cs": {
+    "mtime": 1788182155.9303513,
+    "seen": 1788704699.4425573,
+    "ast_hash": "d1550cc373bbbe40efb3bc484a2e0d80",
+    "semantic_hash": "d1550cc373bbbe40efb3bc484a2e0d80"
+  },
+  "Api.Web.FinanceIA/Models/Settings/OnboardingFlagsDto.cs": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.4425588,
+    "ast_hash": "1f78f9d007c5b62ea2a5a2ac77a96ce5",
+    "semantic_hash": "1f78f9d007c5b62ea2a5a2ac77a96ce5"
+  },
+  "Api.Web.FinanceIA/Models/Settings/ProfileDto.cs": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.4425597,
+    "ast_hash": "8a82a62367ddbb15e4843d5e824fd142",
+    "semantic_hash": "8a82a62367ddbb15e4843d5e824fd142"
+  },
+  "Api.Web.FinanceIA/Models/Settings/ScoringConfigDto.cs": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.442561,
+    "ast_hash": "e89cb156a8271dfa539660344c43cb8c",
+    "semantic_hash": "e89cb156a8271dfa539660344c43cb8c"
+  },
+  "Api.Web.FinanceIA/Models/Settings/SectorProfileDto.cs": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.442562,
+    "ast_hash": "a3f41f532bb90ffabafabc18646e9c66",
+    "semantic_hash": "a3f41f532bb90ffabafabc18646e9c66"
+  },
+  "Api.Web.FinanceIA/Models/Settings/UserDto.cs": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.4425638,
+    "ast_hash": "df4b5529cfa0e1f6b560a4706caeb059",
+    "semantic_hash": "df4b5529cfa0e1f6b560a4706caeb059"
+  },
+  "Api.Web.FinanceIA/Models/TenantContext.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.4425652,
+    "ast_hash": "9dab719e71a44ee101226981c4e83d21",
+    "semantic_hash": "9dab719e71a44ee101226981c4e83d21"
+  },
+  "Api.Web.FinanceIA/Models/TenantCredencial.cs": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.4425676,
+    "ast_hash": "bbf5fa657d0eae51433760f1de6d08e9",
+    "semantic_hash": "bbf5fa657d0eae51433760f1de6d08e9"
+  },
+  "Api.Web.FinanceIA/Models/TenantFirebaseConfig.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.4425697,
+    "ast_hash": "02bff341e05645f0b6db2c70bd1c3ac9",
+    "semantic_hash": "02bff341e05645f0b6db2c70bd1c3ac9"
+  },
+  "Api.Web.FinanceIA/Program.cs": {
+    "mtime": 1788706006.8404517,
+    "seen": 1788706149.402165,
+    "ast_hash": "e62189878d0d9daebb1f42283e0d9d63",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Properties/launchSettings.json": {
+    "mtime": 1788182155.9323924,
+    "seen": 1788704699.442573,
+    "ast_hash": "20ea1e6005bcc2bbcd62711f84c0b576",
+    "semantic_hash": "20ea1e6005bcc2bbcd62711f84c0b576"
+  },
+  "Api.Web.FinanceIA/Servicios/AlertRatioReconciliationService.cs": {
+    "mtime": 1788182155.9343512,
+    "seen": 1788704699.4425745,
+    "ast_hash": "c1a3718989b11b68948eb13378317870",
+    "semantic_hash": "c1a3718989b11b68948eb13378317870"
+  },
+  "Api.Web.FinanceIA/Servicios/AlertRuleEngine.cs": {
+    "mtime": 1788182155.9380066,
+    "seen": 1788704699.442576,
+    "ast_hash": "415dc65571cbcd72551beb9ac1cad7b1",
+    "semantic_hash": "415dc65571cbcd72551beb9ac1cad7b1"
+  },
+  "Api.Web.FinanceIA/Servicios/ArcaConstanciaService.cs": {
+    "mtime": 1788182155.9380066,
+    "seen": 1788704699.4425776,
+    "ast_hash": "242c18805f7692cff69d16d2135aae4c",
+    "semantic_hash": "242c18805f7692cff69d16d2135aae4c"
+  },
+  "Api.Web.FinanceIA/Servicios/ArcaPadronA13Service.cs": {
+    "mtime": 1788182155.9380066,
+    "seen": 1788704699.442579,
+    "ast_hash": "ab9ae5230c07cc4c93b71faaedc2afc7",
+    "semantic_hash": "ab9ae5230c07cc4c93b71faaedc2afc7"
+  },
+  "Api.Web.FinanceIA/Servicios/ArcaWsaaService.cs": {
+    "mtime": 1788182155.9383514,
+    "seen": 1788704699.4425802,
+    "ast_hash": "79a7fad9dcc7fa934f38312516025440",
+    "semantic_hash": "79a7fad9dcc7fa934f38312516025440"
+  },
+  "Api.Web.FinanceIA/Servicios/BcraChequesEvolucion.cs": {
+    "mtime": 1788182155.9383514,
+    "seen": 1788704699.4425814,
+    "ast_hash": "8e0ea11272b7ade4569cfee89f755371",
+    "semantic_hash": "8e0ea11272b7ade4569cfee89f755371"
+  },
+  "Api.Web.FinanceIA/Servicios/BcraEnrichmentClassifier.cs": {
+    "mtime": 1788182155.9383514,
+    "seen": 1788704699.4425833,
+    "ast_hash": "3489dedf12f5ec380ac5ff69e658283f",
+    "semantic_hash": "3489dedf12f5ec380ac5ff69e658283f"
+  },
+  "Api.Web.FinanceIA/Servicios/BcraService.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.4425848,
+    "ast_hash": "e9ff8a7e7274656d388025a96028cee4",
+    "semantic_hash": "e9ff8a7e7274656d388025a96028cee4"
+  },
+  "Api.Web.FinanceIA/Servicios/CasfogService.cs": {
+    "mtime": 1788182155.9383514,
+    "seen": 1788704699.4425862,
+    "ast_hash": "2f7da43ef1bc9547a8a8835189b136f1",
+    "semantic_hash": "2f7da43ef1bc9547a8a8835189b136f1"
+  },
+  "Api.Web.FinanceIA/Servicios/CashFlowNarrativeService.cs": {
+    "mtime": 1788182155.9423513,
+    "seen": 1788704699.4425886,
+    "ast_hash": "d2abd180e2bae1809de3e265074134ac",
+    "semantic_hash": "d2abd180e2bae1809de3e265074134ac"
+  },
+  "Api.Web.FinanceIA/Servicios/CashFlowReconciliationJson.cs": {
+    "mtime": 1788182155.9423513,
+    "seen": 1788704699.4425905,
+    "ast_hash": "67f8b9dff360a5499454e98b54f082ef",
+    "semantic_hash": "67f8b9dff360a5499454e98b54f082ef"
+  },
+  "Api.Web.FinanceIA/Servicios/CashFlowReconciliationService.cs": {
+    "mtime": 1788703481.4485095,
+    "seen": 1788704699.442592,
+    "ast_hash": "95b71d3a6a0c2778c6c9ddab69cc058a",
+    "semantic_hash": "95b71d3a6a0c2778c6c9ddab69cc058a"
+  },
+  "Api.Web.FinanceIA/Servicios/ClaudeService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.4425933,
+    "ast_hash": "0f47aee00bd1a8b892614bb46e68ae99",
+    "semantic_hash": "0f47aee00bd1a8b892614bb46e68ae99"
+  },
+  "Api.Web.FinanceIA/Servicios/DynamicsClient.cs": {
+    "mtime": 1788182155.9463513,
+    "seen": 1788704699.4425948,
+    "ast_hash": "cc8636d87d83832b3a5d99c95f5111b2",
+    "semantic_hash": "cc8636d87d83832b3a5d99c95f5111b2"
+  },
+  "Api.Web.FinanceIA/Servicios/DynamicsTokenService.cs": {
+    "mtime": 1788182155.9463513,
+    "seen": 1788704699.4425962,
+    "ast_hash": "153035f1dd2d29de07e67683a86b57dd",
+    "semantic_hash": "153035f1dd2d29de07e67683a86b57dd"
+  },
+  "Api.Web.FinanceIA/Servicios/EntitySecurityRule.cs": {
+    "mtime": 1788182155.9463513,
+    "seen": 1788704699.4425976,
+    "ast_hash": "a31454f8424b3df0aa35810eef6d1895",
+    "semantic_hash": "a31454f8424b3df0aa35810eef6d1895"
+  },
+  "Api.Web.FinanceIA/Servicios/ExcelCashFlowParser.cs": {
+    "mtime": 1788182155.9463513,
+    "seen": 1788704699.4425988,
+    "ast_hash": "670868c972b8b857e7d217f7ffcdaa45",
+    "semantic_hash": "670868c972b8b857e7d217f7ffcdaa45"
+  },
+  "Api.Web.FinanceIA/Servicios/FetchMeta.cs": {
+    "mtime": 1788182155.9463513,
+    "seen": 1788704699.4426003,
+    "ast_hash": "c0dda3cb23e48d5f7a07627033d6561a",
+    "semantic_hash": "c0dda3cb23e48d5f7a07627033d6561a"
+  },
+  "Api.Web.FinanceIA/Servicios/FetchXmlSafeBuilder.cs": {
+    "mtime": 1788182155.9463513,
+    "seen": 1788704699.4426017,
+    "ast_hash": "97803adc32ffda55a19030ff4e726196",
+    "semantic_hash": "97803adc32ffda55a19030ff4e726196"
+  },
+  "Api.Web.FinanceIA/Servicios/FieldSecurityRule.cs": {
+    "mtime": 1788182155.9503512,
+    "seen": 1788704699.442603,
+    "ast_hash": "57e40088690296b37194ddd9f06daaea",
+    "semantic_hash": "57e40088690296b37194ddd9f06daaea"
+  },
+  "Api.Web.FinanceIA/Servicios/FileSignatureValidator.cs": {
+    "mtime": 1788182155.9503512,
+    "seen": 1788704699.4426043,
+    "ast_hash": "fa1f678c7dc0598dc499ad75e991041f",
+    "semantic_hash": "fa1f678c7dc0598dc499ad75e991041f"
+  },
+  "Api.Web.FinanceIA/Servicios/FirestoreUserContextResolver.cs": {
+    "mtime": 1788182155.9503512,
+    "seen": 1788704699.4426055,
+    "ast_hash": "15a68395fc6d591c688b5f45ae30c1b2",
+    "semantic_hash": "15a68395fc6d591c688b5f45ae30c1b2"
+  },
+  "Api.Web.FinanceIA/Servicios/HealthChecks/DatabaseHealthCheck.cs": {
+    "mtime": 1788182155.9503512,
+    "seen": 1788704699.442607,
+    "ast_hash": "b36ff9a6be99f5be66f91eeb1e09bee8",
+    "semantic_hash": "b36ff9a6be99f5be66f91eeb1e09bee8"
+  },
+  "Api.Web.FinanceIA/Servicios/HealthChecks/DynamicsHealthCheck.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426084,
+    "ast_hash": "e79ca3045b314b56a507f92c0c8c2d56",
+    "semantic_hash": "e79ca3045b314b56a507f92c0c8c2d56"
+  },
+  "Api.Web.FinanceIA/Servicios/HealthChecks/FirebaseHealthCheck.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.44261,
+    "ast_hash": "5a110c51c1a0ef95762f59a87fc5e3d3",
+    "semantic_hash": "5a110c51c1a0ef95762f59a87fc5e3d3"
+  },
+  "Api.Web.FinanceIA/Servicios/HealthChecks/FirestoreHealthCheck.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426115,
+    "ast_hash": "e57156b7ba020496725e3217e7cbe428",
+    "semantic_hash": "e57156b7ba020496725e3217e7cbe428"
+  },
+  "Api.Web.FinanceIA/Servicios/HealthChecks/HealthCheckResponseWriter.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426126,
+    "ast_hash": "cec3d8ed0affe1fc510e2c2146a3422f",
+    "semantic_hash": "cec3d8ed0affe1fc510e2c2146a3422f"
+  },
+  "Api.Web.FinanceIA/Servicios/HttpWebRequestCasfogTransport.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426138,
+    "ast_hash": "9f65c515283ffa9cd7fa7f4697ede5f9",
+    "semantic_hash": "9f65c515283ffa9cd7fa7f4697ede5f9"
+  },
+  "Api.Web.FinanceIA/Servicios/IAlertRatioReconciliationService.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426148,
+    "ast_hash": "e10c74df6869b06375c78a4e07b76929",
+    "semantic_hash": "e10c74df6869b06375c78a4e07b76929"
+  },
+  "Api.Web.FinanceIA/Servicios/IAlertRuleEngine.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426155,
+    "ast_hash": "40d32039d282ac3f2672b893898496ff",
+    "semantic_hash": "40d32039d282ac3f2672b893898496ff"
+  },
+  "Api.Web.FinanceIA/Servicios/IArcaConstanciaService.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.442617,
+    "ast_hash": "a52579f4a1a977eb957d456e98d544ea",
+    "semantic_hash": "a52579f4a1a977eb957d456e98d544ea"
+  },
+  "Api.Web.FinanceIA/Servicios/IArcaPadronService.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.442618,
+    "ast_hash": "e0aa748df815a4a7204a57f656d40ca6",
+    "semantic_hash": "e0aa748df815a4a7204a57f656d40ca6"
+  },
+  "Api.Web.FinanceIA/Servicios/IArcaWsaaService.cs": {
+    "mtime": 1788182155.9554667,
+    "seen": 1788704699.4426186,
+    "ast_hash": "e3939ca1a30b5c16a94648d364cacb42",
+    "semantic_hash": "e3939ca1a30b5c16a94648d364cacb42"
+  },
+  "Api.Web.FinanceIA/Servicios/IBcraService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.4426198,
+    "ast_hash": "08227b09925de6e6937a1d07f3f7b812",
+    "semantic_hash": "08227b09925de6e6937a1d07f3f7b812"
+  },
+  "Api.Web.FinanceIA/Servicios/ICasfogService.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.4426208,
+    "ast_hash": "02a6b0a274cb3d82175be7a30721d392",
+    "semantic_hash": "02a6b0a274cb3d82175be7a30721d392"
+  },
+  "Api.Web.FinanceIA/Servicios/ICasfogTransport.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.4426215,
+    "ast_hash": "bfaeaba402529ab850fe52c266f52f71",
+    "semantic_hash": "bfaeaba402529ab850fe52c266f52f71"
+  },
+  "Api.Web.FinanceIA/Servicios/ICashFlowNarrativeService.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.4426224,
+    "ast_hash": "2f2c6fa7ef4c4172ee4f8829ca8266f3",
+    "semantic_hash": "2f2c6fa7ef4c4172ee4f8829ca8266f3"
+  },
+  "Api.Web.FinanceIA/Servicios/ICashFlowReconciliationService.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.4426231,
+    "ast_hash": "1975253f03849489ecd2c02219c23adf",
+    "semantic_hash": "1975253f03849489ecd2c02219c23adf"
+  },
+  "Api.Web.FinanceIA/Servicios/IClaudeService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.4426243,
+    "ast_hash": "a091e43fba4f5643b1eb806fc19e32ca",
+    "semantic_hash": "a091e43fba4f5643b1eb806fc19e32ca"
+  },
+  "Api.Web.FinanceIA/Servicios/IDynamicsClient.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.442625,
+    "ast_hash": "5c8d3ea345f4134f1de5a979cdc0563a",
+    "semantic_hash": "5c8d3ea345f4134f1de5a979cdc0563a"
+  },
+  "Api.Web.FinanceIA/Servicios/IDynamicsTokenService.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.442626,
+    "ast_hash": "46af0969459a1a29bbac700785accd54",
+    "semantic_hash": "46af0969459a1a29bbac700785accd54"
+  },
+  "Api.Web.FinanceIA/Servicios/IExcelCashFlowParser.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.4426267,
+    "ast_hash": "f40c18401b1ae59ab39631a5863a8399",
+    "semantic_hash": "f40c18401b1ae59ab39631a5863a8399"
+  },
+  "Api.Web.FinanceIA/Servicios/IIdentityPlatformSignInService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.4426277,
+    "ast_hash": "3d058ef30e18dae02e5dee67a950a94a",
+    "semantic_hash": "3d058ef30e18dae02e5dee67a950a94a"
+  },
+  "Api.Web.FinanceIA/Servicios/ILufeService.cs": {
+    "mtime": 1788182155.9583514,
+    "seen": 1788704699.4426286,
+    "ast_hash": "b553cee7ea616f9056387b1d1b84d388",
+    "semantic_hash": "b553cee7ea616f9056387b1d1b84d388"
+  },
+  "Api.Web.FinanceIA/Servicios/INosisService.cs": {
+    "mtime": 1788182155.9623513,
+    "seen": 1788704699.4426293,
+    "ast_hash": "84dfd419d6681b2d315c39ab26f63f83",
+    "semantic_hash": "84dfd419d6681b2d315c39ab26f63f83"
+  },
+  "Api.Web.FinanceIA/Servicios/IPdfExportService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.4426303,
+    "ast_hash": "aeae992ed3ca8fc45ea7cc5268a0da78",
+    "semantic_hash": "aeae992ed3ca8fc45ea7cc5268a0da78"
+  },
+  "Api.Web.FinanceIA/Servicios/IRatioCalculationService.cs": {
+    "mtime": 1788182155.9623513,
+    "seen": 1788704699.4426312,
+    "ast_hash": "389cbfd7b4f8e3500ca23d4d3201a484",
+    "semantic_hash": "389cbfd7b4f8e3500ca23d4d3201a484"
+  },
+  "Api.Web.FinanceIA/Servicios/IScoringService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.4426322,
+    "ast_hash": "98ba2fc026ba2d69e2548ec1ee2307ee",
+    "semantic_hash": "98ba2fc026ba2d69e2548ec1ee2307ee"
+  },
+  "Api.Web.FinanceIA/Servicios/IServiceStatusService.cs": {
+    "mtime": 1788182155.9623513,
+    "seen": 1788704699.442633,
+    "ast_hash": "ac0300cb2f26ec2ad58c98ecf6dd7295",
+    "semantic_hash": "ac0300cb2f26ec2ad58c98ecf6dd7295"
+  },
+  "Api.Web.FinanceIA/Servicios/IUserContextResolver.cs": {
+    "mtime": 1788182155.9623513,
+    "seen": 1788704699.4426343,
+    "ast_hash": "ee5705c840fcd915eabfee07578a9a08",
+    "semantic_hash": "ee5705c840fcd915eabfee07578a9a08"
+  },
+  "Api.Web.FinanceIA/Servicios/IdentityBinding.cs": {
+    "mtime": 1788182155.9623513,
+    "seen": 1788704699.442635,
+    "ast_hash": "e347702d7b03974caa0df102be6e11ee",
+    "semantic_hash": "e347702d7b03974caa0df102be6e11ee"
+  },
+  "Api.Web.FinanceIA/Servicios/IdentityPlatformSignInService.cs": {
+    "mtime": 1788703481.4525094,
+    "seen": 1788704699.442636,
+    "ast_hash": "f9e95877b0150f54ee60f030ff570380",
+    "semantic_hash": "f9e95877b0150f54ee60f030ff570380"
+  },
+  "Api.Web.FinanceIA/Servicios/LufeService.cs": {
+    "mtime": 1788182155.9623513,
+    "seen": 1788704699.4426367,
+    "ast_hash": "2c6a38ab12416ada097e702ff5b98ac1",
+    "semantic_hash": "2c6a38ab12416ada097e702ff5b98ac1"
+  },
+  "Api.Web.FinanceIA/Servicios/MetaRegistry.cs": {
+    "mtime": 1788182155.9663513,
+    "seen": 1788704699.442638,
+    "ast_hash": "0342e85cfe99034328460907455c8710",
+    "semantic_hash": "0342e85cfe99034328460907455c8710"
+  },
+  "Api.Web.FinanceIA/Servicios/NosisService.cs": {
+    "mtime": 1788182155.9663513,
+    "seen": 1788704699.4426389,
+    "ast_hash": "6cc0bb84f84a3bb41b8c10fc745cc341",
+    "semantic_hash": "6cc0bb84f84a3bb41b8c10fc745cc341"
+  },
+  "Api.Web.FinanceIA/Servicios/PdfAttachmentExtractor.cs": {
+    "mtime": 1788182155.9663513,
+    "seen": 1788704699.4426396,
+    "ast_hash": "28368945ace0f94067db89c47ce24a88",
+    "semantic_hash": "28368945ace0f94067db89c47ce24a88"
+  },
+  "Api.Web.FinanceIA/Servicios/PdfExportService.cs": {
+    "mtime": 1788703481.4565094,
+    "seen": 1788704699.4426408,
+    "ast_hash": "01f9fb238a3aaa81718bf6cbb69bf5c7",
+    "semantic_hash": "01f9fb238a3aaa81718bf6cbb69bf5c7"
+  },
+  "Api.Web.FinanceIA/Servicios/RateLimiting/IRateLimitService.cs": {
+    "mtime": 1788182155.9703512,
+    "seen": 1788704699.4426417,
+    "ast_hash": "af0b49659f26a9234239c460d556ad57",
+    "semantic_hash": "af0b49659f26a9234239c460d556ad57"
+  },
+  "Api.Web.FinanceIA/Servicios/RateLimiting/RateLimitResult.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.4426427,
+    "ast_hash": "548c33a2dade429ae1a40d8cc8f1a5e9",
+    "semantic_hash": "548c33a2dade429ae1a40d8cc8f1a5e9"
+  },
+  "Api.Web.FinanceIA/Servicios/RateLimiting/RateLimitService.cs": {
+    "mtime": 1788703481.4565094,
+    "seen": 1788704699.442649,
+    "ast_hash": "10267c02fd52fe7589b2491d1a56990b",
+    "semantic_hash": "10267c02fd52fe7589b2491d1a56990b"
+  },
+  "Api.Web.FinanceIA/Servicios/RatioCalculationService.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.4426496,
+    "ast_hash": "07ab29a8c53e5a87d7e779ccb211a0c3",
+    "semantic_hash": "07ab29a8c53e5a87d7e779ccb211a0c3"
+  },
+  "Api.Web.FinanceIA/Servicios/RuleThresholdAttribute.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.4426506,
+    "ast_hash": "49bf48fe565d723a6e4b809599221237",
+    "semantic_hash": "49bf48fe565d723a6e4b809599221237"
+  },
+  "Api.Web.FinanceIA/Servicios/ScoreScale.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.4426515,
+    "ast_hash": "cbce39c217656fa321c247f9fc8bbd8c",
+    "semantic_hash": "cbce39c217656fa321c247f9fc8bbd8c"
+  },
+  "Api.Web.FinanceIA/Servicios/ScoringService.cs": {
+    "mtime": 1788703481.4565094,
+    "seen": 1788704699.4426525,
+    "ast_hash": "bc30927fe9a502b27e57fc3b64af843e",
+    "semantic_hash": "bc30927fe9a502b27e57fc3b64af843e"
+  },
+  "Api.Web.FinanceIA/Servicios/SearchSecurityEnforcer.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.4426532,
+    "ast_hash": "6da6cd0d866720ff3a8b586c08f29410",
+    "semantic_hash": "6da6cd0d866720ff3a8b586c08f29410"
+  },
+  "Api.Web.FinanceIA/Servicios/SecurityRegistry.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.442654,
+    "ast_hash": "13dc0abdfcf696c3c8fc29994d9d1027",
+    "semantic_hash": "13dc0abdfcf696c3c8fc29994d9d1027"
+  },
+  "Api.Web.FinanceIA/Servicios/ServiceStatusService.cs": {
+    "mtime": 1788182155.9754622,
+    "seen": 1788704699.4426546,
+    "ast_hash": "46e613f8ba309cb291f98b30070fc298",
+    "semantic_hash": "46e613f8ba309cb291f98b30070fc298"
+  },
+  "Api.Web.FinanceIA/Servicios/UserContext.cs": {
+    "mtime": 1788182155.9783514,
+    "seen": 1788704699.4426563,
+    "ast_hash": "86e472df68e06197c4069295d5afe651",
+    "semantic_hash": "86e472df68e06197c4069295d5afe651"
+  },
+  "Api.Web.FinanceIA/WeatherForecast.cs": {
+    "mtime": 1788182155.9783514,
+    "seen": 1788704699.442657,
+    "ast_hash": "c8490c63f835f50068db26cc36bafe31",
+    "semantic_hash": "c8490c63f835f50068db26cc36bafe31"
+  },
+  "Api.Web.FinanceIA/appsettings.TEMPLATE.json": {
+    "mtime": 1788703481.4565094,
+    "seen": 1788704699.4426577,
+    "ast_hash": "b14a4122c61bbfa4772f6b1fb99ad62b",
+    "semantic_hash": "b14a4122c61bbfa4772f6b1fb99ad62b"
+  },
+  "Api.Web.FinanceIA/appsettings.json": {
+    "mtime": 1788703481.4565094,
+    "seen": 1788704699.442659,
+    "ast_hash": "254915c179ccf8f3a5f95765a87b75f9",
+    "semantic_hash": "254915c179ccf8f3a5f95765a87b75f9"
+  },
+  "Api.Web.FinanceIA/docs/database/001_initial_schema.sql": {
+    "mtime": 1788182155.9832344,
+    "seen": 1788704699.4426599,
+    "ast_hash": "f966519c7b2b4399de48a6bef3398f24",
+    "semantic_hash": "f966519c7b2b4399de48a6bef3398f24"
+  },
+  "Api.Web.FinanceIA/docs/database/003_fix_users_tenantid_type.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426606,
+    "ast_hash": "895b3f6bd4528b934cd8f22bdb91a1d4",
+    "semantic_hash": "895b3f6bd4528b934cd8f22bdb91a1d4"
+  },
+  "Api.Web.FinanceIA/docs/database/004_documents_add_isdeleted.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426613,
+    "ast_hash": "d42b6bf5a9e6ebf6d951cb9f535ac0f1",
+    "semantic_hash": "d42b6bf5a9e6ebf6d951cb9f535ac0f1"
+  },
+  "Api.Web.FinanceIA/docs/database/005_fix_business_tenantid_to_nvarchar.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426622,
+    "ast_hash": "25cb7694d33993b81d85436488c91cdb",
+    "semantic_hash": "25cb7694d33993b81d85436488c91cdb"
+  },
+  "Api.Web.FinanceIA/docs/database/006_analysisresults_add_bcra_columns.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.442663,
+    "ast_hash": "5a96dd3fd8019809be02ff29fa5b742f",
+    "semantic_hash": "5a96dd3fd8019809be02ff29fa5b742f"
+  },
+  "Api.Web.FinanceIA/docs/database/007_scoring_config.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.442664,
+    "ast_hash": "3aed64dd735b05ceb2bfde99301c1883",
+    "semantic_hash": "3aed64dd735b05ceb2bfde99301c1883"
+  },
+  "Api.Web.FinanceIA/docs/database/008_analysisresults_add_scorebreakdown.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426646,
+    "ast_hash": "cde448b6f5e1f27cba1b23d68e7e8beb",
+    "semantic_hash": "cde448b6f5e1f27cba1b23d68e7e8beb"
+  },
+  "Api.Web.FinanceIA/docs/database/009_apicallogs_add_claudechat_service.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426656,
+    "ast_hash": "e42396b554843c8092567a0833ca6298",
+    "semantic_hash": "e42396b554843c8092567a0833ca6298"
+  },
+  "Api.Web.FinanceIA/docs/database/010_export_logs.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426663,
+    "ast_hash": "bd7471f65b741534048c539f8113d3b5",
+    "semantic_hash": "bd7471f65b741534048c539f8113d3b5"
+  },
+  "Api.Web.FinanceIA/docs/database/011_exportlogs_add_template.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.442667,
+    "ast_hash": "691e822cf767f23eb1b3dfb7bc7ee239",
+    "semantic_hash": "691e822cf767f23eb1b3dfb7bc7ee239"
+  },
+  "Api.Web.FinanceIA/docs/database/011_userinvitations_tenantid_to_nvarchar.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.442668,
+    "ast_hash": "ba1468f0d20f89c4eb39c5a0b6009b4d",
+    "semantic_hash": "ba1468f0d20f89c4eb39c5a0b6009b4d"
+  },
+  "Api.Web.FinanceIA/docs/database/012_apicallogs_add_arca_service.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.442669,
+    "ast_hash": "7754985113e96480ae4b58f64339c83d",
+    "semantic_hash": "7754985113e96480ae4b58f64339c83d"
+  },
+  "Api.Web.FinanceIA/docs/database/013_alerts_tenantid_to_nvarchar.sql": {
+    "mtime": 1788182155.9867578,
+    "seen": 1788704699.4426696,
+    "ast_hash": "aafca85e8befeedc53ba639420e62290",
+    "semantic_hash": "aafca85e8befeedc53ba639420e62290"
+  },
+  "Api.Web.FinanceIA/docs/database/014_scoring_critical_floor.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.4426703,
+    "ast_hash": "1ecf6eaa2c7c79587b93b45379d05b01",
+    "semantic_hash": "1ecf6eaa2c7c79587b93b45379d05b01"
+  },
+  "Api.Web.FinanceIA/docs/database/016_scoring_bcra_trend.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.4426713,
+    "ast_hash": "cf9fa0e290f6865369ad6465b43c3d5b",
+    "semantic_hash": "cf9fa0e290f6865369ad6465b43c3d5b"
+  },
+  "Api.Web.FinanceIA/docs/database/017_scoring_sector_profiles.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.442672,
+    "ast_hash": "ba7453fb622e4b6a0fb6cde1828c3687",
+    "semantic_hash": "ba7453fb622e4b6a0fb6cde1828c3687"
+  },
+  "Api.Web.FinanceIA/docs/database/018_analysisresults_add_scoringnarrative.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.442673,
+    "ast_hash": "a9f81717aa9d9a9dbf4edbf48512f258",
+    "semantic_hash": "a9f81717aa9d9a9dbf4edbf48512f258"
+  },
+  "Api.Web.FinanceIA/docs/database/019_users_add_onboardingflags.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.4426737,
+    "ast_hash": "80233c571dfb1eb9f013901bb4b062d3",
+    "semantic_hash": "80233c571dfb1eb9f013901bb4b062d3"
+  },
+  "Api.Web.FinanceIA/docs/database/020_entities_add_fiscaldatajson.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.4426744,
+    "ast_hash": "67733f8b79bdf79932c48d1a08a53f40",
+    "semantic_hash": "67733f8b79bdf79932c48d1a08a53f40"
+  },
+  "Api.Web.FinanceIA/docs/database/021_entities_add_lufedatajson.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.442675,
+    "ast_hash": "6bdcb517f308c09139ff5dc9d9091227",
+    "semantic_hash": "6bdcb517f308c09139ff5dc9d9091227"
+  },
+  "Api.Web.FinanceIA/docs/database/022_documents_add_source.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.4426763,
+    "ast_hash": "1e4e1b6fc5468dbe976906ce455e7e1a",
+    "semantic_hash": "1e4e1b6fc5468dbe976906ce455e7e1a"
+  },
+  "Api.Web.FinanceIA/docs/database/023_entities_add_bcradatajson.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.442677,
+    "ast_hash": "f6291f2fa8688945249f0b7c4d4c2160",
+    "semantic_hash": "f6291f2fa8688945249f0b7c4d4c2160"
+  },
+  "Api.Web.FinanceIA/docs/database/024_analyses_add_creditline_columns.sql": {
+    "mtime": 1788182155.9903512,
+    "seen": 1788704699.442678,
+    "ast_hash": "2e2b64dee0e160c5b3b832de79965f63",
+    "semantic_hash": "2e2b64dee0e160c5b3b832de79965f63"
+  },
+  "Api.Web.FinanceIA/docs/database/025_entities_add_source_updatedat_columns.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426787,
+    "ast_hash": "6128f9f23d231d78909923e44ccc9bcd",
+    "semantic_hash": "6128f9f23d231d78909923e44ccc9bcd"
+  },
+  "Api.Web.FinanceIA/docs/database/026_analysisresults_add_source_snapshot_columns.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426796,
+    "ast_hash": "6df7d7b811605c9d06414ac024dc0678",
+    "semantic_hash": "6df7d7b811605c9d06414ac024dc0678"
+  },
+  "Api.Web.FinanceIA/docs/database/027_notes_table.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426806,
+    "ast_hash": "304f4312e1650608992e5de3921070af",
+    "semantic_hash": "304f4312e1650608992e5de3921070af"
+  },
+  "Api.Web.FinanceIA/docs/database/028_notes_soft_delete.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426818,
+    "ast_hash": "c6564118b6f96d492b3d5d9fd1ef0e4c",
+    "semantic_hash": "c6564118b6f96d492b3d5d9fd1ef0e4c"
+  },
+  "Api.Web.FinanceIA/docs/database/029_analyses_add_creditline_type.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426827,
+    "ast_hash": "6314ddebd56c9a842b9e55d9cd7b7c12",
+    "semantic_hash": "6314ddebd56c9a842b9e55d9cd7b7c12"
+  },
+  "Api.Web.FinanceIA/docs/database/030_credit_lines_tables.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426835,
+    "ast_hash": "0ed1dd1f63b222310c7158299cd999ea",
+    "semantic_hash": "0ed1dd1f63b222310c7158299cd999ea"
+  },
+  "Api.Web.FinanceIA/docs/database/031_analyses_drop_creditline_columns.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426842,
+    "ast_hash": "aafe24324e86ea6c72a430cb2781358d",
+    "semantic_hash": "aafe24324e86ea6c72a430cb2781358d"
+  },
+  "Api.Web.FinanceIA/docs/database/032_invitations_lifecycle_and_entity_createdby.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.442685,
+    "ast_hash": "beb98e561f4c6d0562a87c3fa56b203a",
+    "semantic_hash": "beb98e561f4c6d0562a87c3fa56b203a"
+  },
+  "Api.Web.FinanceIA/docs/database/033_entities_add_casfogdatajson.sql": {
+    "mtime": 1788182155.9943514,
+    "seen": 1788704699.4426856,
+    "ast_hash": "109bf650b7b7a3cfbb00957506361a94",
+    "semantic_hash": "109bf650b7b7a3cfbb00957506361a94"
+  },
+  "Api.Web.FinanceIA/docs/database/034_tenant_settings.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426868,
+    "ast_hash": "d96424ee96ba47d69d63bf8cee69b52e",
+    "semantic_hash": "d96424ee96ba47d69d63bf8cee69b52e"
+  },
+  "Api.Web.FinanceIA/docs/database/035_credit_lines_add_raise_columns.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426875,
+    "ast_hash": "84a99a04ceafc545ced0c1d4a40a3ce3",
+    "semantic_hash": "84a99a04ceafc545ced0c1d4a40a3ce3"
+  },
+  "Api.Web.FinanceIA/docs/database/036_credit_lines_add_origin_analysis.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426882,
+    "ast_hash": "99ae85e51e4db5067de9d7f7055f1df1",
+    "semantic_hash": "99ae85e51e4db5067de9d7f7055f1df1"
+  },
+  "Api.Web.FinanceIA/docs/database/037_documents_add_sourceref.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.442689,
+    "ast_hash": "d1a3bc2affa743076048b805bb412681",
+    "semantic_hash": "d1a3bc2affa743076048b805bb412681"
+  },
+  "Api.Web.FinanceIA/docs/database/038_alert_rule_catalogue.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426901,
+    "ast_hash": "6097dc757cba0b2fa0d0227fcc6b4b47",
+    "semantic_hash": "6097dc757cba0b2fa0d0227fcc6b4b47"
+  },
+  "Api.Web.FinanceIA/docs/database/039_analysisresults_add_enrichment_status.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426908,
+    "ast_hash": "5e2d9c1aba827a83ce84004366e57089",
+    "semantic_hash": "5e2d9c1aba827a83ce84004366e57089"
+  },
+  "Api.Web.FinanceIA/docs/database/040_creditlineoperations_add_vigencia_audit.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426916,
+    "ast_hash": "191531ab7ec6d59be151fc15e9c99c5f",
+    "semantic_hash": "191531ab7ec6d59be151fc15e9c99c5f"
+  },
+  "Api.Web.FinanceIA/docs/database/041_creditlineoperations_add_cancellation_audit.sql": {
+    "mtime": 1788182155.9983513,
+    "seen": 1788704699.4426923,
+    "ast_hash": "bdc40eef3b89a7fbe88310c1de940b8e",
+    "semantic_hash": "bdc40eef3b89a7fbe88310c1de940b8e"
+  },
+  "Api.Web.FinanceIA/docs/database/042_entities_add_nosisdatajson.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.4426932,
+    "ast_hash": "bafab6dd11139b0109502dc9ea202d01",
+    "semantic_hash": "bafab6dd11139b0109502dc9ea202d01"
+  },
+  "Api.Web.FinanceIA/docs/database/043_apicallogs_fix_tenantid_and_add_services.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.442694,
+    "ast_hash": "3302dd862322ca754acb51573fcfbd55",
+    "semantic_hash": "3302dd862322ca754acb51573fcfbd55"
+  },
+  "Api.Web.FinanceIA/docs/database/044_analysisresults_add_tenant_generatedat_index.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.442695,
+    "ast_hash": "566b31da0ffd3e1e5f7623ce01499e0f",
+    "semantic_hash": "566b31da0ffd3e1e5f7623ce01499e0f"
+  },
+  "Api.Web.FinanceIA/docs/database/045_entities_add_tenant_createdat_index.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.4426956,
+    "ast_hash": "ae64b54db25fb16b06227533b749e54c",
+    "semantic_hash": "ae64b54db25fb16b06227533b749e54c"
+  },
+  "Api.Web.FinanceIA/docs/database/046_fiadores_table.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.4426963,
+    "ast_hash": "0af00bfceb6b03867aeee358d5aa7280",
+    "semantic_hash": "0af00bfceb6b03867aeee358d5aa7280"
+  },
+  "Api.Web.FinanceIA/docs/database/047_tenant_billing_config.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.4426973,
+    "ast_hash": "09dd9a2a099833195cd55ca7c697082a",
+    "semantic_hash": "09dd9a2a099833195cd55ca7c697082a"
+  },
+  "Api.Web.FinanceIA/docs/database/048_alerts_entityid_nullable.sql": {
+    "mtime": 1788703481.4565094,
+    "seen": 1788704699.4426982,
+    "ast_hash": "df079dd1577b58a586da9e6cb17a68ac",
+    "semantic_hash": "df079dd1577b58a586da9e6cb17a68ac"
+  },
+  "Api.Web.FinanceIA/docs/database/049_notifications_table.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.442699,
+    "ast_hash": "de426bc8eafd7ce3479268e1eca848f5",
+    "semantic_hash": "de426bc8eafd7ce3479268e1eca848f5"
+  },
+  "Api.Web.FinanceIA/docs/database/050_documents_add_extraction_attempts.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4426997,
+    "ast_hash": "c62fab7fc86d2e62bcf8cff5073b8c8e",
+    "semantic_hash": "c62fab7fc86d2e62bcf8cff5073b8c8e"
+  },
+  "Api.Web.FinanceIA/docs/database/051_tenantbillingconfig_add_chatcontextbudget.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427006,
+    "ast_hash": "41a4f4eb191b2ad5fea91469dde650af",
+    "semantic_hash": "41a4f4eb191b2ad5fea91469dde650af"
+  },
+  "Api.Web.FinanceIA/docs/database/052_tenantbillingconfig_add_chatenabledmodels.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427013,
+    "ast_hash": "94e1ae4cd3cf8e612c3707de3cc59a24",
+    "semantic_hash": "94e1ae4cd3cf8e612c3707de3cc59a24"
+  },
+  "Api.Web.FinanceIA/docs/database/053_chatmessages_add_hadattachment.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.442702,
+    "ast_hash": "89a89c4f72b84249c1e4fda41a3b8b55",
+    "semantic_hash": "89a89c4f72b84249c1e4fda41a3b8b55"
+  },
+  "Api.Web.FinanceIA/docs/database/054_mfa_backup_codes.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427028,
+    "ast_hash": "10bd4addeec06877ffde7cf7280edc42",
+    "semantic_hash": "10bd4addeec06877ffde7cf7280edc42"
+  },
+  "Api.Web.FinanceIA/docs/database/055_chatmessages_add_attachmentmarkdown.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.442704,
+    "ast_hash": "9359b275d326e651f4158d68e89d3726",
+    "semantic_hash": "9359b275d326e651f4158d68e89d3726"
+  },
+  "Api.Web.FinanceIA/docs/database/056_chatmessages_add_attachmentfilename.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427047,
+    "ast_hash": "8e53af5fbefec91d121fbbb7434d85ef",
+    "semantic_hash": "8e53af5fbefec91d121fbbb7434d85ef"
+  },
+  "Api.Web.FinanceIA/docs/database/057_creditlineoperations_add_condition_flags.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427056,
+    "ast_hash": "488bfd02ed4b7ca602ae464299aa7074",
+    "semantic_hash": "488bfd02ed4b7ca602ae464299aa7074"
+  },
+  "Api.Web.FinanceIA/docs/database/058_analyses_add_preapproval_columns.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427063,
+    "ast_hash": "291dfb3b42833e98a4c9541d77ce32bd",
+    "semantic_hash": "291dfb3b42833e98a4c9541d77ce32bd"
+  },
+  "Api.Web.FinanceIA/docs/database/059_user_approval_limits.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427075,
+    "ast_hash": "54daef824a7214c7d33fd260754b974c",
+    "semantic_hash": "54daef824a7214c7d33fd260754b974c"
+  },
+  "Api.Web.FinanceIA/docs/database/060_analyses_status_add_preapproved.sql": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.4427083,
+    "ast_hash": "81655702ee33d25cd6a396ce06eb0972",
+    "semantic_hash": "81655702ee33d25cd6a396ce06eb0972"
+  },
+  "Api.Web.FinanceIA/docs/database/ErrorLog_AlterTraceId.sql": {
+    "mtime": 1788182156.0023513,
+    "seen": 1788704699.442709,
+    "ast_hash": "f47fd5502127333174200b69cc678207",
+    "semantic_hash": "f47fd5502127333174200b69cc678207"
+  },
+  "Api.Web.FinanceIA/docs/database/TenantFirebaseConfig.sql": {
+    "mtime": 1788182156.0063512,
+    "seen": 1788704699.4427097,
+    "ast_hash": "8f6626c792e4f4ea7746b6beb44baf3f",
+    "semantic_hash": "8f6626c792e4f4ea7746b6beb44baf3f"
+  },
+  "Api.Web.FinanceIA/docs/database/default-db/002_tenantfirebaseconfig_add_webapikey.sql": {
+    "mtime": 1788703481.4645095,
+    "seen": 1788704699.4427106,
+    "ast_hash": "e2ba74d36ea656b1e650fc1962713f24",
+    "semantic_hash": "e2ba74d36ea656b1e650fc1962713f24"
+  },
+  "Api.Web.FinanceIA/docs/database/diagnostics/Documents_LufeFiscalYear_Audit_20260803.sql": {
+    "mtime": 1788182156.0063512,
+    "seen": 1788704699.4427116,
+    "ast_hash": "d9dae2670f56e2f8399440536d17d71a",
+    "semantic_hash": "d9dae2670f56e2f8399440536d17d71a"
+  },
+  "Api.Web.FinanceIA/docs/frontend/ExportModal.tsx": {
+    "mtime": 1788182156.0143514,
+    "seen": 1788704699.4427123,
+    "ast_hash": "f8a0c93531ce7040502f6bd3e9fab6e2",
+    "semantic_hash": "f8a0c93531ce7040502f6bd3e9fab6e2"
+  },
+  "Api.Web.ServiciosFinancieros.slnx": {
+    "mtime": 1788182156.0183513,
+    "seen": 1788704699.442713,
+    "ast_hash": "f78ce61cac53122a8ee2bf24452d1e8d",
+    "semantic_hash": "f78ce61cac53122a8ee2bf24452d1e8d"
+  },
+  "Api.Web.ServiciosFinancieros/Api.Web.ServiciosFinancieros.csproj": {
+    "mtime": 1788182156.0215163,
+    "seen": 1788704699.4427137,
+    "ast_hash": "7730dab519368d7d6a48342f52ebc8ff",
+    "semantic_hash": "7730dab519368d7d6a48342f52ebc8ff"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/EncryptionService.cs": {
+    "mtime": 1788182156.0215163,
+    "seen": 1788704699.442715,
+    "ast_hash": "2a26d87d55fa71b7d8806a75a22acba4",
+    "semantic_hash": "2a26d87d55fa71b7d8806a75a22acba4"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/ErrorLogService.cs": {
+    "mtime": 1788182156.0235014,
+    "seen": 1788704699.4427156,
+    "ast_hash": "903544458edbc7c5e788e084aae03141",
+    "semantic_hash": "903544458edbc7c5e788e084aae03141"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Exceptions/AppException.cs": {
+    "mtime": 1788182156.0235014,
+    "seen": 1788704699.4427168,
+    "ast_hash": "7b16be0e37d81305f03db04ccfe79fe1",
+    "semantic_hash": "7b16be0e37d81305f03db04ccfe79fe1"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Exceptions/BusinessExceptions.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.4427178,
+    "ast_hash": "28c80c17f97fedf68e2f8ff1b85d7670",
+    "semantic_hash": "28c80c17f97fedf68e2f8ff1b85d7670"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Exceptions/DynamicsExceptions.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.4427185,
+    "ast_hash": "479410c8412eb287166b2f338a9252ab",
+    "semantic_hash": "479410c8412eb287166b2f338a9252ab"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Exceptions/FirebaseExceptions.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.4427192,
+    "ast_hash": "813e352ab948862481806d8bdd93ced6",
+    "semantic_hash": "813e352ab948862481806d8bdd93ced6"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Exceptions/InfrastructureExceptions.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.44272,
+    "ast_hash": "62f3413dcb06aad0c5b0530f97b6d805",
+    "semantic_hash": "62f3413dcb06aad0c5b0530f97b6d805"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Exceptions/TenantExceptions.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.4427211,
+    "ast_hash": "50a9f3a92707dd2162c4dc327f66806f",
+    "semantic_hash": "50a9f3a92707dd2162c4dc327f66806f"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/FirebaseAuthenticationHandler.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.4427218,
+    "ast_hash": "a3ae258db5c7651472732784d50ccc3c",
+    "semantic_hash": "a3ae258db5c7651472732784d50ccc3c"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/FirebaseTokenValidator.cs": {
+    "mtime": 1788182156.0249028,
+    "seen": 1788704699.4427226,
+    "ast_hash": "e8b40e82ef984fe7da0a9ef60c311bcd",
+    "semantic_hash": "e8b40e82ef984fe7da0a9ef60c311bcd"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/GlobalExceptionHandler.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.4427233,
+    "ast_hash": "89d551964e2916f3a9005a681549f344",
+    "semantic_hash": "89d551964e2916f3a9005a681549f344"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/IErrorLogService.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.442724,
+    "ast_hash": "220b901cdfbf299a9fa6d14ed4bbff6a",
+    "semantic_hash": "220b901cdfbf299a9fa6d14ed4bbff6a"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/IFirebaseTokenValidator.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.442725,
+    "ast_hash": "4bebbe290e86b2c3c221320ce751e455",
+    "semantic_hash": "4bebbe290e86b2c3c221320ce751e455"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/IOnboardingTokenIssuer.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.4427257,
+    "ast_hash": "07cddad1c46f75c75d958f8dc4a1b757",
+    "semantic_hash": "07cddad1c46f75c75d958f8dc4a1b757"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/IRecaptchaVerifier.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.4427264,
+    "ast_hash": "ce5c1e11e4bf3d9c77a8cd50b2483cea",
+    "semantic_hash": "ce5c1e11e4bf3d9c77a8cd50b2483cea"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/ITenantContextAccessor.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.442727,
+    "ast_hash": "66b7ea5d539b88cdc7dab8192034cceb",
+    "semantic_hash": "66b7ea5d539b88cdc7dab8192034cceb"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/ITenantResolver.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.4427283,
+    "ast_hash": "6d9ede07979b02771258bd96f4639a2a",
+    "semantic_hash": "6d9ede07979b02771258bd96f4639a2a"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/ITokenService.cs": {
+    "mtime": 1788182156.0263512,
+    "seen": 1788704699.442729,
+    "ast_hash": "8f9c23b5952e0b405f62d4d847f9ebcc",
+    "semantic_hash": "8f9c23b5952e0b405f62d4d847f9ebcc"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Middleware/RateLimitingMiddleware.cs": {
+    "mtime": 1788182156.0303514,
+    "seen": 1788704699.4427297,
+    "ast_hash": "5e0150bfbddf1a3b328813e58f505f2c",
+    "semantic_hash": "5e0150bfbddf1a3b328813e58f505f2c"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/Middleware/TenantFromJwtMiddleware.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427304,
+    "ast_hash": "848064cddf9eaa2d0fdd54673b4875ec",
+    "semantic_hash": "848064cddf9eaa2d0fdd54673b4875ec"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/OnboardingTokenIssuer.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427314,
+    "ast_hash": "5ecee217e88329bafcc8a074ce859218",
+    "semantic_hash": "5ecee217e88329bafcc8a074ce859218"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/RecaptchaVerifier.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.442732,
+    "ast_hash": "694a0e6442ef168a9196689f8ec3d144",
+    "semantic_hash": "694a0e6442ef168a9196689f8ec3d144"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/TenantContextAccessor.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427328,
+    "ast_hash": "59af1c1cbd60c90f458824d4eac2d1df",
+    "semantic_hash": "59af1c1cbd60c90f458824d4eac2d1df"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/TenantFirebaseRegistry.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427338,
+    "ast_hash": "748693fdd86d9312be5c569e277ee996",
+    "semantic_hash": "748693fdd86d9312be5c569e277ee996"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/TenantResolutionMiddleware.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427345,
+    "ast_hash": "7ea3fa3b008add144e78dd1f0a151ee0",
+    "semantic_hash": "7ea3fa3b008add144e78dd1f0a151ee0"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/TenantResolver.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427404,
+    "ast_hash": "129c0091f1322ebd604521330da6def9",
+    "semantic_hash": "129c0091f1322ebd604521330da6def9"
+  },
+  "Api.Web.ServiciosFinancieros/Clases/TokenService.cs": {
+    "mtime": 1788182156.0321808,
+    "seen": 1788704699.4427426,
+    "ast_hash": "15867ee2df3390b4f7d0102e2e116fd9",
+    "semantic_hash": "15867ee2df3390b4f7d0102e2e116fd9"
+  },
+  "Api.Web.ServiciosFinancieros/Controllers/BffController.cs": {
+    "mtime": 1788182156.0343513,
+    "seen": 1788704699.4427433,
+    "ast_hash": "59abc4780997d03d44d39959a775dd27",
+    "semantic_hash": "59abc4780997d03d44d39959a775dd27"
+  },
+  "Api.Web.ServiciosFinancieros/Controllers/ConsultaFetchController.cs": {
+    "mtime": 1788182156.0364516,
+    "seen": 1788704699.442744,
+    "ast_hash": "01c368db9ca94a2ffc1e6266b33b2ac2",
+    "semantic_hash": "01c368db9ca94a2ffc1e6266b33b2ac2"
+  },
+  "Api.Web.ServiciosFinancieros/Controllers/SearchController.cs": {
+    "mtime": 1788182156.0364516,
+    "seen": 1788704699.4427447,
+    "ast_hash": "f842ce1819f476ec815d38341f597550",
+    "semantic_hash": "f842ce1819f476ec815d38341f597550"
+  },
+  "Api.Web.ServiciosFinancieros/Data/AppDbContext.cs": {
+    "mtime": 1788182156.0364516,
+    "seen": 1788704699.442746,
+    "ast_hash": "0114b3c8c064e1338610ba777d10eab3",
+    "semantic_hash": "0114b3c8c064e1338610ba777d10eab3"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Configurations/ErrorLogConfiguration.cs": {
+    "mtime": 1788182156.0378222,
+    "seen": 1788704699.4427466,
+    "ast_hash": "9b921f55873c7a637f4f1fa71d3d077b",
+    "semantic_hash": "9b921f55873c7a637f4f1fa71d3d077b"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Configurations/TenantCredencialConfiguration.cs": {
+    "mtime": 1788182156.0394275,
+    "seen": 1788704699.4427476,
+    "ast_hash": "cd22b3ca5054d6c4c69b208205f54ea0",
+    "semantic_hash": "cd22b3ca5054d6c4c69b208205f54ea0"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Configurations/TenantFirebaseConfigConfiguration.cs": {
+    "mtime": 1788182156.0394275,
+    "seen": 1788704699.4427488,
+    "ast_hash": "43fdab8963dd20505d042b4ff59f39b1",
+    "semantic_hash": "43fdab8963dd20505d042b4ff59f39b1"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Repositories/CredencialRepository.cs": {
+    "mtime": 1788182156.0394275,
+    "seen": 1788704699.4427495,
+    "ast_hash": "0232d14b7504c5c6ffcf69c94e67f5cc",
+    "semantic_hash": "0232d14b7504c5c6ffcf69c94e67f5cc"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Repositories/ErrorLogRepository.cs": {
+    "mtime": 1788182156.0418782,
+    "seen": 1788704699.4427502,
+    "ast_hash": "e95b128cf0501fdbb01dad972690b214",
+    "semantic_hash": "e95b128cf0501fdbb01dad972690b214"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Repositories/ICredencialRepository.cs": {
+    "mtime": 1788182156.0418782,
+    "seen": 1788704699.4427512,
+    "ast_hash": "e42b83bbc618376c71e2aa72975ccb34",
+    "semantic_hash": "e42b83bbc618376c71e2aa72975ccb34"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Repositories/IErrorLogRepository.cs": {
+    "mtime": 1788182156.0418782,
+    "seen": 1788704699.442752,
+    "ast_hash": "5f4c54ff7730dfb83521c38ca955e036",
+    "semantic_hash": "5f4c54ff7730dfb83521c38ca955e036"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Repositories/ITenantFirebaseConfigRepository.cs": {
+    "mtime": 1788182156.0418782,
+    "seen": 1788704699.442753,
+    "ast_hash": "4faeefac81cbe0c87d56311c05ca3e70",
+    "semantic_hash": "4faeefac81cbe0c87d56311c05ca3e70"
+  },
+  "Api.Web.ServiciosFinancieros/Data/Repositories/TenantFirebaseConfigRepository.cs": {
+    "mtime": 1788182156.0418782,
+    "seen": 1788704699.4427538,
+    "ast_hash": "31d80e792407a6210032569fa53c7bfe",
+    "semantic_hash": "31d80e792407a6210032569fa53c7bfe"
+  },
+  "Api.Web.ServiciosFinancieros/Models/AuthTokenRequest.cs": {
+    "mtime": 1788182156.0423512,
+    "seen": 1788704699.4427545,
+    "ast_hash": "db2f1a758f5c1eab7c40fe39eca82b8c",
+    "semantic_hash": "db2f1a758f5c1eab7c40fe39eca82b8c"
+  },
+  "Api.Web.ServiciosFinancieros/Models/AuthTokenResponse.cs": {
+    "mtime": 1788182156.0449584,
+    "seen": 1788704699.4427557,
+    "ast_hash": "e4e4a294a8f68b44cb218bbbd669e58d",
+    "semantic_hash": "e4e4a294a8f68b44cb218bbbd669e58d"
+  },
+  "Api.Web.ServiciosFinancieros/Models/DynamicsFetchXmlPagedResult.cs": {
+    "mtime": 1788182156.0449584,
+    "seen": 1788704699.4427567,
+    "ast_hash": "d74e94b93f4a9d9a3b39121c569c7e60",
+    "semantic_hash": "d74e94b93f4a9d9a3b39121c569c7e60"
+  },
+  "Api.Web.ServiciosFinancieros/Models/ErrorLog.cs": {
+    "mtime": 1788182156.0449584,
+    "seen": 1788704699.4427576,
+    "ast_hash": "9dd083a1d7ebb7ec70ada2096e87b5c9",
+    "semantic_hash": "9dd083a1d7ebb7ec70ada2096e87b5c9"
+  },
+  "Api.Web.ServiciosFinancieros/Models/FetchXmlPagedRequest.cs": {
+    "mtime": 1788182156.0449584,
+    "seen": 1788704699.4427586,
+    "ast_hash": "608fb2131b00265126a704471a17e8bf",
+    "semantic_hash": "608fb2131b00265126a704471a17e8bf"
+  },
+  "Api.Web.ServiciosFinancieros/Models/FetchXmlPagedResponse.cs": {
+    "mtime": 1788182156.0449584,
+    "seen": 1788704699.4427595,
+    "ast_hash": "0cae689167f013ccac2c69cc21019359",
+    "semantic_hash": "0cae689167f013ccac2c69cc21019359"
+  },
+  "Api.Web.ServiciosFinancieros/Models/FetchXmlRequest.cs": {
+    "mtime": 1788182156.0463512,
+    "seen": 1788704699.4427602,
+    "ast_hash": "7b06f3e864cce1805ed26ee53df8a937",
+    "semantic_hash": "7b06f3e864cce1805ed26ee53df8a937"
+  },
+  "Api.Web.ServiciosFinancieros/Models/JwtOptions.cs": {
+    "mtime": 1788182156.0463512,
+    "seen": 1788704699.4427612,
+    "ast_hash": "204daed7d9d2e88087af8c07d3c18731",
+    "semantic_hash": "204daed7d9d2e88087af8c07d3c18731"
+  },
+  "Api.Web.ServiciosFinancieros/Models/RecaptchaResponse.cs": {
+    "mtime": 1788182156.0463512,
+    "seen": 1788704699.442762,
+    "ast_hash": "ec070a600b59723def5db65425f01c1b",
+    "semantic_hash": "ec070a600b59723def5db65425f01c1b"
+  },
+  "Api.Web.ServiciosFinancieros/Models/SearchModels.cs": {
+    "mtime": 1788182156.0463512,
+    "seen": 1788704699.442763,
+    "ast_hash": "a08391e9725728631c6084d3def78105",
+    "semantic_hash": "a08391e9725728631c6084d3def78105"
+  },
+  "Api.Web.ServiciosFinancieros/Models/TenantContext.cs": {
+    "mtime": 1788182156.0463512,
+    "seen": 1788704699.4427638,
+    "ast_hash": "12852365fa1c0662de6769f782c70eb2",
+    "semantic_hash": "12852365fa1c0662de6769f782c70eb2"
+  },
+  "Api.Web.ServiciosFinancieros/Models/TenantCredencial.cs": {
+    "mtime": 1788182156.0463512,
+    "seen": 1788704699.4427648,
+    "ast_hash": "9b1bdb196d5fb6e5ed45303a56c9f5c4",
+    "semantic_hash": "9b1bdb196d5fb6e5ed45303a56c9f5c4"
+  },
+  "Api.Web.ServiciosFinancieros/Models/TenantFirebaseConfig.cs": {
+    "mtime": 1788182156.0503514,
+    "seen": 1788704699.4427655,
+    "ast_hash": "162a30f48d2a7fad660b8aba433c0e15",
+    "semantic_hash": "162a30f48d2a7fad660b8aba433c0e15"
+  },
+  "Api.Web.ServiciosFinancieros/Program.cs": {
+    "mtime": 1788182156.0503514,
+    "seen": 1788704699.4427667,
+    "ast_hash": "5ca973bcc3273ad4613a3e8bf775e2a1",
+    "semantic_hash": "5ca973bcc3273ad4613a3e8bf775e2a1"
+  },
+  "Api.Web.ServiciosFinancieros/Properties/launchSettings.json": {
+    "mtime": 1788182156.0503514,
+    "seen": 1788704699.4427674,
+    "ast_hash": "20ea1e6005bcc2bbcd62711f84c0b576",
+    "semantic_hash": "20ea1e6005bcc2bbcd62711f84c0b576"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/DynamicsClient.cs": {
+    "mtime": 1788182156.0543513,
+    "seen": 1788704699.442768,
+    "ast_hash": "979cd3049a1d099ecf28abf2bfc9097a",
+    "semantic_hash": "979cd3049a1d099ecf28abf2bfc9097a"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/DynamicsTokenService.cs": {
+    "mtime": 1788182156.0575454,
+    "seen": 1788704699.442769,
+    "ast_hash": "cf77808874a1e598f9d611a569559225",
+    "semantic_hash": "cf77808874a1e598f9d611a569559225"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/EntitySecurityRule.cs": {
+    "mtime": 1788182156.0575454,
+    "seen": 1788704699.44277,
+    "ast_hash": "707369da434b4b6d50e330a2d1451728",
+    "semantic_hash": "707369da434b4b6d50e330a2d1451728"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/FetchMeta.cs": {
+    "mtime": 1788182156.0575454,
+    "seen": 1788704699.4427707,
+    "ast_hash": "4931fc3c761f4a6aa9757faccb1bbe93",
+    "semantic_hash": "4931fc3c761f4a6aa9757faccb1bbe93"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/FetchXmlSafeBuilder.cs": {
+    "mtime": 1788182156.0575454,
+    "seen": 1788704699.4427714,
+    "ast_hash": "af72ed5b8fa12d0964bc54693ce500c3",
+    "semantic_hash": "af72ed5b8fa12d0964bc54693ce500c3"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/FieldSecurityRule.cs": {
+    "mtime": 1788182156.0583513,
+    "seen": 1788704699.4427724,
+    "ast_hash": "cc1eeb646d33816d01c3dcd973c6905a",
+    "semantic_hash": "cc1eeb646d33816d01c3dcd973c6905a"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/FirestoreUserContextResolver.cs": {
+    "mtime": 1788182156.0583513,
+    "seen": 1788704699.4427733,
+    "ast_hash": "196b2b3700d99bac0fa5c6794f357cee",
+    "semantic_hash": "196b2b3700d99bac0fa5c6794f357cee"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/HealthChecks/DatabaseHealthCheck.cs": {
+    "mtime": 1788182156.0583513,
+    "seen": 1788704699.442774,
+    "ast_hash": "dc9a14323f6ee9383805ae550c572952",
+    "semantic_hash": "dc9a14323f6ee9383805ae550c572952"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/HealthChecks/DynamicsHealthCheck.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.442775,
+    "ast_hash": "6bda22752cde09f6d9abb35303ea430c",
+    "semantic_hash": "6bda22752cde09f6d9abb35303ea430c"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/HealthChecks/FirebaseHealthCheck.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.4427757,
+    "ast_hash": "cd4c1f976863634453827fb068a7effd",
+    "semantic_hash": "cd4c1f976863634453827fb068a7effd"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/HealthChecks/FirestoreHealthCheck.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.4427767,
+    "ast_hash": "ae9156ef11adf519149ffc16db2b6e30",
+    "semantic_hash": "ae9156ef11adf519149ffc16db2b6e30"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/HealthChecks/HealthCheckResponseWriter.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.4427774,
+    "ast_hash": "0870b4a510b14443fc908bc894990935",
+    "semantic_hash": "0870b4a510b14443fc908bc894990935"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/IDynamicsClient.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.442778,
+    "ast_hash": "915c52528e66f4cff49d44da139d67eb",
+    "semantic_hash": "915c52528e66f4cff49d44da139d67eb"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/IDynamicsTokenService.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.442779,
+    "ast_hash": "a36bf6550683b4e76994b6743528ab4c",
+    "semantic_hash": "a36bf6550683b4e76994b6743528ab4c"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/IUserContextResolver.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.44278,
+    "ast_hash": "543a0a1898a8bb36f37ea72a49d392f1",
+    "semantic_hash": "543a0a1898a8bb36f37ea72a49d392f1"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/IdentityBinding.cs": {
+    "mtime": 1788182156.061438,
+    "seen": 1788704699.4427807,
+    "ast_hash": "92668db0e53f4ec53357215eb6f9165a",
+    "semantic_hash": "92668db0e53f4ec53357215eb6f9165a"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/MetaRegistry.cs": {
+    "mtime": 1788182156.0623512,
+    "seen": 1788704699.4427814,
+    "ast_hash": "c5465a20952437cec11ca7a9cff416b4",
+    "semantic_hash": "c5465a20952437cec11ca7a9cff416b4"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/RateLimiting/IRateLimitService.cs": {
+    "mtime": 1788182156.0623512,
+    "seen": 1788704699.4427824,
+    "ast_hash": "658d55c433aefe19b3fcc632c15333b8",
+    "semantic_hash": "658d55c433aefe19b3fcc632c15333b8"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/RateLimiting/RateLimitResult.cs": {
+    "mtime": 1788182156.0652685,
+    "seen": 1788704699.4427836,
+    "ast_hash": "98888ffcc61c263e6eaca3946df8d813",
+    "semantic_hash": "98888ffcc61c263e6eaca3946df8d813"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/RateLimiting/RateLimitService.cs": {
+    "mtime": 1788182156.0652685,
+    "seen": 1788704699.4427843,
+    "ast_hash": "0e5e0d164dad14502c1eb118372ac7a1",
+    "semantic_hash": "0e5e0d164dad14502c1eb118372ac7a1"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/SearchSecurityEnforcer.cs": {
+    "mtime": 1788182156.0652685,
+    "seen": 1788704699.442785,
+    "ast_hash": "61dc1c90113a4923d94033fb558cfe3b",
+    "semantic_hash": "61dc1c90113a4923d94033fb558cfe3b"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/SecurityRegistry.cs": {
+    "mtime": 1788182156.0652685,
+    "seen": 1788704699.4427857,
+    "ast_hash": "1b054d9cfeb6fd52d7d9a045c39fa869",
+    "semantic_hash": "1b054d9cfeb6fd52d7d9a045c39fa869"
+  },
+  "Api.Web.ServiciosFinancieros/Servicios/UserContext.cs": {
+    "mtime": 1788182156.0652685,
+    "seen": 1788704699.4427865,
+    "ast_hash": "236d075b6333962755f85c67fe601abf",
+    "semantic_hash": "236d075b6333962755f85c67fe601abf"
+  },
+  "Api.Web.ServiciosFinancieros/WeatherForecast.cs": {
+    "mtime": 1788182156.0663512,
+    "seen": 1788704699.442788,
+    "ast_hash": "abb172ad2ef1a457221d676c528c214e",
+    "semantic_hash": "abb172ad2ef1a457221d676c528c214e"
+  },
+  "Api.Web.ServiciosFinancieros/appsettings.TEMPLATE.json": {
+    "mtime": 1788182156.0663512,
+    "seen": 1788704699.4427886,
+    "ast_hash": "eefc619206a8b2ceaf900c36e97ff9f7",
+    "semantic_hash": "eefc619206a8b2ceaf900c36e97ff9f7"
+  },
+  "Api.Web.ServiciosFinancieros/appsettings.json": {
+    "mtime": 1788182156.0663512,
+    "seen": 1788704699.4427893,
+    "ast_hash": "cdb2d839a9b34e13dde625f3f60d0546",
+    "semantic_hash": "cdb2d839a9b34e13dde625f3f60d0546"
+  },
+  "Api.Web.ServiciosFinancieros/docs/database/ErrorLog_AlterTraceId.sql": {
+    "mtime": 1788182156.0716805,
+    "seen": 1788704699.4427905,
+    "ast_hash": "f47fd5502127333174200b69cc678207",
+    "semantic_hash": "f47fd5502127333174200b69cc678207"
+  },
+  "Api.Web.ServiciosFinancieros/docs/database/TenantFirebaseConfig.sql": {
+    "mtime": 1788182156.0741725,
+    "seen": 1788704699.4427915,
+    "ast_hash": "8f6626c792e4f4ea7746b6beb44baf3f",
+    "semantic_hash": "8f6626c792e4f4ea7746b6beb44baf3f"
+  },
+  "EncryptionHelper/EncryptionHelper.csproj": {
+    "mtime": 1788182156.0743513,
+    "seen": 1788704699.4427924,
+    "ast_hash": "9980de0fa09ae75ab96db12544fa7684",
+    "semantic_hash": "9980de0fa09ae75ab96db12544fa7684"
+  },
+  "EncryptionHelper/Program.cs": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4427934,
+    "ast_hash": "f300e1d3730a497dd8963113db421c64",
+    "semantic_hash": "f300e1d3730a497dd8963113db421c64"
+  },
+  "generate-docx.mjs": {
+    "mtime": 1788182156.0787733,
+    "seen": 1788704699.4427943,
+    "ast_hash": "46444e4eaefffd255191bbdf3e6caf6f",
+    "semantic_hash": "46444e4eaefffd255191bbdf3e6caf6f"
+  },
+  "package.json": {
+    "mtime": 1788182156.0787733,
+    "seen": 1788704699.442795,
+    "ast_hash": "566c8c8e760374e1965e5cec587ea310",
+    "semantic_hash": "566c8c8e760374e1965e5cec587ea310"
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1788703509.206891,
+    "seen": 1788704699.4428017,
+    "ast_hash": "9b31786b637be3c13978bec4c2330752",
+    "semantic_hash": "9b31786b637be3c13978bec4c2330752"
+  },
+  ".claude/commands/review-code.md": {
+    "mtime": 1788182155.6668947,
+    "seen": 1788704699.4428027,
+    "ast_hash": "404697aca7d1948179c5fcdcec9a2821",
+    "semantic_hash": "404697aca7d1948179c5fcdcec9a2821"
+  },
+  ".claude/commands/review-security.md": {
+    "mtime": 1788182155.6698103,
+    "seen": 1788704699.4428034,
+    "ast_hash": "71d6b6307cf5dcbd370b38f26d985617",
+    "semantic_hash": "71d6b6307cf5dcbd370b38f26d985617"
+  },
+  ".claude/commands/scaffold-dbcontext.md": {
+    "mtime": 1788182155.6698103,
+    "seen": 1788704699.4428046,
+    "ast_hash": "10b74a833dc43f4a2bd347004355bfe8",
+    "semantic_hash": "10b74a833dc43f4a2bd347004355bfe8"
+  },
+  ".claude/hooks/post-generate.md": {
+    "mtime": 1788182155.6703513,
+    "seen": 1788704699.4428055,
+    "ast_hash": "d15ce41449d47d6e396ec086af6c4c6b",
+    "semantic_hash": "d15ce41449d47d6e396ec086af6c4c6b"
+  },
+  ".claude/hooks/pre-commit.md": {
+    "mtime": 1788182155.6703513,
+    "seen": 1788704699.4428065,
+    "ast_hash": "aa3cf397259feddbcf435fac8694a41a",
+    "semantic_hash": "aa3cf397259feddbcf435fac8694a41a"
+  },
+  ".claude/skills/azure-integration.md": {
+    "mtime": 1788182155.6703513,
+    "seen": 1788704699.4428072,
+    "ast_hash": "f4cf5b5c70239cb2d8747b6413a4b07b",
+    "semantic_hash": "f4cf5b5c70239cb2d8747b6413a4b07b"
+  },
+  ".claude/skills/dotnet-coding-standards.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.4428086,
+    "ast_hash": "180b330dfaf9e79a52c421c6defdcd18",
+    "semantic_hash": "180b330dfaf9e79a52c421c6defdcd18"
+  },
+  ".claude/skills/dotnet-security.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.4428093,
+    "ast_hash": "1947eaa63ccfd68790c864b8ebe803e3",
+    "semantic_hash": "1947eaa63ccfd68790c864b8ebe803e3"
+  },
+  ".claude/skills/dynamics-integration.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.4428103,
+    "ast_hash": "99e485872aed09be4d56433f568134bc",
+    "semantic_hash": "99e485872aed09be4d56433f568134bc"
+  },
+  ".claude/skills/ef-core-patterns.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.4428115,
+    "ast_hash": "57085312b45c939d3cf43dc86d6e0af0",
+    "semantic_hash": "57085312b45c939d3cf43dc86d6e0af0"
+  },
+  ".claude/skills/error-handling.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.4428122,
+    "ast_hash": "248f3ca8787d9f05196009079025a4c6",
+    "semantic_hash": "248f3ca8787d9f05196009079025a4c6"
+  },
+  ".claude/skills/financia-architecture.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.442813,
+    "ast_hash": "0b86ce2819efe5d54ac3ea0ce09acd1a",
+    "semantic_hash": "0b86ce2819efe5d54ac3ea0ce09acd1a"
+  },
+  ".claude/skills/financia-integrations.md": {
+    "mtime": 1788703481.3565094,
+    "seen": 1788704699.4428139,
+    "ast_hash": "da557e9e1480f3ac2f9f94ebc8a35225",
+    "semantic_hash": "da557e9e1480f3ac2f9f94ebc8a35225"
+  },
+  ".claude/skills/financia-security.md": {
+    "mtime": 1788182155.6756592,
+    "seen": 1788704699.442815,
+    "ast_hash": "8065cee883cfbee12ac1ce2a94ffa5ba",
+    "semantic_hash": "8065cee883cfbee12ac1ce2a94ffa5ba"
+  },
+  ".claude/skills/graphify/SKILL.md": {
+    "mtime": 1788703509.2066145,
+    "seen": 1788704699.4428158,
+    "ast_hash": "1656a8a8e4a05bbe69f32cd15de81e87",
+    "semantic_hash": "1656a8a8e4a05bbe69f32cd15de81e87"
+  },
+  ".claude/skills/graphify/references/add-watch.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.4428167,
+    "ast_hash": "d59d027fe449f06aa03905a01184e779",
+    "semantic_hash": "d59d027fe449f06aa03905a01184e779"
+  },
+  ".claude/skills/graphify/references/exports.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.4428174,
+    "ast_hash": "9da2a2152e60a22f07f05fed5158f287",
+    "semantic_hash": "9da2a2152e60a22f07f05fed5158f287"
+  },
+  ".claude/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.4428186,
+    "ast_hash": "42fef56a01698118f7fd722acdadea34",
+    "semantic_hash": "42fef56a01698118f7fd722acdadea34"
+  },
+  ".claude/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.4428194,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": "cde13df085e4c492aeb7ba298a996d0d"
+  },
+  ".claude/skills/graphify/references/hooks.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.44282,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": "3f545db6ce646650bb9de588f5512a27"
+  },
+  ".claude/skills/graphify/references/query.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.4428208,
+    "ast_hash": "3c46f8ad006874260614ed8657d02307",
+    "semantic_hash": "3c46f8ad006874260614ed8657d02307"
+  },
+  ".claude/skills/graphify/references/transcribe.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.442822,
+    "ast_hash": "67b6a5fa6c0974e18f60db9f8932fbd8",
+    "semantic_hash": "67b6a5fa6c0974e18f60db9f8932fbd8"
+  },
+  ".claude/skills/graphify/references/update.md": {
+    "mtime": 1788703495.148509,
+    "seen": 1788704699.4428227,
+    "ast_hash": "9378bd03d56baaf78bd738ab3848f142",
+    "semantic_hash": "9378bd03d56baaf78bd738ab3848f142"
+  },
+  ".claude/skills/multi-tenant-bff.md": {
+    "mtime": 1788182155.6783514,
+    "seen": 1788704699.4428234,
+    "ast_hash": "38736a3c677d233fd21a6af4b5ff5a6e",
+    "semantic_hash": "38736a3c677d233fd21a6af4b5ff5a6e"
+  },
+  ".claude/tools/add-tenant-feature.md": {
+    "mtime": 1788182155.6783514,
+    "seen": 1788704699.4428244,
+    "ast_hash": "1add12f3966dd6d34a72282453857983",
+    "semantic_hash": "1add12f3966dd6d34a72282453857983"
+  },
+  ".claude/tools/scaffold-controller.md": {
+    "mtime": 1788182155.6822586,
+    "seen": 1788704699.4428256,
+    "ast_hash": "9e3360bd7d9cd1dba8ffb1da9f48ebfa",
+    "semantic_hash": "9e3360bd7d9cd1dba8ffb1da9f48ebfa"
+  },
+  ".claude/tools/scaffold-service.md": {
+    "mtime": 1788182155.6822586,
+    "seen": 1788704699.4428263,
+    "ast_hash": "866fa3cd6ed36e53b7c3714c6068f969",
+    "semantic_hash": "866fa3cd6ed36e53b7c3714c6068f969"
+  },
+  ".github/workflows/ci.yml": {
+    "mtime": 1788182155.6855886,
+    "seen": 1788704699.442827,
+    "ast_hash": "3bfde341c2e6d5f054657d8efb09027e",
+    "semantic_hash": "3bfde341c2e6d5f054657d8efb09027e"
+  },
+  ".github/workflows/deploy.yml": {
+    "mtime": 1788705689.280459,
+    "seen": 1788706149.402433,
+    "ast_hash": "f004b913910040f2adcba1425149cebe",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Assets/Fonts/DMSans-OFL.txt": {
+    "mtime": 1788182155.7903514,
+    "seen": 1788704699.442829,
+    "ast_hash": "3e5f1686e2c3190911a2224276866243",
+    "semantic_hash": "3e5f1686e2c3190911a2224276866243"
+  },
+  "Api.Web.FinanceIA/Assets/Fonts/JetBrainsMono-OFL.txt": {
+    "mtime": 1788182155.7903514,
+    "seen": 1788704699.4428298,
+    "ast_hash": "2025a2ee80175b15561a8232e67d74d5",
+    "semantic_hash": "2025a2ee80175b15561a8232e67d74d5"
+  },
+  "Api.Web.FinanceIA/Assets/Fonts/Sora-OFL.txt": {
+    "mtime": 1788182155.8023512,
+    "seen": 1788704699.4428306,
+    "ast_hash": "c169dc30d212931222c3a8e2eb5d1458",
+    "semantic_hash": "c169dc30d212931222c3a8e2eb5d1458"
+  },
+  "Api.Web.FinanceIA/MISTAKES.md": {
+    "mtime": 1788182155.8743513,
+    "seen": 1788704699.4428313,
+    "ast_hash": "8f2251ed5d4ab2e0f9b8cc5016442327",
+    "semantic_hash": "8f2251ed5d4ab2e0f9b8cc5016442327"
+  },
+  "Api.Web.FinanceIA/README.md": {
+    "mtime": 1788182155.9343512,
+    "seen": 1788704699.4428325,
+    "ast_hash": "20423e84504d62a19f92f85ab1a28b14",
+    "semantic_hash": "20423e84504d62a19f92f85ab1a28b14"
+  },
+  "Api.Web.FinanceIA/docs/architecture/README.md": {
+    "mtime": 1788182155.9832344,
+    "seen": 1788704699.4428332,
+    "ast_hash": "950ebfd93a39bdf06d927d60bfc795be",
+    "semantic_hash": "950ebfd93a39bdf06d927d60bfc795be"
+  },
+  "Api.Web.FinanceIA/docs/database/README.md": {
+    "mtime": 1788703481.4605093,
+    "seen": 1788704699.442834,
+    "ast_hash": "b96b7bc0d34abd5ced06f573bed19276",
+    "semantic_hash": "b96b7bc0d34abd5ced06f573bed19276"
+  },
+  "Api.Web.FinanceIA/docs/database/default-db/README.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428349,
+    "ast_hash": "fbbf37b6d6c0f7d584c302c993a0e736",
+    "semantic_hash": "fbbf37b6d6c0f7d584c302c993a0e736"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/011_exportlogs_add_template.md": {
+    "mtime": 1788182156.0063512,
+    "seen": 1788704699.4428358,
+    "ast_hash": "4fcf2845c56651134c4eebf33e85f06a",
+    "semantic_hash": "4fcf2845c56651134c4eebf33e85f06a"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/018_analysisresults_add_scoringnarrative.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.442837,
+    "ast_hash": "0de0f711674b0e99a4c2c334d2b72dc7",
+    "semantic_hash": "0de0f711674b0e99a4c2c334d2b72dc7"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/038_alert_rule_catalogue.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.442838,
+    "ast_hash": "bc5b9cdeb1c01c867b3c1b8112885359",
+    "semantic_hash": "bc5b9cdeb1c01c867b3c1b8112885359"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/039_analysisresults_add_enrichment_status.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.4428387,
+    "ast_hash": "8b8216fc73eb0e7ee0c2696f1be1803e",
+    "semantic_hash": "8b8216fc73eb0e7ee0c2696f1be1803e"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/040_creditlineoperations_add_vigencia_audit.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.4428396,
+    "ast_hash": "21647782d5747e6131fe437257ca0c28",
+    "semantic_hash": "21647782d5747e6131fe437257ca0c28"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/041_creditlineoperations_add_cancellation_audit.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.4428406,
+    "ast_hash": "081cd3699cfe86a6940dc534f9f4997a",
+    "semantic_hash": "081cd3699cfe86a6940dc534f9f4997a"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/042_entities_add_nosisdatajson.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.4428413,
+    "ast_hash": "40221af0daf9dcc55b4636029e1d03ab",
+    "semantic_hash": "40221af0daf9dcc55b4636029e1d03ab"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/044_analysisresults_add_tenant_generatedat_index.md": {
+    "mtime": 1788182156.011094,
+    "seen": 1788704699.442842,
+    "ast_hash": "76a9f1a249a42bea182701a752063025",
+    "semantic_hash": "76a9f1a249a42bea182701a752063025"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/045_entities_add_tenant_createdat_index.md": {
+    "mtime": 1788182156.0143514,
+    "seen": 1788704699.442843,
+    "ast_hash": "dc91e393215c56868f45ee393ac3b68e",
+    "semantic_hash": "dc91e393215c56868f45ee393ac3b68e"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/050_documents_add_extraction_attempts.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428437,
+    "ast_hash": "ac589eec780e04bafa6bec8bc10d0e31",
+    "semantic_hash": "ac589eec780e04bafa6bec8bc10d0e31"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/051_tenantbillingconfig_add_chatcontextbudget.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428446,
+    "ast_hash": "df18b914c208105c7dd0bf711ce94dce",
+    "semantic_hash": "df18b914c208105c7dd0bf711ce94dce"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/052_tenantbillingconfig_add_chatenabledmodels.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428453,
+    "ast_hash": "9336bc21db8a62bd45a627cd3a111151",
+    "semantic_hash": "9336bc21db8a62bd45a627cd3a111151"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/053_chatmessages_add_hadattachment.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428465,
+    "ast_hash": "2d4716f8fd1528f2bcad2bd1b81c3bfb",
+    "semantic_hash": "2d4716f8fd1528f2bcad2bd1b81c3bfb"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/054_mfa_backup_codes.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428473,
+    "ast_hash": "857b0b279bd8da3b2b0f8bd095a86ab2",
+    "semantic_hash": "857b0b279bd8da3b2b0f8bd095a86ab2"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/055_chatmessages_add_attachmentmarkdown.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.442848,
+    "ast_hash": "75ef6b0e21f797c1b9ec7c188a69d9d1",
+    "semantic_hash": "75ef6b0e21f797c1b9ec7c188a69d9d1"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/056_chatmessages_add_attachmentfilename.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428487,
+    "ast_hash": "6f1545d80f34105da81330ca5a0d4261",
+    "semantic_hash": "6f1545d80f34105da81330ca5a0d4261"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/057_creditlineoperations_add_condition_flags.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428496,
+    "ast_hash": "cd93a8376268677db159dacc8120b505",
+    "semantic_hash": "cd93a8376268677db159dacc8120b505"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/058_analyses_add_preapproval_columns.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428506,
+    "ast_hash": "b1406b6d262b6bc19f0ea21edb963f8d",
+    "semantic_hash": "b1406b6d262b6bc19f0ea21edb963f8d"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/059_user_approval_limits.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428513,
+    "ast_hash": "85c4853be7804aaaf0e2198cf51ecdac",
+    "semantic_hash": "85c4853be7804aaaf0e2198cf51ecdac"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/060_analyses_status_add_preapproved.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.442852,
+    "ast_hash": "5cd6dbafd0a8ce14b39b488b162a51e0",
+    "semantic_hash": "5cd6dbafd0a8ce14b39b488b162a51e0"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/default-db-001_mfa_backup_codes.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.442853,
+    "ast_hash": "f084db2923e22dd29c4bc211b9d01eec",
+    "semantic_hash": "f084db2923e22dd29c4bc211b9d01eec"
+  },
+  "Api.Web.FinanceIA/docs/db-changes/default-db-002_tenantfirebaseconfig_add_webapikey.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.442854,
+    "ast_hash": "24406be5377bac0f702cbc5807b01c2e",
+    "semantic_hash": "24406be5377bac0f702cbc5807b01c2e"
+  },
+  "Api.Web.FinanceIA/docs/frontend/mfa-backup-code-login.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.4428546,
+    "ast_hash": "81df5345ccfced2bdaee21c31054cd04",
+    "semantic_hash": "81df5345ccfced2bdaee21c31054cd04"
+  },
+  "Api.Web.FinanceIA/docs/guides/setup.md": {
+    "mtime": 1788182156.0143514,
+    "seen": 1788704699.4428554,
+    "ast_hash": "b711a23b18191ee58c3acae59a223665",
+    "semantic_hash": "b711a23b18191ee58c3acae59a223665"
+  },
+  "Api.Web.FinanceIA/docs/guides/tenant-profile.md": {
+    "mtime": 1788703481.4685867,
+    "seen": 1788704699.442856,
+    "ast_hash": "0ae92137c12e27c1ead3a806a3b35921",
+    "semantic_hash": "0ae92137c12e27c1ead3a806a3b35921"
+  },
+  "Api.Web.FinanceIA/template-usage.md": {
+    "mtime": 1788182156.0143514,
+    "seen": 1788704699.4428573,
+    "ast_hash": "03532f7ad779e5a87c6a482ed07899ca",
+    "semantic_hash": "03532f7ad779e5a87c6a482ed07899ca"
+  },
+  "Api.Web.ServiciosFinancieros/CLAUDE.md": {
+    "mtime": 1788182156.0215163,
+    "seen": 1788704699.442858,
+    "ast_hash": "fe184cf2178e2b028ce1e29ed6c3b7ea",
+    "semantic_hash": "fe184cf2178e2b028ce1e29ed6c3b7ea"
+  },
+  "Api.Web.ServiciosFinancieros/MISTAKES.md": {
+    "mtime": 1788182156.0418782,
+    "seen": 1788704699.442859,
+    "ast_hash": "8f2251ed5d4ab2e0f9b8cc5016442327",
+    "semantic_hash": "8f2251ed5d4ab2e0f9b8cc5016442327"
+  },
+  "Api.Web.ServiciosFinancieros/README.md": {
+    "mtime": 1788182156.0503514,
+    "seen": 1788704699.44286,
+    "ast_hash": "a7b94fea615d3d05251eff8810face0d",
+    "semantic_hash": "a7b94fea615d3d05251eff8810face0d"
+  },
+  "Api.Web.ServiciosFinancieros/docs/architecture/README.md": {
+    "mtime": 1788182156.0716805,
+    "seen": 1788704699.4428606,
+    "ast_hash": "c7f1d768435a0f0006005aaffde2307d",
+    "semantic_hash": "c7f1d768435a0f0006005aaffde2307d"
+  },
+  "Api.Web.ServiciosFinancieros/docs/database/README.md": {
+    "mtime": 1788182156.0741725,
+    "seen": 1788704699.4428616,
+    "ast_hash": "0231371630da791f32b845387abf67db",
+    "semantic_hash": "0231371630da791f32b845387abf67db"
+  },
+  "Api.Web.ServiciosFinancieros/docs/guides/setup.md": {
+    "mtime": 1788182156.0741725,
+    "seen": 1788704699.4428623,
+    "ast_hash": "66b1b02e743f142b469db6e9d4035b64",
+    "semantic_hash": "66b1b02e743f142b469db6e9d4035b64"
+  },
+  "Api.Web.ServiciosFinancieros/template-usage.md": {
+    "mtime": 1788182156.0741725,
+    "seen": 1788704699.442863,
+    "ast_hash": "5f6eb7b200455dc527d015f685ed71c8",
+    "semantic_hash": "5f6eb7b200455dc527d015f685ed71c8"
+  },
+  "CLAUDE.md": {
+    "mtime": 1788705848.6044552,
+    "seen": 1788706149.4024782,
+    "ast_hash": "8acaa9653054d70bfd1bc0cfb2988fda",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1788705698.2964587,
+    "seen": 1788706149.4024794,
+    "ast_hash": "77532d76b2e327f957e310e5f32a3978",
+    "semantic_hash": ""
+  },
+  "docs/tasks/claude-md-reconcile.md": {
+    "mtime": 1788182156.0787733,
+    "seen": 1788704699.4428656,
+    "ast_hash": "ed2097f4d0c1de89898316755f909769",
+    "semantic_hash": "ed2097f4d0c1de89898316755f909769"
+  },
+  "Api.Web.FinanceIA.Tests/Clases/SchemaComparerTests.cs": {
+    "mtime": 1788705521.7084627,
+    "seen": 1788706149.4015553,
+    "ast_hash": "cfd4d8026844a554ef51592c501754cc",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA.Tests/Clases/SchemaExpectationTests.cs": {
+    "mtime": 1788705625.8924603,
+    "seen": 1788706149.4015574,
+    "ast_hash": "926277713610e51779dd15abcdf85cfc",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/ExpectedTable.cs": {
+    "mtime": 1788705271.4324684,
+    "seen": 1788706149.4017835,
+    "ast_hash": "a62ca4868a6f988fcbd5106015cd16aa",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/MissingColumn.cs": {
+    "mtime": 1788705302.4644678,
+    "seen": 1788706149.401785,
+    "ast_hash": "234d22accf99d8f3adf71ad9e13e90fa",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/SchemaComparer.cs": {
+    "mtime": 1788705318.1804674,
+    "seen": 1788706149.4017859,
+    "ast_hash": "7e2c6647d6259c0fa0bb9d6a9fd3d4dd",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/SchemaExpectation.cs": {
+    "mtime": 1788705515.432463,
+    "seen": 1788706149.4017866,
+    "ast_hash": "06d7d0cccb58c6df7951283d25cf92cf",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/SchemaSnapshot.cs": {
+    "mtime": 1788705296.800468,
+    "seen": 1788706149.4017878,
+    "ast_hash": "927b2b91b49df113f5c943f3882bf982",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/SchemaVerificationCommand.cs": {
+    "mtime": 1788706002.6804516,
+    "seen": 1788706149.401789,
+    "ast_hash": "10898f2a7bce1fdfad48e511a918832a",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/SchemaVerificationResult.cs": {
+    "mtime": 1788705309.8524675,
+    "seen": 1788706149.4017897,
+    "ast_hash": "b68290d5bd6ef317b23a8fb24840cf99",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/Clases/SchemaVerification/SqlSchemaReader.cs": {
+    "mtime": 1788705328.644467,
+    "seen": 1788706149.4017909,
+    "ast_hash": "1121cfe63fe1bc976c76bd9e3953a250",
+    "semantic_hash": ""
+  },
+  "Api.Web.FinanceIA/docs/guides/schema-verification.md": {
+    "mtime": 1788705741.1964576,
+    "seen": 1788706149.402467,
+    "ast_hash": "36b2463b35b8b006bc183ae804983d59",
+    "semantic_hash": ""
+  }
+}

@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Api.Web.FinanceIA.Tests/Api.Web.FinanceIA.Tests.csproj" />
+  <Project Path="Api.Web.FinanceIA/Api.Web.FinanceIA.csproj" />
+  <Project Path="Api.Web.ServiciosFinancieros/Api.Web.ServiciosFinancieros.csproj" />
+</Solution>

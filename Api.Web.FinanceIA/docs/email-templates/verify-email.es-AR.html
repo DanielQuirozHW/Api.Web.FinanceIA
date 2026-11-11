@@ -1,0 +1,13 @@
+<!--
+  SendGrid dynamic template — email verification (es-AR).
+  Source of record for the template whose id goes in SendGrid:EmailVerificationTemplateId (global) or
+  TenantSettings email.email_verification.template_id (per tenant). Paste the body into a SendGrid
+  dynamic template ("Code editor") and set the Subject there to:
+      Confirmá tu correo en {{productName}}
+  Dynamic data sent by SendGridEmailService.SendEmailVerificationEmailAsync:
+      productName    "Financia"
+      verifyLink     {portal}/verify-email?mode=verifyEmail&oobCode=…   (live credential)
+  This file is documentation; it is not compiled, published or read at runtime.
+
+  PLACEHOLDER — the HTML body below is to be pasted in. Keep {{productName}} and {{verifyLink}}.
+-->
